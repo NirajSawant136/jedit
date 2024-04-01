@@ -1,0 +1,143 @@
+
+p
+java:S2293Ã
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªØ™ƒ
+p
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(üªøÆ
+u
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò«çøÿÿÿÿ
+`
+java:S1192i"JDefine a constant instead of duplicating this literal "user.home" 4 times.(üÊšõ
+a
+java:S1192ä
+"JDefine a constant instead of duplicating this literal "tools.jar" 3 times.(€ËÈË
+t	java:S135Ó	"YReduce the total number of break and continue statements in this loop to use at most one.(½‚ğ·ÿÿÿÿÿ
+o	java:S135€
+"YReduce the total number of break and continue statements in this loop to use at most one.(ÕíÕ¸
+o	java:S135î"YReduce the total number of break and continue statements in this loop to use at most one.(¤Ô¯£
+n	java:S127ª	"XRefactor the code in order to not assign to this loop counter from within the loop body.(ß‚õÉ
+F
+java:S1066ò"/Merge this if statement with the enclosing one.(ÀŸµ”
+F
+java:S1066ô"/Merge this if statement with the enclosing one.(„¤•Ö
+F
+java:S1066 "/Merge this if statement with the enclosing one.(í×»ì
+Q
+java:S1141Í
+"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+g
+java:S1301¢	"KReplace this "switch" statement by "if" statements to increase readability.(Ë¡‰Áøÿÿÿÿ
+Y
+java:S2259…"BA "NullPointerException" could be thrown; "path" is nullable here.(·âá³
+h
+java:S2259Š"Q"NullPointerException" will be thrown when invoking method "prepareBackupFile()".(¨Ì²™
+^
+java:S2259À"BA "NullPointerException" could be thrown; "path" is nullable here.(Ÿ˜Õ¾ûÿÿÿÿ
+t	java:S115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñèš§üÿÿÿÿ
+n	java:S115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Óßğ
+n	java:S115{"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Âª¹\
+Q	java:S125-"<This block of commented-out lines of code should be removed.(İòó±
+m
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ˆ°ÃÒûÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+^
+java:S6353y"CUse concise character class syntax '\\w' instead of '[a-zA-Z0-9_]'.(Ñèš§üÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(½öî¶
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ñõÛıùÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ù‹’Ïÿÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+L
+java:S1133ˆ"5Do not forget to remove this deprecated code someday.(‡üÚÏ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+c
+java:S1871¯"MThis branch's code block is the same as the block for the branch on line 557.(¸®Ã'
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ˆñ³
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S899é";Do something with the "boolean" value returned by "delete".(¡­¶Š
+e
+java:S4042é"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¡­¶Š
+X	java:S899ö"=Do something with the "boolean" value returned by "renameTo".(ä²Ÿûÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+L
+java:S6397‡"5Replace this character class by the character itself.(šˆ‡Ó
+L
+java:S6397‡"5Replace this character class by the character itself.(šˆ‡Ó
+L
+java:S6397‡"5Replace this character class by the character itself.(šˆ‡Ó
+L
+java:S6397‡"5Replace this character class by the character itself.(šˆ‡Ó
+L
+java:S6397‡"5Replace this character class by the character itself.(šˆ‡Ó
+X
+java:S1126™"AReplace this if-then-else statement by a single return statement.(ÓÎŞá
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125è"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‘	"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125½	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R
+java:S1119Í	";Refactor the code to remove this label and the need for it.(¸ÍôÓ
+R
+java:S1119û	";Refactor the code to remove this label and the need for it.(¸ÍôÓ
+W	java:S125Œ
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125
+"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125¥
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ü
+"<This block of commented-out lines of code should be removed.(²şĞÇ
+W	java:S125İ
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ü
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125™"<This block of commented-out lines of code should be removed.(İòó±
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(è—ÕÉÿÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125»"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ä­›ûÿÿÿÿ
+M
+java:S5261ü"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¶àÎ°
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

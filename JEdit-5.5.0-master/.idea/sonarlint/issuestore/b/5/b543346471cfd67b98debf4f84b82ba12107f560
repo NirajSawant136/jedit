@@ -1,0 +1,24 @@
+
+K
+java:S1066Ø"/Merge this if statement with the enclosing one.(¢—Âùÿÿÿÿ
+F
+java:S1066Û"/Merge this if statement with the enclosing one.(Óæ¸›
+K
+java:S1066æ"/Merge this if statement with the enclosing one.(«„£Ñıÿÿÿÿ
+U
+java:S1118(":Add a private constructor to hide the implicit public one.(¥·ªşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125H"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(­Ï—êıÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+=	java:S131Æ""Add a default case to this switch.(‚ñ’Åøÿÿÿÿ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(İòó±
+=	java:S131""Add a default case to this switch.(ìÃŒüÿÿÿÿ
+R	java:S125›"<This block of commented-out lines of code should be removed.(İòó±
+8	java:S131""Add a default case to this switch.(‹©ş€
+R	java:S125¿"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125È"<This block of commented-out lines of code should be removed.(İòó±
+X
+java:S1128"=Remove this unused import 'org.gjt.sp.jedit.OperatingSystem'.(²í®Äıÿÿÿÿ

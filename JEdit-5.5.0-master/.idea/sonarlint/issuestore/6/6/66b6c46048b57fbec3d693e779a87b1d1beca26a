@@ -1,0 +1,33 @@
+
+o
+java:S2293Ν"YReplace the type specification in this constructor call with the diamond operator ("<>").(΅΅(
+b
+java:S1192‚"FDefine a constant instead of duplicating this literal ".name" 3 times.(“Η††ϋÿÿÿÿ
+d
+java:S1192"HDefine a constant instead of duplicating this literal "plugin." 4 times.(Σ³ΒΑώÿÿÿÿ
+l
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(°Ίÿ»ωÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(έςσ±
+9
+java:S1659F"#Declare "title" on a separate line.(Τΰ¶‘
+V	java:S125>"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125T"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Γ"<This block of commented-out lines of code should be removed.(έςσ±
+Q
+java:S1161Σ":Add the "@Override" annotation above this method signature(ΐΞΘ
+W	java:S125Π"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1161ε":Add the "@Override" annotation above this method signature(ΒρΉ―
+W	java:S125β"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1161ξ":Add the "@Override" annotation above this method signature(Ό–±Κ
+W	java:S125λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

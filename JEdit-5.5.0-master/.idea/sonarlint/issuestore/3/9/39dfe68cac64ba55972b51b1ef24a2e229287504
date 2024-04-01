@@ -1,0 +1,10 @@
+
+Q	java:S125!"<This block of commented-out lines of code should be removed.(İòó±
+m
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ñ¦ÉÔùÿÿÿÿ
+V
+java:S1854/"@Remove this useless assignment to local variable "originalPath".(”Áï
+V	java:S125*"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+G
+java:S1481/"1Remove this unused "originalPath" local variable.(”Áï
+V	java:S125Z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

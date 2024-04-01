@@ -1,0 +1,49 @@
+
+F
+java:S1066Õ"/Merge this if statement with the enclosing one.(şßé»
+=
+java:S1948."'Make "panel" transient or serializable.(ƒş·«
+Q	java:S125&"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125<"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125B"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1161K":Add the "@Override" annotation above this method signature(ıíá¤şÿÿÿÿ
+V	java:S125H"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S1161Q":Add the "@Override" annotation above this method signature(‚Í¶|
+V	java:S125N"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S1161u":Add the "@Override" annotation above this method signature(‚¢›M
+V	java:S125r"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161—":Add the "@Override" annotation above this method signature(Õ¼‘…úÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(ò˜š£ùÿÿÿÿ
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(‘‚Ã£
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+M
+java:S2696­"6Make the enclosing method "static" or remove this set.(â”£
+i
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÔáŞ¬
+Q
+java:S1161³":Add the "@Override" annotation above this method signature(ÔáŞ¬
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161é":Add the "@Override" annotation above this method signature(€³ûª
+W	java:S125æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161¡":Add the "@Override" annotation above this method signature(ñ¤ó
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

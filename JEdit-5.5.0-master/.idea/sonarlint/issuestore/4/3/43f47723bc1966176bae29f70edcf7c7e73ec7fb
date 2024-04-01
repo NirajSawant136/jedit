@@ -1,0 +1,35 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(óõŒÚøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(óõŒÚøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¹£ªÖúÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¹£ªÖúÿÿÿÿ
+F
+java:S3740”"/Provide the parametrized type for this generic.(«Œéš
+F
+java:S3740§"/Provide the parametrized type for this generic.(«Œéš
+K
+java:S3740°"/Provide the parametrized type for this generic.(Â…üÿÿÿÿ
+F
+java:S3740Ğ"/Provide the parametrized type for this generic.(«Œéš
+K
+java:S3740ë"/Provide the parametrized type for this generic.(Â…üÿÿÿÿ
+K
+java:S3740Œ"/Provide the parametrized type for this generic.(Â…üÿÿÿÿ
+d
+java:S1192}"IDefine a constant instead of duplicating this literal "user.dir" 3 times.(øˆ¯Íøÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óõŒÚøÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¹£ªÖúÿÿÿÿ
+v
+java:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ğ“Ö›
+t
+java:S1171("YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+m
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ŸåÈ×ùÿÿÿÿ
+â
+java:S6541x"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 187 to 64, Complexity from 41 to 14, Nesting Level from 4 to 2, Number of Variables from 41 to 6.(ŸåÈ×ùÿÿÿÿ

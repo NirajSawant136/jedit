@@ -1,0 +1,25 @@
+
+E
+java:S3740 "/Provide the parametrized type for this generic.(ŒãÂÈ
+E
+java:S3740 "/Provide the parametrized type for this generic.(ŒãÂÈ
+J
+java:S3740i"/Provide the parametrized type for this generic.(¤Õéæøÿÿÿÿ
+F
+java:S3740€"/Provide the parametrized type for this generic.(çŸ¹ô
+K
+java:S3740¬"/Provide the parametrized type for this generic.(ƒ‹ÖÒûÿÿÿÿ
+{
+java:S1149 "eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŒãÂÈ
+€
+java:S1149i"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤Õéæøÿÿÿÿ
+m
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ŸåÈ×ùÿÿÿÿ
+T
+java:S1155w">Use isEmpty() to check whether the collection is empty or not.(ø©æÂ
+F
+java:S2093š"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S2093á"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+X
+java:S1659•"ADeclare "FAIL" and all following declarations on a separate line.(ëè£é

@@ -1,0 +1,14 @@
+
+P
+java:S1141X"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+_
+java:S2095J"DUse try-with-resources or close this "Socket" in a "finally" clause.(ùõÁ“ıÿÿÿÿ
+b
+java:S2095?"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ËÉáƒ
+V	java:S1259"<This block of commented-out lines of code should be removed.(°óŒóûÿÿÿÿ
+`
+java:S2147h"ECombine this catch with the one at line 100, which has the same body.(ØáŞëøÿÿÿÿ
+E	java:S106C"+Replace this use of System.out by a logger.(Â¦çüùÿÿÿÿ
+@	java:S106n"+Replace this use of System.out by a logger.(ÀĞ—Ò
+E	java:S106o"+Replace this use of System.out by a logger.(„¨÷öıÿÿÿÿ
+E	java:S106p"+Replace this use of System.out by a logger.(ç »äûÿÿÿÿ

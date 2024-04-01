@@ -1,0 +1,156 @@
+
+p
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì±çš
+u
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô¬ßçúÿÿÿÿ
+u
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(×˜ª™ûÿÿÿÿ
+u
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò—Æòşÿÿÿÿ
+p
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(•±Œ
+q
+java:S1192½"ZDefine a constant instead of duplicating this literal "Unknown dockable window: " 4 times.(–Æ†Ü
+k
+java:S1192Á"ODefine a constant instead of duplicating this literal ".dock-position" 5 times.(éÛÏüşÿÿÿÿ
+t	java:S135Ç"YReduce the total number of break and continue statements in this loop to use at most one.(Îá½³ûÿÿÿÿ
+D
+java:S1604Ì"(Make this anonymous inner class a lambda(Õ‰²­ıÿÿÿÿ
+?
+java:S1604¦"(Make this anonymous inner class a lambda(úí¸á
+?
+java:S1604Í"(Make this anonymous inner class a lambda(Ç›‡í
+D
+java:S1604á"(Make this anonymous inner class a lambda(ÌÕÏ“şÿÿÿÿ
+?
+java:S1604î"(Make this anonymous inner class a lambda(í§² 
+j
+java:S1104w"OMake top a static final constant or non-public and provide accessors if needed.(”òˆşÿÿÿÿ
+k
+java:S1104w"PMake left a static final constant or non-public and provide accessors if needed.(”òˆşÿÿÿÿ
+m
+java:S1104w"RMake bottom a static final constant or non-public and provide accessors if needed.(”òˆşÿÿÿÿ
+l
+java:S1104w"QMake right a static final constant or non-public and provide accessors if needed.(”òˆşÿÿÿÿ
+h
+java:S1104x"RMake topPos a static final constant or non-public and provide accessors if needed.(àõâü
+i
+java:S1104x"SMake leftPos a static final constant or non-public and provide accessors if needed.(àõâü
+k
+java:S1104x"UMake bottomPos a static final constant or non-public and provide accessors if needed.(àõâü
+j
+java:S1104x"TMake rightPos a static final constant or non-public and provide accessors if needed.(àõâü
+l
+java:S1104Ì"UMake showStack a static final constant or non-public and provide accessors if needed.(Ì±çš
+S
+java:S2387Å"<"windows" is the name of a field in "DockableWindowManager".(Üò§‘
+¬
+java:S1845Æ"Rename field "left" to prevent any misunderstanding/clash with field "LEFT" defined in superclass "org.gjt.sp.jedit.gui.DockableWindowManager".(É ùÈşÿÿÿÿ
+©
+java:S1845Ç"‘Rename field "right" to prevent any misunderstanding/clash with field "RIGHT" defined in superclass "org.gjt.sp.jedit.gui.DockableWindowManager".(ş×áš
+¥
+java:S1845È"Rename field "top" to prevent any misunderstanding/clash with field "TOP" defined in superclass "org.gjt.sp.jedit.gui.DockableWindowManager".(è†Î›
+«
+java:S1845É"“Rename field "bottom" to prevent any misunderstanding/clash with field "BOTTOM" defined in superclass "org.gjt.sp.jedit.gui.DockableWindowManager".(‹œµ
+t
+java:S1450Ë"XRemove the "lastEntry" field and declare it as a local variable in the relevant methods.(ƒÈ¦òûÿÿÿÿ
+@
+java:S1948Å")Make "windows" transient or serializable.(Üò§‘
+B
+java:S1948Æ"&Make "left" transient or serializable.(É ùÈşÿÿÿÿ
+>
+java:S1948Ç"'Make "right" transient or serializable.(ş×áš
+<
+java:S1948È"%Make "top" transient or serializable.(è†Î›
+?
+java:S1948É"(Make "bottom" transient or serializable.(‹œµ
+?
+java:S1948Ê"(Make "clones" transient or serializable.(õÈÁ•
+G
+java:S1948Ë"+Make "lastEntry" transient or serializable.(ƒÈ¦òûÿÿÿÿ
+g
+java:S1149Ì"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ì±çš
+Q	java:S125E"<This block of commented-out lines of code should be removed.(İòó±
+\
+java:S1659w"ADeclare "left" and all following declarations on a separate line.(”òˆşÿÿÿÿ
+Z
+java:S1659x"DDeclare "leftPos" and all following declarations on a separate line.(àõâü
+P
+java:S1161Z":Add the "@Override" annotation above this method signature(Âñ¹¯
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+C
+java:S1905¡",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+F
+java:S2093„"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+a
+java:S2147´"ECombine this catch with the one at line 176, which has the same body.(É˜Ùúÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161Ğ":Add the "@Override" annotation above this method signature(„ñÃ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(­ƒ”É
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+3
+java:S1116÷"Remove this empty statement.(‚³›—
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(öî
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+?	java:S108×")Either remove or fill this block of code.(‚Üò
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(âåáÂ
+V
+java:S1161ô":Add the "@Override" annotation above this method signature(´Ôùíûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.( ™¢…úÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161™":Add the "@Override" annotation above this method signature(¹âñr
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161§":Add the "@Override" annotation above this method signature(ø£¢ş
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161¯":Add the "@Override" annotation above this method signature(½Æ¥…
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ú§‰ûÿÿÿÿ
+V
+java:S1161¶":Add the "@Override" annotation above this method signature(ú§‰ûÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¿³é’ûÿÿÿÿ
+V
+java:S1161½":Add the "@Override" annotation above this method signature(¿³é’ûÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125º"<This block of commented-out lines of code should be removed.(İòó±
+D	java:S108á")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+8
+java:S1116‰"Remove this empty statement.(™õÑÃÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(ìªƒúÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d
+java:S5361ø"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ã°¿íÿÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

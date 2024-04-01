@@ -1,0 +1,22 @@
+
+d
+java:S1192C"NDefine a constant instead of duplicating this literal "largefilemode" 5 times.(¡ŠÄÖ
+I
+java:S1121?".Extract the assignment out of this expression.(ü Ï‰úÿÿÿÿ
+D
+java:S1121@".Extract the assignment out of this expression.(Ÿ°ğ‰
+D
+java:S1121A".Extract the assignment out of this expression.(¼ÓÜ©
+C
+java:S1121B".Extract the assignment out of this expression.(ÚÏÉK
+u
+java:S1450u"_Remove the "askLargeFileMode" field and declare it as a local variable in the relevant methods.(ÖÍ‡
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125-"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125Z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125p"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125y"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125{"<This block of commented-out lines of code should be removed.(İòó±
+F
+java:S1128"+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ

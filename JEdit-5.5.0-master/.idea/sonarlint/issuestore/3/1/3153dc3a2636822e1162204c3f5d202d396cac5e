@@ -1,0 +1,7 @@
+
+r
+java:S3077,"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ωθ¶ψÿÿÿÿ
+V	java:S1256"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«“Ρδ
+V	java:S125J"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

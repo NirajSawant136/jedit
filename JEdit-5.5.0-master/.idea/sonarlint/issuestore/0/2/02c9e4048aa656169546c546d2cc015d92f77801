@@ -1,0 +1,28 @@
+
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(àŠÀ­øÿÿÿÿ
+t
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").( »öæùÿÿÿÿ
+C
+java:S1604J"(Make this anonymous inner class a lambda(ú¬Ÿìÿÿÿÿÿ
+8
+java:S2386."Make this member "protected".(ä¡Ìúÿÿÿÿ
+A
+java:S1948à"%Make "lfs" transient or serializable.(Ê›é‹şÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(Şıñ¸ùÿÿÿÿ
+Q	java:S125y"<This block of commented-out lines of code should be removed.(…Ù˜‹
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125Ë"<This block of commented-out lines of code should be removed.(³Í3
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+j
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+F
+java:S2093•"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

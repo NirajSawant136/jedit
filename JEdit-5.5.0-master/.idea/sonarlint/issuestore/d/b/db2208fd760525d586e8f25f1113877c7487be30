@@ -1,0 +1,18 @@
+
+p
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ÚÙì
+o
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê£D
+m	java:S135B"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+g
+java:S1149›"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(›¬‚»
+l
+java:S1149œ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¯¬Á†øÿÿÿÿ
+m
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÆÉÖüÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125r"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Úº¯¾ûÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

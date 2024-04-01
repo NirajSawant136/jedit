@@ -1,0 +1,9 @@
+
+t
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ£¿Òøÿÿÿÿ
+t
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆŸã€ûÿÿÿÿ
+
+java:S1488J"dImmediately return this expression instead of assigning it to the temporary variable "transferable".(óÅ­”ÿÿÿÿÿ
+¯
+java:S6548%"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¥×âÌ

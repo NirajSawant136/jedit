@@ -1,0 +1,56 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ—öı
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(å¤ÇÃøÿÿÿÿ
+p
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦µÊÒ
+o
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ÁÔ
+p
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(•—„´
+I
+java:S1121T".Extract the assignment out of this expression.(²Äøÿÿÿÿ
+D
+java:S1121Z".Extract the assignment out of this expression.(óÇğÛ
+D
+java:S1121`".Extract the assignment out of this expression.(ñ¾«´
+I
+java:S1121f".Extract the assignment out of this expression.(•óåÿÿÿÿÿ
+=
+java:S1659"&Declare "moveDown" on a separate line.(ÑÓò
+|
+java:S1149¸"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¦µÊÒ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1252"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125N"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Š"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¿"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(’ô•àıÿÿÿÿ
+@
+java:S1905æ")Remove this unnecessary cast to "String".(Ó¢†é
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+@
+java:S1905 ")Remove this unnecessary cast to "String".(Ó¢†é
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125§"<This block of commented-out lines of code should be removed.(İòó±
+i
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ä ¸ú
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+|
+java:S1149¸"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¦µÊÒ
+R	java:S125•"<This block of commented-out lines of code should be removed.(İòó±
+@
+java:S1905¼")Remove this unnecessary cast to "String".(§Â—†
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

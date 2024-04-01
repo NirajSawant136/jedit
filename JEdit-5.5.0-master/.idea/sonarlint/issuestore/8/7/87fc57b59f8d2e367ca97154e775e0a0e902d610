@@ -1,0 +1,31 @@
+
+n
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô›˜
+d
+java:S38248"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(´óØÕ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S1251"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125e"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125l"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+D
+java:S1113Š"-Do not override the Object.finalize() method.(éËëš
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+l
+java:S1206Æ"PThis class overrides "equals()" and should therefore also override "hashCode()".(¥Ìí¥ýÿÿÿÿ
+g
+java:S1845£"KRename method "ref" to prevent any misunderstanding/clash with field "ref".(Û¶žÚûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Þ"<This block of commented-out lines of code should be removed.(Ýòó±

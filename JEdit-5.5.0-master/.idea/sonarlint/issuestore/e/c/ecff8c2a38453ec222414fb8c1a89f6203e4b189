@@ -1,0 +1,21 @@
+
+Q	java:S125#"<This block of commented-out lines of code should be removed.(İòó±
+t	java:S115a"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Øô­Ëşÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U	java:S899Z";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S4042Z"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+W	java:S899["=Do something with the "boolean" value returned by "renameTo".(ÍÀ–ÿùÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S4719o"9Replace charset name argument with StandardCharsets.UTF_8(ú§©ä
+Q	java:S125s"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125À"<This block of commented-out lines of code should be removed.(İòó±

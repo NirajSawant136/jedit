@@ -1,0 +1,137 @@
+
+s
+java:S1104&"XMake OFFSET_DEBUG a static final constant or non-public and provide accessors if needed.(ÒëÂÖûÿÿÿÿ
+s
+java:S1104,"XMake SCROLL_DEBUG a static final constant or non-public and provide accessors if needed.(ÚÙÁÒùÿÿÿÿ
+v
+java:S11041"[Make SCROLL_TO_DEBUG a static final constant or non-public and provide accessors if needed.(ÚºÀëşÿÿÿÿ
+t
+java:S11047"YMake SCROLL_VERIFY a static final constant or non-public and provide accessors if needed.(Œöşİüÿÿÿÿ
+t
+java:S1104<"^Make SCREEN_LINES_DEBUG a static final constant or non-public and provide accessors if needed.(ï ¿
+t
+java:S1104A"^Make TOKEN_MARKER_DEBUG a static final constant or non-public and provide accessors if needed.(ØÀ×¤
+l
+java:S1104F"VMake FOLD_DEBUG a static final constant or non-public and provide accessors if needed.(ËË¥¨
+p
+java:S1104K"ZMake FOLD_VIS_DEBUG a static final constant or non-public and provide accessors if needed.(ƒØãÇ
+x
+java:S1104P"]Make CHUNK_CACHE_DEBUG a static final constant or non-public and provide accessors if needed.(²æÒ÷úÿÿÿÿ
+x
+java:S1104U"]Make CHUNK_PAINT_DEBUG a static final constant or non-public and provide accessors if needed.(È®ÅÔşÿÿÿÿ
+m
+java:S1104Z"WMake PAINT_TIMER a static final constant or non-public and provide accessors if needed.(—º
+o
+java:S1104_"TMake EB_TIMER a static final constant or non-public and provide accessors if needed.(‡ßèüÿÿÿÿ
+v
+java:S1104d"`Make DISABLE_GLYPH_VECTOR a static final constant or non-public and provide accessors if needed.(¶èşã
+v
+java:S1104i"[Make BEANSHELL_DEBUG a static final constant or non-public and provide accessors if needed.(Ø¬˜°úÿÿÿÿ
+
+java:S1104t"dMake ALT_KEY_PRESSED_DISABLED a static final constant or non-public and provide accessors if needed.(Üòãâøÿÿÿÿ
+z
+java:S1104y"_Make GEOMETRY_WORKAROUND a static final constant or non-public and provide accessors if needed.(Ÿÿ¦úÿÿÿÿ
+v
+java:S1104~"[Make DUMP_KEY_EVENTS a static final constant or non-public and provide accessors if needed.(Š¶ùœøÿÿÿÿ
+t
+java:S1104ƒ"XMake INDENT_DEBUG a static final constant or non-public and provide accessors if needed.(ëøûÿÿÿÿ
+s
+java:S1104ˆ"WMake PRINT_DEBUG a static final constant or non-public and provide accessors if needed.(ú¸õİıÿÿÿÿ
+‚
+java:S1104"fMake DISABLE_SEARCH_DIALOG_POOL a static final constant or non-public and provide accessors if needed.(†ªõáûÿÿÿÿ
+s
+java:S1104–"]Make DISABLE_MULTIHEAD a static final constant or non-public and provide accessors if needed.(“¤²v
+M
+java:S1444&"2Make this "public static OFFSET_DEBUG" field final(ÒëÂÖûÿÿÿÿ
+M
+java:S1444,"2Make this "public static SCROLL_DEBUG" field final(ÚÙÁÒùÿÿÿÿ
+P
+java:S14441"5Make this "public static SCROLL_TO_DEBUG" field final(ÚºÀëşÿÿÿÿ
+N
+java:S14447"3Make this "public static SCROLL_VERIFY" field final(Œöşİüÿÿÿÿ
+N
+java:S1444<"8Make this "public static SCREEN_LINES_DEBUG" field final(ï ¿
+N
+java:S1444A"8Make this "public static TOKEN_MARKER_DEBUG" field final(ØÀ×¤
+F
+java:S1444F"0Make this "public static FOLD_DEBUG" field final(ËË¥¨
+J
+java:S1444K"4Make this "public static FOLD_VIS_DEBUG" field final(ƒØãÇ
+R
+java:S1444P"7Make this "public static CHUNK_CACHE_DEBUG" field final(²æÒ÷úÿÿÿÿ
+R
+java:S1444U"7Make this "public static CHUNK_PAINT_DEBUG" field final(È®ÅÔşÿÿÿÿ
+G
+java:S1444Z"1Make this "public static PAINT_TIMER" field final(—º
+I
+java:S1444_".Make this "public static EB_TIMER" field final(‡ßèüÿÿÿÿ
+P
+java:S1444d":Make this "public static DISABLE_GLYPH_VECTOR" field final(¶èşã
+P
+java:S1444i"5Make this "public static BEANSHELL_DEBUG" field final(Ø¬˜°úÿÿÿÿ
+R
+java:S1444m"<Make this "public static ALTERNATIVE_DISPATCHER" field final(ğë¤
+Y
+java:S1444t">Make this "public static ALT_KEY_PRESSED_DISABLED" field final(Üòãâøÿÿÿÿ
+T
+java:S1444y"9Make this "public static GEOMETRY_WORKAROUND" field final(Ÿÿ¦úÿÿÿÿ
+P
+java:S1444~"5Make this "public static DUMP_KEY_EVENTS" field final(Š¶ùœøÿÿÿÿ
+N
+java:S1444ƒ"2Make this "public static INDENT_DEBUG" field final(ëøûÿÿÿÿ
+M
+java:S1444ˆ"1Make this "public static PRINT_DEBUG" field final(ú¸õİıÿÿÿÿ
+\
+java:S1444"@Make this "public static DISABLE_SEARCH_DIALOG_POOL" field final(†ªõáûÿÿÿÿ
+M
+java:S1444–"7Make this "public static DISABLE_MULTIHEAD" field final(“¤²v
+r
+java:S3008&"WRename this field "OFFSET_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒëÂÖûÿÿÿÿ
+r
+java:S3008,"WRename this field "SCROLL_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÙÁÒùÿÿÿÿ
+u
+java:S30081"ZRename this field "SCROLL_TO_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚºÀëşÿÿÿÿ
+s
+java:S30087"XRename this field "SCROLL_VERIFY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œöşİüÿÿÿÿ
+s
+java:S3008<"]Rename this field "SCREEN_LINES_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï ¿
+s
+java:S3008A"]Rename this field "TOKEN_MARKER_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ×¤
+k
+java:S3008F"URename this field "FOLD_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËË¥¨
+o
+java:S3008K"YRename this field "FOLD_VIS_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒØãÇ
+w
+java:S3008P"\Rename this field "CHUNK_CACHE_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²æÒ÷úÿÿÿÿ
+w
+java:S3008U"\Rename this field "CHUNK_PAINT_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È®ÅÔşÿÿÿÿ
+l
+java:S3008Z"VRename this field "PAINT_TIMER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—º
+n
+java:S3008_"SRename this field "EB_TIMER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ßèüÿÿÿÿ
+u
+java:S3008d"_Rename this field "DISABLE_GLYPH_VECTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶èşã
+u
+java:S3008i"ZRename this field "BEANSHELL_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¬˜°úÿÿÿÿ
+w
+java:S3008m"aRename this field "ALTERNATIVE_DISPATCHER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğë¤
+~
+java:S3008t"cRename this field "ALT_KEY_PRESSED_DISABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üòãâøÿÿÿÿ
+y
+java:S3008y"^Rename this field "GEOMETRY_WORKAROUND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿÿ¦úÿÿÿÿ
+u
+java:S3008~"ZRename this field "DUMP_KEY_EVENTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¶ùœøÿÿÿÿ
+s
+java:S3008ƒ"WRename this field "INDENT_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëøûÿÿÿÿ
+r
+java:S3008ˆ"VRename this field "PRINT_DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¸õİıÿÿÿÿ
+
+java:S3008"eRename this field "DISABLE_SEARCH_DIALOG_POOL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ªõáûÿÿÿÿ
+r
+java:S3008–"\Rename this field "DISABLE_MULTIHEAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¤²v
+U
+java:S1118 ":Add a private constructor to hide the implicit public one.(×Òöƒúÿÿÿÿ
+K
+java:S1133m"5Do not forget to remove this deprecated code someday.(ğë¤
+U
+java:S1659£">Declare "b" and all following declarations on a separate line.(®îŸÈ

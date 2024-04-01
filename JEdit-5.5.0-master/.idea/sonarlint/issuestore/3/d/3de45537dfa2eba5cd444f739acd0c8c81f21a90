@@ -1,0 +1,14 @@
+
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü—´Åûÿÿÿÿ
+l
+java:S1104¥"PMake list a static final constant or non-public and provide accessors if needed.(Ü—´Åûÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U	java:S899Z";Do something with the "boolean" value returned by "delete".(™Âîóÿÿÿÿÿ
+c
+java:S4042["NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Ñï]
+V	java:S125e"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+C
+java:S1905›",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Q	java:S125 "<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1256"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+B
+java:S1905j",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+R
+java:S1854v"7Remove this useless assignment to local variable "out".(Ìàå…ÿÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

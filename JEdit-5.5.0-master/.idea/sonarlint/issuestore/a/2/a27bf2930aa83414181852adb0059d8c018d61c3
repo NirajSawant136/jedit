@@ -1,0 +1,53 @@
+
+J
+java:S3740V"/Provide the parametrized type for this generic.(æşèÖúÿÿÿÿ
+J
+java:S3740o"/Provide the parametrized type for this generic.(Ê‹Œøÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(Ò¹ø¨úÿÿÿÿ
+F
+java:S3740â"/Provide the parametrized type for this generic.(¥ışŒ
+K
+java:S3740õ"/Provide the parametrized type for this generic.(Ü°İ¦ùÿÿÿÿ
+D
+java:S1604¥"(Make this anonymous inner class a lambda(±÷ƒşÿÿÿÿ
+
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëúÇÈøÿÿÿÿ
+
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯¦Ó‹øÿÿÿÿ
+C
+java:S1948›",Make "keyHandler" transient or serializable.(ÿÀÒÜ
+H
+java:S1948œ",Make "candidates" transient or serializable.(ùşİ¸üÿÿÿÿ
+Q	java:S1253"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125_"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºøéàûÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125è"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+˜
+java:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ĞûŸ°
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Š"<This block of commented-out lines of code should be removed.(İòó±
+?
+java:S3398Ç"#Move this method into "KeyHandler".(Ö“Ñåûÿÿÿÿ
+9
+java:S3398Î"#Move this method into "KeyHandler".(ú‹%

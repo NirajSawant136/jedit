@@ -1,0 +1,8 @@
+
+m	java:S135x"YReduce the total number of break and continue statements in this loop to use at most one.(‚Êº
+p
+java:S1104'"ZMake isSynchronized a static final constant or non-public and provide accessors if needed.(ôˆôá
+P
+java:S1161+":Add the "@Override" annotation above this method signature(çÔ°ž
+h
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ç§þŠ

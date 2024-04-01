@@ -1,0 +1,52 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Ò¿äúÿÿÿÿ
+o	java:S135€"YReduce the total number of break and continue statements in this loop to use at most one.(¶ô…½
+s	java:S127É"XRefactor the code in order to not assign to this loop counter from within the loop body.(øŞÎğıÿÿÿÿ
+s	java:S127Ê"XRefactor the code in order to not assign to this loop counter from within the loop body.(è°ûùÿÿÿÿ
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¡‰Ÿüÿÿÿÿ
+l	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú†»¥øÿÿÿÿ
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÚ–Æøÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êêú‚ûÿÿÿÿ
+X
+java:S4973Š"<Strings and Boxed types should be compared using "equals()".(™—·Äşÿÿÿÿ
+l
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(£Ò¿äúÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125X"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1119„";Refactor the code to remove this label and the need for it.(½¬´m
+B
+java:S1264„",Replace this "for" loop with a "while" loop.(½¬´m
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W
+java:S1119œ";Refactor the code to remove this label and the need for it.(¢‘”íúÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R
+java:S1119Á";Refactor the code to remove this label and the need for it.(İçÆØ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ŞÔğÓ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Œ†öûÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(ıüúÁ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1133ı"5Do not forget to remove this deprecated code someday.(¹Ø®“ûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+X
+java:S1126"AReplace this if-then-else statement by a single return statement.(¢®Ú„
+i
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Â¸ê
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‹"<This block of commented-out lines of code should be removed.(İòó±

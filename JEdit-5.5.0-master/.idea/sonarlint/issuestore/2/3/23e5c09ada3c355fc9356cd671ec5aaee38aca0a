@@ -1,0 +1,15 @@
+
+m	java:S135`"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+l
+java:S1104*"VMake hasForInit a static final constant or non-public and provide accessors if needed.(ÃËœõ
+t
+java:S1104+"YMake hasExpression a static final constant or non-public and provide accessors if needed.(ã¨ûµýÿÿÿÿ
+n
+java:S1104,"XMake hasForUpdate a static final constant or non-public and provide accessors if needed.(´êÖí
+h
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(çÔ°ž
+P
+java:S11617":Add the "@Override" annotation above this method signature(çÔ°ž
+<	java:S131s""Add a default case to this switch.(ß‚¿­ùÿÿÿÿ
+@
+java:S10683"*Remove this unused "parsed" private field.(îË¯Ú

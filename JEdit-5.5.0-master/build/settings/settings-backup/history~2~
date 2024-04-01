@@ -1,0 +1,8 @@
+[vfs.browser.path]
+C:\\Users\\niraj\\Documents
+C:\\Users\\niraj\\Documents\\Dell
+C:\\Users\\niraj\\Documents\\JEdit\\JEdit-5.5.0-master
+[vfs.browser.filter]
+*\[^~#\]
+[action]
+open-file

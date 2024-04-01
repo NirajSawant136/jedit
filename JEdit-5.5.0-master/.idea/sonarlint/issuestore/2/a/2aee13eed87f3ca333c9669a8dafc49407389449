@@ -1,0 +1,53 @@
+
+t	java:S135à"YReduce the total number of break and continue statements in this loop to use at most one.(äŒ‡Àùÿÿÿÿ
+3
+java:S1643­"Use a StringBuilder instead.(ÁÅö¾
+8
+java:S1643°"Use a StringBuilder instead.(ë÷©®ıÿÿÿÿ
+3
+java:S1643²"Use a StringBuilder instead.(Èˆ€í
+3
+java:S1643¹"Use a StringBuilder instead.(³Î¤ß
+2
+java:S1643»"Use a StringBuilder instead.(íÂ×c
+3
+java:S1643¾"Use a StringBuilder instead.(ôå‡Î
+3
+java:S1643"Use a StringBuilder instead.(³Î¤ß
+2
+java:S1643Ÿ"Use a StringBuilder instead.(íÂ×c
+3
+java:S1643¢"Use a StringBuilder instead.(ôå‡Î
+t
+java:S1104€"XMake currentToken a static final constant or non-public and provide accessors if needed.(×–…Æúÿÿÿÿ
+~
+java:S1104‡"bMake expectedTokenSequences a static final constant or non-public and provide accessors if needed.(ùØ¾¹şÿÿÿÿ
+m
+java:S1104"VMake tokenImage a static final constant or non-public and provide accessors if needed.(ßÏØí
+^
+java:S3973•"GUse indentation to denote the code conditionally executed by this "if".(œÉ®À
+>
+java:S11652"#Make this "sourceFile" field final.(Â™áıÿÿÿÿ
+F
+java:S1165y"+Make this "specialConstructor" field final.(õ‹Üßúÿÿÿÿ
+A
+java:S1165€"%Make this "currentToken" field final.(×–…Æúÿÿÿÿ
+K
+java:S1165‡"/Make this "expectedTokenSequences" field final.(ùØ¾¹şÿÿÿÿ
+:
+java:S1165"#Make this "tokenImage" field final.(ßÏØí
+3
+java:S1165Ö"Make this "eol" field final.(ÂË÷ü
+O
+java:S1161;":Add the "@Override" annotation above this method signature(¡÷^
+N
+java:S1161‘":Add the "@Override" annotation above this method signature(‡+
+i
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(”îÑ€
+d	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÏËÁ
+Q
+java:S1161Œ":Add the "@Override" annotation above this method signature(Ï¯˜ò
+V
+java:S1161‘":Add the "@Override" annotation above this method signature(â×ï‚ıÿÿÿÿ
+Q
+java:S1161©":Add the "@Override" annotation above this method signature(Á»›ê

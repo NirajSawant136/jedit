@@ -1,0 +1,32 @@
+
+p
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(òòåó
+P
+java:S1141F"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+r
+java:S1450²"VRemove the "history" field and declare it as a local variable in the relevant methods.(‹ò°³ûÿÿÿÿ
+L
+java:S26964"6Make the enclosing method "static" or remove this set.(›Ó¹
+Q
+java:S26969"6Make the enclosing method "static" or remove this set.(ó¹ë›øÿÿÿÿ
+P
+java:S4719L":Replace Charset.forName() call with StandardCharsets.UTF_8(Öé²ô
+Q	java:S125]"<This block of commented-out lines of code should be removed.(®§ñÔ
+A
+java:S1905e",Remove this unnecessary cast to "Closeable".(¾ı7
+V	java:S125h"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S4719‚"9Replace charset name argument with StandardCharsets.UTF_8(¦Ïİ¦
+Q	java:S899 ";Do something with the "boolean" value returned by "delete".(È×ö
+e
+java:S4042 "NUse "java.nio.file.Files#delete" here for better messages on error conditions.(È×ö
+S	java:S899¡"=Do something with the "boolean" value returned by "renameTo".(êƒéÍ
+C
+java:S1905©",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+E
+java:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+R
+java:S2696¬"6Make the enclosing method "static" or remove this set.(üÖ”²ÿÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125â"<This block of commented-out lines of code should be removed.(İòó±

@@ -1,0 +1,26 @@
+
+[	java:S112Ú"FDefine and throw a dedicated exception instead of using a generic one.(ÄèúS
+\	java:S112½"FDefine and throw a dedicated exception instead of using a generic one.(ˆ“ˆ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(İòó±
+C
+java:S30107"-Remove this assignment of "interpForMethods".(ÉíĞÅ
+V	java:S1259"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ÿä‰
+V	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125ª"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125®"<This block of commented-out lines of code should be removed.(İòó±
+F	java:S106³"+Replace this use of System.out by a logger.(”²ß€ûÿÿÿÿ
+F	java:S106³"+Replace this use of System.err by a logger.(”²ß€ûÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(İòó±

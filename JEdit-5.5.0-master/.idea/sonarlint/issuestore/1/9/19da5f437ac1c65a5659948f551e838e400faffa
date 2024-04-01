@@ -1,0 +1,46 @@
+
+p
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğì“ã
+p
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬‡ıâ
+^
+java:S1192Â"GDefine a constant instead of duplicating this literal ".label" 3 times.(Éö
+`
+java:S1192À"IDefine a constant instead of duplicating this literal "options." 4 times.(í¯Ê
+a
+java:S1192j"FDefine a constant instead of duplicating this literal ".last" 3 times.(„Éªéÿÿÿÿÿ
+]
+java:S1192G"GDefine a constant instead of duplicating this literal ".title" 3 times.(Ì³¬ü
+t	java:S135¸"YReduce the total number of break and continue statements in this loop to use at most one.(©ªŒ¬ıÿÿÿÿ
+H
+java:S1948:"-Make "currentPane" transient or serializable.(È‹ğşÿÿÿÿ
+P
+java:S1948;"5Make "deferredOptionPanes" transient or serializable.(ÖìÜ²ıÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(İòó±
+M
+java:S1135-"2Complete the task associated to this TODO comment.(›Ò§àùÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125I"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125c"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¼ê²±úÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125š"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(µçµõúÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125î"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

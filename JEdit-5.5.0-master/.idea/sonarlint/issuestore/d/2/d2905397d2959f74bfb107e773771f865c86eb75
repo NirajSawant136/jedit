@@ -1,0 +1,25 @@
+
+t
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü…àÛþÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(Ýòó±
+h
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ñ¼ü§
+P
+java:S1161B":Add the "@Override" annotation above this method signature(Ñ¼ü§
+V	java:S125?"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W
+java:S3252N"BUse static access with "java.awt.event.InputEvent" for "ALT_MASK".(ÄÌ¯_
+Q	java:S125U"<This block of commented-out lines of code should be removed.(éïá…
+W
+java:S3252Z"BUse static access with "java.awt.event.InputEvent" for "ALT_MASK".(ÄÌ¯_
+W
+java:S3252g"BUse static access with "java.awt.event.InputEvent" for "ALT_MASK".(ÄÌ¯_
+W	java:S125ž"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ž„¡Ïùÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ž"<This block of commented-out lines of code should be removed.(Ýòó±
+F
+java:S1144Œ"/Remove this unused private "goToParent" method.(Œšÿ¤

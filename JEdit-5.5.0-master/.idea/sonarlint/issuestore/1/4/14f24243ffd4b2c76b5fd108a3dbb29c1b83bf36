@@ -1,0 +1,104 @@
+
+F
+java:S3740Œ"/Provide the parametrized type for this generic.(ë¿œ­
+F
+java:S3740•"/Provide the parametrized type for this generic.(—Úñå
+F
+java:S3740¯"/Provide the parametrized type for this generic.(ÓŠßˆ
+K
+java:S3740·"/Provide the parametrized type for this generic.(€ËÇçøÿÿÿÿ
+F
+java:S3740Ä"/Provide the parametrized type for this generic.(ÔùßÌ
+F
+java:S3740Å"/Provide the parametrized type for this generic.(††—’
+K
+java:S3740ì"/Provide the parametrized type for this generic.(¢¢ºÜùÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(îºËV
+F
+java:S3740"/Provide the parametrized type for this generic.(µÈ—À
+E
+java:S3740¦"/Provide the parametrized type for this generic.(Öòøo
+F
+java:S3740¯"/Provide the parametrized type for this generic.(Ûùšü
+K
+java:S3740¶"/Provide the parametrized type for this generic.(¤‚¸øÿÿÿÿ
+K
+java:S3740Ê"/Provide the parametrized type for this generic.(Ş¹—öûÿÿÿÿ
+F
+java:S3740Ò"/Provide the parametrized type for this generic.(‚îæ™
+K
+java:S3740Û"/Provide the parametrized type for this generic.(¬ØŒäıÿÿÿÿ
+F
+java:S3740ã"/Provide the parametrized type for this generic.(Í„““
+K
+java:S3740ó"/Provide the parametrized type for this generic.(ùõ’…ûÿÿÿÿ
+F
+java:S3740ø"/Provide the parametrized type for this generic.(×¸Ğ­
+F
+java:S3740ˆ"/Provide the parametrized type for this generic.(ç®ğ€
+F
+java:S3740"/Provide the parametrized type for this generic.(ı§ 
+K
+java:S3740°"/Provide the parametrized type for this generic.(àİìÿûÿÿÿÿ
+K
+java:S3740°"/Provide the parametrized type for this generic.(àİìÿûÿÿÿÿ
+F
+java:S3740¸"/Provide the parametrized type for this generic.(şíÊæ
+F
+java:S3740¿"/Provide the parametrized type for this generic.(˜ë§ı
+F
+java:S3740Ï"/Provide the parametrized type for this generic.(³ˆ“À
+F
+java:S3740Õ"/Provide the parametrized type for this generic.(¿Çšç
+F
+java:S3740"/Provide the parametrized type for this generic.(Íÿ”«
+F
+java:S3740“"/Provide the parametrized type for this generic.(è††µ
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚Éşˆÿÿÿÿÿ
+]
+java:S1192´"FDefine a constant instead of duplicating this literal "array" 3 times.(‚Œ£¦
+g	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í„““
+l
+java:S1128/"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Ãá‡ıÿÿÿÿ
+l
+java:S11280"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ç…‚ûÿÿÿÿ
+l
+java:S11281"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+l
+java:S11282"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+r
+java:S1149ì"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¢¢ºÜùÿÿÿÿ
+m
+java:S1149¸"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(şíÊæ
+O
+java:S4719t"9Replace charset name argument with StandardCharsets.UTF_8(Ñ½½ì
+E
+java:S2093h"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(Ğ¾áîıÿÿÿÿ
+>
+java:S1125é"'Remove the unnecessary boolean literal.(ÇöÎò
+U
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(·Èîí
+Z
+java:S1155—">Use isEmpty() to check whether the collection is empty or not.(Áºü—ùÿÿÿÿ
+Z
+java:S1155Ç">Use isEmpty() to check whether the collection is empty or not.(ÙÃ·àûÿÿÿÿ
+Z
+java:S1155Ç">Use isEmpty() to check whether the collection is empty or not.(ÙÃ·àûÿÿÿÿ
+>
+java:S1125î"'Remove the unnecessary boolean literal.(ìÁà
+A	java:S106“"+Replace this use of System.out by a logger.(Â¸ºŞ
+Z
+java:S1155§">Use isEmpty() to check whether the collection is empty or not.(ˆï÷îşÿÿÿÿ
+C
+java:S1125Ì"'Remove the unnecessary boolean literal.(ğÂÍêøÿÿÿÿ
+C
+java:S1125Ô"'Remove the unnecessary boolean literal.(¼Ñ™Íúÿÿÿÿ
+C
+java:S1125İ"'Remove the unnecessary boolean literal.(‡è“Şûÿÿÿÿ
+>
+java:S1125å"'Remove the unnecessary boolean literal.(¿Ù²
+F	java:S106Å"+Replace this use of System.out by a logger.(à×†Ùüÿÿÿÿ

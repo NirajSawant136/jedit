@@ -1,0 +1,10 @@
+
+Q	java:S125 "<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125-"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125H"<This block of commented-out lines of code should be removed.(İòó±
+F
+java:S1128"+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ
+@
+java:S1128"*Remove this unused import 'java.nio.file'.(æĞİ¿

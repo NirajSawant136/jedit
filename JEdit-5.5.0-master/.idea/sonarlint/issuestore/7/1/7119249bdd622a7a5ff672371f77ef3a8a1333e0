@@ -1,0 +1,49 @@
+
+o
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬δ
+t
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ζΈόÿÿÿÿ
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ϊ•ÒΜϊÿÿÿÿ
+o
+java:S2293ή"YReplace the type specification in this constructor call with the diamond operator ("<>").(Θ€φ
+o
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(Γ£Ϊ0
+‹
+java:S1319ƒ"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(π“¶ώÿÿÿÿ
+f	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(α——Ά
+g
+java:S1301ν"KReplace this "switch" statement by "if" statements to increase readability.(¤Ό½ÿÿÿÿÿ
+1
+java:S1700σ"Rename field "abbrev"(ΧΞ»ϊÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S1255"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125³"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ε"<This block of commented-out lines of code should be removed.(έςσ±
+=	java:S131ν""Add a default case to this switch.(¤Ό½ÿÿÿÿÿ
+W	java:S125χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+E
+java:S1948Ψ")Make "abbrevs" transient or serializable.(ΓήΊαώÿÿÿÿ
+W	java:S125Σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ς"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

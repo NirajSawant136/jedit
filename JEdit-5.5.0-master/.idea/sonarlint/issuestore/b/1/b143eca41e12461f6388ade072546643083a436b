@@ -1,0 +1,44 @@
+
+o
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö°…ù
+t
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡‚ãÑûÿÿÿÿ
+t
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ïÊ«ÿÿÿÿÿ
+t
+java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úš“øÿÿÿÿ
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ïÊ«ÿÿÿÿÿ
+u
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡‚ãÑûÿÿÿÿ
+p
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ÿ›Ÿ
+†
+java:S1192š"jDefine a constant instead of duplicating this literal "options.editing.addMode.dialog.errorTitle" 3 times.(Î°®¾ıÿÿÿÿ
+b
+java:S1192š"FDefine a constant instead of duplicating this literal "Error" 3 times.(Î°®¾ıÿÿÿÿ
+d
+java:S1192]"NDefine a constant instead of duplicating this literal "mode.opt-out." 4 times.(‘‚î
+n
+java:S1192S"SDefine a constant instead of duplicating this literal "buffer.defaultMode" 3 times.(Ÿ‘®âúÿÿÿÿ
+C
+java:S1604q"(Make this anonymous inner class a lambda(Ô„†£ÿÿÿÿÿ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125D"<This block of commented-out lines of code should be removed.(İòó±
+m
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¿„ç¨úÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R
+java:S1117\"<Rename "modeName" which hides the field declared at line 59.(áéÆê
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+X
+java:S1117—"<Rename "modeName" which hides the field declared at line 59.(¿¬ÚÈşÿÿÿÿ
+X
+java:S1117"<Rename "modeFile" which hides the field declared at line 60.(ÃÀë­øÿÿÿÿ
+\
+java:S1117¥"@Rename "filenameGlob" which hides the field declared at line 62.(üôêÏúÿÿÿÿ
+X
+java:S1117¦"ARename "firstLineGlob" which hides the field declared at line 63.(ÈîÔÁ
+[
+java:S3358û"DExtract this nested ternary operation into an independent statement.(é¿äØ

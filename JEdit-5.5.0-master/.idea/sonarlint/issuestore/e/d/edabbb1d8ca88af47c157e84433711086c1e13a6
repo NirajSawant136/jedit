@@ -1,0 +1,35 @@
+
+u
+java:S2293ς"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ¶ΐΘϋÿÿÿÿ
+F
+java:S1066γ"/Merge this if statement with the enclosing one.(‰Δ
+F
+java:S1066"/Merge this if statement with the enclosing one.(‰Δ
+o
+java:S1104l"TMake delegate a static final constant or non-public and provide accessors if needed.(ΐΰκ³ϋÿÿÿÿ
+S	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(ά΄φω
+S	java:S107"=Method has 13 parameters, which is greater than 7 authorized.(ο¤–
+S	java:S107Ώ"=Method has 13 parameters, which is greater than 7 authorized.(ο¤–
+]	java:S107Μ"BConstructor has 12 parameters, which is greater than 7 authorized.(„ªΣύÿÿÿÿ
+X	java:S107κ"BConstructor has 12 parameters, which is greater than 7 authorized.(Ξι
+Q	java:S125/"<This block of commented-out lines of code should be removed.(έςσ±
+Q	java:S125:"<This block of commented-out lines of code should be removed.(έςσ±
+Q	java:S125?"<This block of commented-out lines of code should be removed.(έςσ±
+Q	java:S125E"<This block of commented-out lines of code should be removed.(έςσ±
+Q	java:S125m"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S125v"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ά"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125θ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ά"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+[
+java:S3358³"DExtract this nested ternary operation into an independent statement.(ύ΅
+W	java:S125Ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

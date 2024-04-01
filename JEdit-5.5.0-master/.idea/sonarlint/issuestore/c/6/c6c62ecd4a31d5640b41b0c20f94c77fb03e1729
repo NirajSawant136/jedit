@@ -1,0 +1,20 @@
+
+o
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊÊ¯‚
+o
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(½«½Æ
+p
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ£œù
+Q	java:S125-"<This block of commented-out lines of code should be removed.(Ýòó±
+Q	java:S1257"<This block of commented-out lines of code should be removed.(Ýòó±
+h
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(šô’ø
+Q	java:S125R"<This block of commented-out lines of code should be removed.(Ýòó±
+<	java:S131t""Add a default case to this switch.(èÓÈûøÿÿÿÿ
+_
+java:S5361½"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¨„åß
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(Ýòó±
+U
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(™ÂãÌ
+R	java:S125£"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(Ýòó±

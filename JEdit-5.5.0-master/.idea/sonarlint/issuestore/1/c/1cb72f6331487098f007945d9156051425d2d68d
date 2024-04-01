@@ -1,0 +1,16 @@
+
+u
+java:S11040"_Make foldHandlerProvider a static final constant or non-public and provide accessors if needed.(ëè‡ô
+O
+java:S14440"9Make this "public static foldHandlerProvider" field final(ëè‡ô
+Q	java:S125<"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125I"<This block of commented-out lines of code should be removed.(İòó±
+A
+java:S1168Z"+Return an empty collection instead of null.(¥¹ï
+Q	java:S125\"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125j"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125p"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125}"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Š"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125‘"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125—"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

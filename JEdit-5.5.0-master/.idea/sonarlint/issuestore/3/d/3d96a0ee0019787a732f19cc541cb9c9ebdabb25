@@ -1,0 +1,21 @@
+
+p
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘È’·
+c
+java:S1192n"HDefine a constant instead of duplicating this literal "plugin." 3 times.(ùÓ¿Òùÿÿÿÿ
+e
+java:S1192Q"JDefine a constant instead of duplicating this literal "<html><b>" 3 times.(«áñ³ıÿÿÿÿ
+g
+java:S1192Q"LDefine a constant instead of duplicating this literal "</b></html>" 3 times.(«áñ³ıÿÿÿÿ
+]
+java:S1192Z"GDefine a constant instead of duplicating this literal "</b>: " 4 times.(ãğ£ú
+B
+java:S19486"'Make "entry" transient or serializable.(ÆûÕùøÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(İòó±
+p
+java:S3252E"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(Ù–Ê»
+h
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨…ˆş
+V	java:S125G"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

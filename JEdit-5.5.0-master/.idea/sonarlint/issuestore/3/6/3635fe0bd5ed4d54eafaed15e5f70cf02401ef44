@@ -1,0 +1,10 @@
+
+t	java:S135Ê"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
+t	java:S135â"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(·¢”±
+R
+java:S1117Œ"<Rename "textArea" which hides the field declared at line 21.(ã—‘/
+R
+java:S1117²"<Rename "textArea" which hides the field declared at line 21.(ã—‘/
+i
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(µúÆ

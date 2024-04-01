@@ -1,0 +1,30 @@
+
+K
+java:S3740¢"/Provide the parametrized type for this generic.(ÆÉ‡¦ıÿÿÿÿ
+K
+java:S3740Ã"/Provide the parametrized type for this generic.(ÆÉ‡¦ıÿÿÿÿ
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë¢²ä
+B
+java:S1948"+Make "listModel" transient or serializable.(õòÍ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125f"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125“"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125·"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125İ"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125ß"<This block of commented-out lines of code should be removed.(İòó±
+Q
+java:S1161":Add the "@Override" annotation above this method signature(œĞóØ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(÷êåûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+@
+java:S3398Á"$Move this method into "ListHandler".(Êùå°şÿÿÿÿ

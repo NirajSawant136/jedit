@@ -1,0 +1,11 @@
+
+}
+java:S1319?"gThe type of "pageRanges" should be an interface such as "Map" rather than the implementation "HashMap".(ØŠé×
+ƒ
+java:S1319f"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÅÓòæ
+‚
+java:S1319l"gThe type of "pageRanges" should be an interface such as "Map" rather than the implementation "HashMap".(½®ùğşÿÿÿÿ
+m
+java:S27864"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(”•¢øÿÿÿÿ
+7
+java:S11164"Remove this empty statement.(”•¢øÿÿÿÿ

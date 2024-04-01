@@ -1,0 +1,79 @@
+
+a	java:S112Ά"FDefine and throw a dedicated exception instead of using a generic one.(εώ½’ÿÿÿÿÿ
+K
+java:S3740Λ"/Provide the parametrized type for this generic.(‡δϊÒϋÿÿÿÿ
+F
+java:S3740ά"/Provide the parametrized type for this generic.(ΰϊ¦Ò
+u
+java:S2293Ε"YReplace the type specification in this constructor call with the diamond operator ("<>").(―¬όÿÿÿÿ
+f
+java:S1192α"JDefine a constant instead of duplicating this literal "Tree.font" 5 times.(ΛΧΎΫωÿÿÿÿ
+D
+java:S1604—"(Make this anonymous inner class a lambda(±χƒώÿÿÿÿ
+D
+java:S1604ι"(Make this anonymous inner class a lambda(±χƒώÿÿÿÿ
+U
+java:S3516¬"9Refactor this method to not always return the same value.(³“λώÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125†"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ά"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ς"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ΐ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ί"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125θ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ΐ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ο"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ε"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125’"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1854Ò"5Remove this useless assignment to local variable "m".(ςΆ¨ώÿÿÿÿ
+W	java:S125Ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+t
+java:S1450›"XRemove the "popupMenu" field and declare it as a local variable in the relevant methods.(€εϊωώÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Υ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1948ι":Make "hyperSearchOperationNode" transient or serializable.(Ησ΅
+W	java:S125δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+=
+java:S1659 "&Declare "boldFont" on a separate line.(ή΅Κυ
+W	java:S125Κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΅"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125£"<This block of commented-out lines of code should be removed.(‚³ª§
+W	java:S125·"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Α"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ΰ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R
+java:S1128/"<Remove this unused import 'org.gjt.sp.util.SyntaxUtilities'.(¨όΤψ

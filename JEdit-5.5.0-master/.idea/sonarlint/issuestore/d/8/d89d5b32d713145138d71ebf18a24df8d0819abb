@@ -1,0 +1,42 @@
+
+F
+java:S1066ß"/Merge this if statement with the enclosing one.(°¯Ã»
+
+java:S1488ì"cImmediately return this expression instead of assigning it to the temporary variable "defaultSize".(ñâŸ¹þÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©°ÉÄ
+>
+java:S1172>"(Remove this unused method parameter "c".(¼Å¹š
+U
+java:S1161Y":Add the "@Override" annotation above this method signature(Ãíççÿÿÿÿÿ
+Q
+java:S1161„":Add the "@Override" annotation above this method signature(ì“ ê
+W	java:S125¿"<This block of commented-out lines of code should be removed.(óÀ€ìüÿÿÿÿ
+:
+java:S2153ì"Remove the boxing to "Double".(ñâŸ¹þÿÿÿÿ
+<
+java:S2129ì" Remove this "Double" constructor(ñâŸ¹þÿÿÿÿ
+:
+java:S2153ì"Remove the boxing to "Double".(ñâŸ¹þÿÿÿÿ
+<
+java:S2129ì" Remove this "Double" constructor(ñâŸ¹þÿÿÿÿ
+V
+java:S1161„":Add the "@Override" annotation above this method signature(ÃÍŒÖùÿÿÿÿ
+9
+java:S2153•"Remove the boxing of "width".(€‘ú–ùÿÿÿÿ
+<
+java:S2129•" Remove this "Double" constructor(€‘ú–ùÿÿÿÿ
+:
+java:S2153•"Remove the boxing of "height".(€‘ú–ùÿÿÿÿ
+<
+java:S2129•" Remove this "Double" constructor(€‘ú–ùÿÿÿÿ
+E
+java:S1905±")Remove this unnecessary cast to "double".(Ã¯ôÿþÿÿÿÿ
+E
+java:S1905²")Remove this unnecessary cast to "double".(•Ô‹±ýÿÿÿÿ
+@
+java:S1905³")Remove this unnecessary cast to "double".(íã«Û
+E
+java:S1905´")Remove this unnecessary cast to "double".(‚ÓÃþûÿÿÿÿ
+]
+java:S1128+"BRemove this unused import 'org.gjt.sp.jedit.gui.DropShadowBorder'.(°©ºúÿÿÿÿ

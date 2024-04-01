@@ -1,0 +1,25 @@
+
+t
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÅéıÿÿÿÿ
+i
+java:S11920"NUse already-defined constant 'PROTOCOL' instead of duplicating its value here.(ŸÔêıÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(İòó±
+U
+java:S11616":Add the "@Override" annotation above this method signature(Ó¸‘‹şÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161<":Add the "@Override" annotation above this method signature(¸‰½¾
+V	java:S1259"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+<
+java:S1168B"&Return an empty array instead of null.(¥¹ï
+U
+java:S1161L":Add the "@Override" annotation above this method signature(êŞâıÿÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W
+java:S1075["ARefactor your code to get this URI from a customizable parameter.(ÉıÆ›
+V	java:S125v"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125x"<This block of commented-out lines of code should be removed.(İòó±
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(Ç×©Ï
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

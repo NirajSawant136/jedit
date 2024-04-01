@@ -1,0 +1,31 @@
+
+i
+java:S1104'"TMake operator a static final constant or non-public and provide accessors if needed.(¬ÙøW
+d
+java:S2259^"I"NullPointerException" will be thrown when invoking method "operation()".(ıìï³úÿÿÿÿ
+d
+java:S2259Z"I"NullPointerException" will be thrown when invoking method "operation()".(ä•À øÿÿÿÿ
+_
+java:S2259b"I"NullPointerException" will be thrown when invoking method "operation()".(¼ô§
+d
+java:S2259k"I"NullPointerException" will be thrown when invoking method "operation()".(´Öìüÿÿÿÿ
+_
+java:S2259f"I"NullPointerException" will be thrown when invoking method "operation()".(šééÏ
+d
+java:S2259}"I"NullPointerException" will be thrown when invoking method "operation()".(ó‰ŞËıÿÿÿÿ
+`
+java:S2259‚"I"NullPointerException" will be thrown when invoking method "operation()".(î©Ê·
+`
+java:S2259‡"I"NullPointerException" will be thrown when invoking method "operation()".(¢œ§Î
+_
+java:S2259t"I"NullPointerException" will be thrown when invoking method "operation()".(°«¹§
+_
+java:S2259p"I"NullPointerException" will be thrown when invoking method "operation()".(Â€Ç•
+d
+java:S2259x"I"NullPointerException" will be thrown when invoking method "operation()".(»â‡øÿÿÿÿ
+U
+java:S1161+":Add the "@Override" annotation above this method signature(ÆÃãºüÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(å¤â¹ÿÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(¾áçë
+M
+java:S5261¨"1Add explicit curly braces to avoid dangling else.(íÍ­ˆıÿÿÿÿ

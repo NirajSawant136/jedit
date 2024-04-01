@@ -1,0 +1,16 @@
+
+J
+java:S3740!"/Provide the parametrized type for this generic.(ÿÌÉÜúÿÿÿÿ
+n
+java:S2095Œ"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(·‚ ±ÿÿÿÿÿ
+E	java:S1065"+Replace this use of System.err by a logger.(õ¿ˆ‹ÿÿÿÿÿ
+E	java:S106X"+Replace this use of System.err by a logger.(¿ïÇşÿÿÿÿ
+E	java:S106Y"+Replace this use of System.err by a logger.(ı¤Æ¤ûÿÿÿÿ
+E	java:S106Z"+Replace this use of System.err by a logger.(÷¶™Òùÿÿÿÿ
+@	java:S106["+Replace this use of System.err by a logger.(”°ÿ•
+E	java:S106]"+Replace this use of System.err by a logger.(Õ’Îúÿÿÿÿ
+E	java:S106^"+Replace this use of System.err by a logger.(íÇÏÅúÿÿÿÿ
+E	java:S106m"+Replace this use of System.err by a logger.(İ×ºÿÿÿÿÿ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(Ïº¢
+I
+java:S1128"3Remove this unused import 'javax.swing.plaf.metal'.(áŞÜ¸

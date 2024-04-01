@@ -1,0 +1,15 @@
+
+—
+java:S11307"|Remove the declaration of thrown exception 'org.gjt.sp.jedit.bsh.EvalError', as it cannot be thrown from constructor's body.(ÙÀ«±ûÿÿÿÿ
+U
+java:S1161K":Add the "@Override" annotation above this method signature(²Î–†üÿÿÿÿ
+Q
+java:S1161¡":Add the "@Override" annotation above this method signature(Š¾»Ÿ
+Q
+java:S1161¨":Add the "@Override" annotation above this method signature(žëÛ—
+V
+java:S1161¯":Add the "@Override" annotation above this method signature(´¹·Ÿýÿÿÿÿ
+V
+java:S1161¶":Add the "@Override" annotation above this method signature(ÚýòÀøÿÿÿÿ
+P
+java:S1161º":Add the "@Override" annotation above this method signature(’ï¤H

@@ -1,0 +1,18 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1251"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+<
+java:S1168R"&Return an empty array instead of null.(¥¹ï
+V	java:S125U"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125a"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Š²ôñ
+i
+java:S1871¤"MThis branch's code block is the same as the block for the branch on line 158.(ÒÌâ–øÿÿÿÿ
+d	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÌùˆ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

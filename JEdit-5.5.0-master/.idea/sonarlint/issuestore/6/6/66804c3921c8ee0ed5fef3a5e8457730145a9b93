@@ -1,0 +1,34 @@
+
+t
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò®•Þþÿÿÿÿ
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹É¾ðúÿÿÿÿ
+R
+java:S4973@"<Strings and Boxed types should be compared using "equals()".(„Â¶Á
+l
+java:S1149…"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‘óúôýÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(Ýòó±
+U
+java:S11617":Add the "@Override" annotation above this method signature(‘¯äŠøÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161=":Add the "@Override" annotation above this method signature(ŸÀÎÈ
+V	java:S125:"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161E":Add the "@Override" annotation above this method signature(Âñ¹¯
+V	java:S125B"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161N":Add the "@Override" annotation above this method signature(¼–±Ê
+V	java:S125K"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1161h":Add the "@Override" annotation above this method signature(ßÄ™¦ÿÿÿÿÿ
+V	java:S125e"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125r"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ž"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125 "<This block of commented-out lines of code should be removed.(Ýòó±
+B
+java:S1068"'Remove this unused "uri" private field.(‰Å¹¸ÿÿÿÿÿ

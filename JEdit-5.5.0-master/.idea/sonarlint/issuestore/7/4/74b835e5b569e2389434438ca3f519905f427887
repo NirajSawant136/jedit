@@ -1,0 +1,40 @@
+
+g
+java:S1192Q"LDefine a constant instead of duplicating this literal "print.color" 3 times.(Â¹®¤üÿÿÿÿ
+g	java:S101+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œí¥Òşÿÿÿÿ
+e
+java:S2095¿"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(œïÅü
+h
+java:S2095A"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(şë«áûÿÿÿÿ
+P
+java:S1133+"5Do not forget to remove this deprecated code someday.(œí¥Òşÿÿÿÿ
+C
+java:S1123+"(Add the missing @deprecated Javadoc tag.(œí¥Òşÿÿÿÿ
+U
+java:S1118+":Add a private constructor to hide the implicit public one.(œí¥Òşÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(İòó±
+h
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“ÎÆÀ
+=	java:S108N")Either remove or fill this block of code.(Éò§+
+E
+java:S2093?"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+F
+java:S1172_"+Remove this unused method parameter "view".(µÀ×ÿÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+F
+java:S1172g"0Remove this unused method parameter "selection".(‡§¨½
+V	java:S125d"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+c
+java:S3252‘"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".( şÆ…ùÿÿÿÿ
+^
+java:S3252’"GUse static access with "javax.print.attribute.Size2DSyntax" for "INCH".(€ï±
+R	java:S125¨"<This block of commented-out lines of code should be removed.(’ÖÍå
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+}
+java:S2118Á"aMake the "javax.print.attribute.PrintRequestAttributeSet" class "Serializable" or don't write it.(¨ÿùÑÿÿÿÿÿ
+>	java:S108Ğ")Either remove or fill this block of code.(Éò§+
+F
+java:S2093½"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ø"<This block of commented-out lines of code should be removed.(İòó±

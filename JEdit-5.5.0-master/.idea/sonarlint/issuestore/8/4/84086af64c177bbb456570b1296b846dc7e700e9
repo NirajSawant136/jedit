@@ -1,0 +1,26 @@
+
+J
+java:S3740M"/Provide the parametrized type for this generic.(î”£ûùÿÿÿÿ
+J
+java:S3740M"/Provide the parametrized type for this generic.(î”£ûùÿÿÿÿ
+\
+java:S1192R"FDefine a constant instead of duplicating this literal "comp." 4 times.(™â¸‹
+E
+java:S1066W"/Merge this if statement with the enclosing one.(Áğº…
+e	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çó¹1
+€
+java:S1149M"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(î”£ûùÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ûâëúÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(¯ÿÂì
+@	java:S106("+Replace this use of System.out by a logger.(”™’æ
+@	java:S106)"+Replace this use of System.out by a logger.(ÚÂâ
+@	java:S106/"+Replace this use of System.out by a logger.(ó ÍØ
+E	java:S106;"+Replace this use of System.out by a logger.(¨¸Æûÿÿÿÿ
+@	java:S106<"+Replace this use of System.out by a logger.(ÚÂâ
+E	java:S106H"+Replace this use of System.out by a logger.(¾ñİ£øÿÿÿÿ
+?	java:S106O"+Replace this use of System.out by a logger.(ùÑ
+@	java:S106]"+Replace this use of System.out by a logger.(¯Úæ
+?	java:S106i"+Replace this use of System.out by a logger.(Çú­
+@	java:S106{"+Replace this use of System.err by a logger.(œ¼¿‡
+F	java:S106„"+Replace this use of System.err by a logger.(°ù¼ˆùÿÿÿÿ

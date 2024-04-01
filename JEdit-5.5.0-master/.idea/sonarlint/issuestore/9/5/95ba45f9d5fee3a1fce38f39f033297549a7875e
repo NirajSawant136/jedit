@@ -1,0 +1,34 @@
+
+t
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(âœØßþÿÿÿÿ
+p
+java:S2293Þ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¶û¨
+Q	java:S125+"<This block of commented-out lines of code should be removed.(Ýòó±
+C
+java:S3010M"-Remove this assignment of "userKeymapFolder".(§³…®
+V	java:S125N"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125a"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P	java:S899‡";Do something with the "boolean" value returned by "delete".(œ¤¶$
+d
+java:S4042‡"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(œ¤¶$
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P	java:S899“";Do something with the "boolean" value returned by "delete".(œ¤¶$
+d
+java:S4042“"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(œ¤¶$
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+B
+java:S1905´",Remove this unnecessary cast to "Closeable".(¾ý7
+C
+java:S1905µ",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+F
+java:S2093§"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ð"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

@@ -1,0 +1,25 @@
+
+5
+java:S2153:"Remove the boxing to "Integer".(‰ù²‰
+7
+java:S2129:"!Remove this "Integer" constructor(‰ù²‰
+9
+java:S2153‘"Remove the boxing of "units".(´êÙâúÿÿÿÿ
+=
+java:S2129‘"!Remove this "Integer" constructor(´êÙâúÿÿÿÿ
+2
+java:S2153Å"Remove the boxing of "top".(¶œ¯ó
+6
+java:S2129Å"Remove this "Float" constructor(¶œ¯ó
+3
+java:S2153Å"Remove the boxing of "left".(¶œ¯ó
+6
+java:S2129Å"Remove this "Float" constructor(¶œ¯ó
+4
+java:S2153Å"Remove the boxing of "right".(¶œ¯ó
+6
+java:S2129Å"Remove this "Float" constructor(¶œ¯ó
+5
+java:S2153Å"Remove the boxing of "bottom".(¶œ¯ó
+6
+java:S2129Å"Remove this "Float" constructor(¶œ¯ó

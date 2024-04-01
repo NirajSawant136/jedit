@@ -1,0 +1,18 @@
+
+Q	java:S125("<This block of commented-out lines of code should be removed.(İòó±
+m
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ôãœ¡ùÿÿÿÿ
+“
+java:S1130T"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ôãœ¡ùÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Î—ßüÿÿÿÿ
+
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(å½şº
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161–":Add the "@Override" annotation above this method signature(¼‡±İşÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125±"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

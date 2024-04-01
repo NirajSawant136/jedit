@@ -1,0 +1,77 @@
+
+J
+java:S3740e"/Provide the parametrized type for this generic.(×½•Çşÿÿÿÿ
+J
+java:S3740e"/Provide the parametrized type for this generic.(×½•Çşÿÿÿÿ
+D
+java:S3740f"/Provide the parametrized type for this generic.(ı„áA
+D
+java:S3740f"/Provide the parametrized type for this generic.(ı„áA
+J
+java:S3740i"/Provide the parametrized type for this generic.(ûÔóøÿÿÿÿ
+J
+java:S3740i"/Provide the parametrized type for this generic.(ûÔóøÿÿÿÿ
+E
+java:S3740j"/Provide the parametrized type for this generic.(£—
+E
+java:S3740j"/Provide the parametrized type for this generic.(£—
+J
+java:S3740t"/Provide the parametrized type for this generic.(ğĞÔÕúÿÿÿÿ
+J
+java:S3740t"/Provide the parametrized type for this generic.(ğĞÔÕúÿÿÿÿ
+J
+java:S3740w"/Provide the parametrized type for this generic.(Í¼Æøÿÿÿÿÿ
+J
+java:S3740w"/Provide the parametrized type for this generic.(Í¼Æøÿÿÿÿÿ
+E
+java:S3740z"/Provide the parametrized type for this generic.(ó‘àÖ
+E
+java:S3740z"/Provide the parametrized type for this generic.(ó‘àÖ
+F
+java:S3740‹"/Provide the parametrized type for this generic.(Äòãß
+F
+java:S3740‹"/Provide the parametrized type for this generic.(Äòãß
+F
+java:S3740›"/Provide the parametrized type for this generic.(“Àšµ
+F
+java:S3740§"/Provide the parametrized type for this generic.(ôÖÔÕ
+F
+java:S3740±"/Provide the parametrized type for this generic.(ÉÉ“¼
+K
+java:S3740À"/Provide the parametrized type for this generic.(ßÇİ¨ûÿÿÿÿ
+K
+java:S3740È"/Provide the parametrized type for this generic.(÷¶öŒıÿÿÿÿ
+K
+java:S3740×"/Provide the parametrized type for this generic.(Ù™·õùÿÿÿÿ
+F
+java:S3740Õ"/Provide the parametrized type for this generic.(èÚÍâ
+F
+java:S3740í"/Provide the parametrized type for this generic.(ƒ°³İ
+†
+java:S1319›"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(“Àšµ
+†
+java:S1319§"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(ôÖÔÕ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ë§”T
+7
+java:S1170O"!Make this final field static too.(•ÆÄè
+<
+java:S1170Y"!Make this final field static too.(ØöÜÌüÿÿÿÿ
+q
+java:S1149t"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ğĞÔÕúÿÿÿÿ
+m
+java:S1149‹"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Äòãß
+m
+java:S1149›"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(“Àšµ
+m
+java:S1149§"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ôÖÔÕ
+F	java:S106ô"+Replace this use of System.err by a logger.(Ò¿½Ÿùÿÿÿÿ
+R	java:S125Š"<This block of commented-out lines of code should be removed.(õí÷“
+W	java:S125ò"<This block of commented-out lines of code should be removed.(Ñ»Øıÿÿÿÿ
+u
+java:S3012ä"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(–àÖ‘ÿÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(Ä‹œ¯øÿÿÿÿ
+p
+java:S3012ú"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ú¶õØ
+R	java:S125ı"<This block of commented-out lines of code should be removed.(óÙ´

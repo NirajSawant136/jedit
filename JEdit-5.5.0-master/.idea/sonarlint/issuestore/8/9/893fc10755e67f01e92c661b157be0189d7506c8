@@ -1,0 +1,20 @@
+
+N
+java:S2589Τ"7Remove this expression which always evaluates to "true"(όΘΦ¨
+V	java:S125,"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125e"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+D
+java:S4274¥"(Replace this assert with a proper check.(βέ‹ψÿÿÿÿ
+?
+java:S4274¦"(Replace this assert with a proper check.(¨µίξ
+d	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΥΔΟ
+W	java:S125 "<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125υ"<This block of commented-out lines of code should be removed.(έςσ±

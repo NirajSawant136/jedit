@@ -1,0 +1,56 @@
+
+F
+java:S3740¤"/Provide the parametrized type for this generic.(¨¨´ú
+F
+java:S3740¤"/Provide the parametrized type for this generic.(¨¨´ú
+F
+java:S3740®"/Provide the parametrized type for this generic.(„ÛžŽ
+F
+java:S3740®"/Provide the parametrized type for this generic.(„ÛžŽ
+F
+java:S3740ì"/Provide the parametrized type for this generic.(¹Á²¥
+F
+java:S3740ì"/Provide the parametrized type for this generic.(¹Á²¥
+K
+java:S3740‹"/Provide the parametrized type for this generic.(ûŽò‘ùÿÿÿÿ
+K
+java:S3740‹"/Provide the parametrized type for this generic.(ûŽò‘ùÿÿÿÿ
+K
+java:S3740¬"/Provide the parametrized type for this generic.(ÜîÕ•ýÿÿÿÿ
+F
+java:S3740²"/Provide the parametrized type for this generic.(çÆ³
+F
+java:S3740ù"/Provide the parametrized type for this generic.(Š†®¶
+F
+java:S3740ù"/Provide the parametrized type for this generic.(Š†®¶
+E
+java:S3740¦"/Provide the parametrized type for this generic.(­âµ
+F
+java:S3740€"/Provide the parametrized type for this generic.(îéþÇ
+F
+java:S3740€"/Provide the parametrized type for this generic.(îéþÇ
+p
+java:S3008F"URename this field "VALID_CAST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛäÕÔùÿÿÿÿ
+m
+java:S3008G"WRename this field "INVALID_CAST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šø³–
+C
+java:S16594"(Declare "ASSIGNMENT" on a separate line.(ÝÏçþÿÿÿÿ
+p
+java:S16598"UDeclare "JAVA_BOX_TYPES_ASSIGABLE" and all following declarations on a separate line.(Á‰×Þûÿÿÿÿ
+N
+java:S1659>"3Declare "LAST_ROUND_ASSIGNABLE" on a separate line.(†ƒØœùÿÿÿÿ
+P
+java:S1118,":Add a private constructor to hide the implicit public one.(æãÊÈ
+h
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ËÀÝƒ
+O
+java:S3400ˆ"9Remove this method and declare a constant for this value.(¸®Ã'
+J
+java:S1172†"3Remove these unused method parameters "from", "to".(èåËš
+i
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(„ÛžŽ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¨¨äêÿÿÿÿÿ
+]
+java:S1126"AReplace this if-then-else statement by a single return statement.(à¨óŠøÿÿÿÿ
+i
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(ÄÅž„

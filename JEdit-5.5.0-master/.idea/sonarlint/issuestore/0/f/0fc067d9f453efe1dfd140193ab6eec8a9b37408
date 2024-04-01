@@ -1,0 +1,27 @@
+
+f	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûƒ´`
+g	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‚¢‚
+Q	java:S1251"<This block of commented-out lines of code should be removed.(Ýòó±
+Q	java:S125N"<This block of commented-out lines of code should be removed.(Ýòó±
+Q	java:S125W"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S125m"<This block of commented-out lines of code should be removed.(û›Ý´ûÿÿÿÿ
+U
+java:S1161q":Add the "@Override" annotation above this method signature(ßÔü²þÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(Ñô˜¹
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(‘œ³¡þÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+F
+java:S1197ª"*Move the array designators [] to the type.(•Ðþ¯ùÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+—
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›ÇçN
+W	java:S125à"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125â"<This block of commented-out lines of code should be removed.(Ýòó±

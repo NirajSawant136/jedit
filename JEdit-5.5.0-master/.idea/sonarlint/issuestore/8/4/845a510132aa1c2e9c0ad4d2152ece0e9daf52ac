@@ -1,0 +1,22 @@
+
+o
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(™®°ì
+o
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¨Èµ
+i
+java:S1192¾"MDefine a constant instead of duplicating this literal "view.context" 4 times.(öÛçÿÿÿÿÿ
+o	java:S135Î"YReduce the total number of break and continue statements in this loop to use at most one.(ıŠ§•
+=
+java:S1659½"&Declare "moveDown" on a separate line.(óÔĞË
+E
+java:S1948/"/Make "actionContext" transient or serializable.(ñ¢¢
+G
+java:S1905³"+Remove this unnecessary cast to "MenuItem".(ìõš³úÿÿÿÿ
+i
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ä ¸ú
+B
+java:S1905¤"+Remove this unnecessary cast to "MenuItem".(™Ÿ˜ÿ
+B
+java:S1905¬"+Remove this unnecessary cast to "MenuItem".(™Ÿ˜ÿ
+[
+java:S1128"@Remove this unused import 'org.gjt.sp.jedit.browser.VFSBrowser'.(ÆßøËùÿÿÿÿ

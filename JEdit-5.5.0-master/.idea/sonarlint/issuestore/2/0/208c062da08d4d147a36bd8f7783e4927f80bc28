@@ -1,0 +1,15 @@
+
+v
+java:S1104."[Make propertyManager a static final constant or non-public and provide accessors if needed.(©λθ—ώÿÿÿÿ
+P
+java:S1444."5Make this "public static propertyManager" field final(©λθ—ώÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(έςσ±
+m
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(―’γ½ύÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ω„§
+V	java:S125t"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

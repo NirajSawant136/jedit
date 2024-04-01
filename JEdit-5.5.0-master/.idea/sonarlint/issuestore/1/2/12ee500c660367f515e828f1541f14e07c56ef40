@@ -1,0 +1,84 @@
+
+u
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñƒ¡úÿÿÿÿ
+p
+java:S2293‚	"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ºé¸
+^
+java:S1192û"GDefine a constant instead of duplicating this literal "search" 3 times.(•·Õ
+k
+java:S1192¡"TDefine a constant instead of duplicating this literal "search.find.tooltip" 3 times.(º—º÷
+r
+java:S1192¹"VDefine a constant instead of duplicating this literal "search.subdirs.toggle" 4 times.(ÔŸ¨øøÿÿÿÿ
+d
+java:S1192Ã"HDefine a constant instead of duplicating this literal "replace" 4 times.(”ŠåĞùÿÿÿÿ
+C
+java:S1604g"(Make this anonymous inner class a lambda(Õ‰²­ıÿÿÿÿ
+i
+java:S3824?"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(…ÅıÁıÿÿÿÿ
+A
+java:S1659Ñ"%Declare "replace" on a separate line.(Îßïıÿÿÿÿ
+E
+java:S1659Ó".Declare "beanShellReplace" on a separate line.(òˆí
+b
+java:S1659Ö"FDeclare "wholeWord" and all following declarations on a separate line.(›¦Éúÿÿÿÿ
+G
+java:S1659Ø"+Declare "searchForward" on a separate line.(Ë¬³Ùúÿÿÿÿ
+g
+java:S1659Ù"PDeclare "searchCurrentBuffer" and all following declarations on a separate line.(ã¢¬Ö
+H
+java:S1659İ",Declare "directoryField" on a separate line.(•ëàÖşÿÿÿÿ
+c
+java:S1659æ"GDeclare "replaceBtn" and all following declarations on a separate line.(èğáÙüÿÿÿÿ
+C
+java:S1948ë",Make "focusOrder" transient or serializable.(Èüù
+Q	java:S125)"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125:"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125H"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Øïù
+V	java:S125x"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ì"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125”"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰…ÀÈ
+R
+java:S1854ë";Remove this useless assignment to local variable "fileset".(˜Öôò
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1117±";Rename "filter" which hides the field declared at line 349.(¥äü
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125æ"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ä ¸ú
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Z
+java:S1155±	">Use isEmpty() to check whether the collection is empty or not.(ÏÙ®’şÿÿÿÿ
+Z
+java:S1155¶	">Use isEmpty() to check whether the collection is empty or not.(ÏÙ®’şÿÿÿÿ
+V
+java:S1161¹	":Add the "@Override" annotation above this method signature(¶’±×úÿÿÿÿ
+Z
+java:S1155»	">Use isEmpty() to check whether the collection is empty or not.(ÏÙ®’şÿÿÿÿ
+U
+java:S1155À	">Use isEmpty() to check whether the collection is empty or not.(…ç£˜
+W	java:S125Â	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ä	"<This block of commented-out lines of code should be removed.(İòó±

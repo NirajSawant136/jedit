@@ -1,0 +1,11 @@
+
+P
+java:S1161,":Add the "@Override" annotation above this method signature(ч╘░Ю
+m
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ж м√·    
+L
+java:S5261_"1Add explicit curly braces to avoid dangling else.(Д╢сь°    
+L
+java:S5261\"1Add explicit curly braces to avoid dangling else.(Д╢сь°    
+L
+java:S5261l"1Add explicit curly braces to avoid dangling else.(Д╢сь°    

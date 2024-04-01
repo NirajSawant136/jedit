@@ -1,0 +1,265 @@
+
+J
+java:S3740J"/Provide the parametrized type for this generic.(Íé˜¶ıÿÿÿÿ
+J
+java:S3740J"/Provide the parametrized type for this generic.(Íé˜¶ıÿÿÿÿ
+K
+java:S3740¬"/Provide the parametrized type for this generic.(ÜÎğŒøÿÿÿÿ
+K
+java:S3740Í"/Provide the parametrized type for this generic.(€ä×úÿÿÿÿ
+F
+java:S3740Î"/Provide the parametrized type for this generic.(’´Êæ
+K
+java:S3740ó"/Provide the parametrized type for this generic.(© ²ºıÿÿÿÿ
+E
+java:S3740İ"/Provide the parametrized type for this generic.(õäÕt
+F
+java:S3740ï"/Provide the parametrized type for this generic.(©Ëéå
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(éÏ§ÿÿÿÿÿ
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(éÏ§ÿÿÿÿÿ
+F
+java:S3740…"/Provide the parametrized type for this generic.(—Ääœ
+F
+java:S3740‘"/Provide the parametrized type for this generic.(Ï·®
+F
+java:S3740‘"/Provide the parametrized type for this generic.(Ï·®
+F
+java:S3740“"/Provide the parametrized type for this generic.(Ş­É
+F
+java:S3740¢"/Provide the parametrized type for this generic.(É€ùŞ
+K
+java:S3740¼"/Provide the parametrized type for this generic.(Ê êÒÿÿÿÿÿ
+K
+java:S3740¼"/Provide the parametrized type for this generic.(Ê êÒÿÿÿÿÿ
+K
+java:S3740”"/Provide the parametrized type for this generic.(½ÂÑáúÿÿÿÿ
+K
+java:S3740¢"/Provide the parametrized type for this generic.(¢ÀœÅøÿÿÿÿ
+J
+java:S1121Ï".Extract the assignment out of this expression.(°×…®ÿÿÿÿÿ
+E
+java:S1121Ö".Extract the assignment out of this expression.(±Ç¡Ÿ
+J
+java:S1121İ".Extract the assignment out of this expression.(ŞÉ½«ıÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇÔõúÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇÔõúÿÿÿÿ
+g	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¬¡ç
+g	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¬¡ç
+l	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø™¡ÿÿÿÿÿ
+l	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø™¡ÿÿÿÿÿ
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äëõÔ
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äëõÔ
+l	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óˆ¡Êúÿÿÿÿ
+l	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óˆ¡Êúÿÿÿÿ
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¶†£ıÿÿÿÿ
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§©Ïù
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù´ñ¼
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖä£øÿÿÿÿ
+g	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ìŞŠ
+a
+java:S1301˜"KReplace this "switch" statement by "if" statements to increase readability.(»ö¥c
+=
+java:S1948_"'Make "value" transient or serializable.(şû½ˆ
+q
+java:S1149J"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Íé˜¶ıÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(‡õß×ıÿÿÿÿ
+8
+java:S2129†"!Remove this "Boolean" constructor(Áš‰š
+5
+java:S2129‡"Remove this "Byte" constructor(¬Ó¼”
+6
+java:S2129ˆ"Remove this "Short" constructor(·µàç
+:
+java:S2129‰"#Remove this "Character" constructor(›½êĞ
+8
+java:S2129Š"!Remove this "Integer" constructor(ÄÆøË
+5
+java:S2129‹"Remove this "Long" constructor(‰¸—
+6
+java:S2129Œ"Remove this "Float" constructor(€»§å
+<
+java:S2129" Remove this "Double" constructor(ÁéË¢şÿÿÿÿ
+=
+java:S2129‰"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+7
+java:S2129Œ"!Remove this "Boolean" constructor(åÅı.
+8
+java:S2129"!Remove this "Boolean" constructor(µ‡Í³
+8
+java:S2129”"!Remove this "Boolean" constructor(à©´
+=
+java:S2129¦"!Remove this "Boolean" constructor(ßš¨Œúÿÿÿÿ
+=
+java:S2129ª"!Remove this "Boolean" constructor(—¤ûúÿÿÿÿ
+=
+java:S2129­"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+=
+java:S2129±"!Remove this "Boolean" constructor(Èí¨úÿÿÿÿ
+8
+java:S2129µ"!Remove this "Boolean" constructor(ÇæÍı
+7
+java:S2129¸"!Remove this "Boolean" constructor(åÅı.
+:
+java:S2129¼"Remove this "Long" constructor(Ñ–å¼şÿÿÿÿ
+:
+java:S2129¿"Remove this "Long" constructor(‘¾›ıúÿÿÿÿ
+5
+java:S2129Â"Remove this "Long" constructor(Ïû´±
+:
+java:S2129Å"Remove this "Long" constructor(Ÿèôûÿÿÿÿ
+:
+java:S2129È"Remove this "Long" constructor(ƒÚ¡ãÿÿÿÿÿ
+:
+java:S2129Í"Remove this "Long" constructor(¥ÀÅşÿÿÿÿ
+:
+java:S2129Ñ"Remove this "Long" constructor(Ôİÿúÿÿÿÿ
+:
+java:S2129Õ"Remove this "Long" constructor(Ä•Û´ùÿÿÿÿ
+5
+java:S2129Ù"Remove this "Long" constructor(¶˜Çª
+5
+java:S2129İ"Remove this "Long" constructor(¶Æ‹»
+:
+java:S2129à"Remove this "Long" constructor(¼õùéüÿÿÿÿ
+=
+java:S2129ó"!Remove this "Boolean" constructor(ßš¨Œúÿÿÿÿ
+=
+java:S2129÷"!Remove this "Boolean" constructor(—¤ûúÿÿÿÿ
+=
+java:S2129ú"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+=
+java:S2129ş"!Remove this "Boolean" constructor(Èí¨úÿÿÿÿ
+8
+java:S2129‚"!Remove this "Boolean" constructor(ÇæÍı
+7
+java:S2129…"!Remove this "Boolean" constructor(åÅı.
+=
+java:S2129‰"!Remove this "Integer" constructor(ÔÂÍ·üÿÿÿÿ
+8
+java:S2129Œ"!Remove this "Integer" constructor(¸¡ÂÕ
+8
+java:S2129"!Remove this "Integer" constructor(¸‰á
+8
+java:S2129’"!Remove this "Integer" constructor(¾‚âÙ
+=
+java:S2129•"!Remove this "Integer" constructor(¤¼­üÿÿÿÿ
+8
+java:S2129š"!Remove this "Integer" constructor(ÈÊ‰Ş
+8
+java:S2129"!Remove this "Integer" constructor(…‚”³
+7
+java:S2129¢"!Remove this "Integer" constructor(°´U
+8
+java:S2129¦"!Remove this "Integer" constructor(Ù‰¥¢
+8
+java:S2129ª"!Remove this "Integer" constructor(ÆöÂŠ
+=
+java:S2129­"!Remove this "Integer" constructor(œÉõäşÿÿÿÿ
+=
+java:S2129Á"!Remove this "Boolean" constructor(ßš¨Œúÿÿÿÿ
+=
+java:S2129Å"!Remove this "Boolean" constructor(—¤ûúÿÿÿÿ
+=
+java:S2129È"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+=
+java:S2129Ì"!Remove this "Boolean" constructor(Èí¨úÿÿÿÿ
+8
+java:S2129Ğ"!Remove this "Boolean" constructor(ÇæÍı
+7
+java:S2129Ó"!Remove this "Boolean" constructor(åÅı.
+<
+java:S2129×" Remove this "Double" constructor(ş¹ƒ‰ÿÿÿÿÿ
+7
+java:S2129Ú" Remove this "Double" constructor(äÓ‡Ù
+7
+java:S2129İ" Remove this "Double" constructor(èÄåô
+<
+java:S2129à" Remove this "Double" constructor(Š¶ƒøúÿÿÿÿ
+<
+java:S2129ã" Remove this "Double" constructor(¾¤ƒ‡ÿÿÿÿÿ
+=
+java:S2129ÿ"!Remove this "Boolean" constructor(ßš¨Œúÿÿÿÿ
+=
+java:S2129ƒ"!Remove this "Boolean" constructor(—¤ûúÿÿÿÿ
+=
+java:S2129†"!Remove this "Boolean" constructor(ÇŠ·èûÿÿÿÿ
+=
+java:S2129Š"!Remove this "Boolean" constructor(Èí¨úÿÿÿÿ
+8
+java:S2129"!Remove this "Boolean" constructor(ÇæÍı
+7
+java:S2129‘"!Remove this "Boolean" constructor(åÅı.
+;
+java:S2129•"Remove this "Float" constructor(ÑÁ²ºüÿÿÿÿ
+;
+java:S2129˜"Remove this "Float" constructor(šîÓäÿÿÿÿÿ
+;
+java:S2129›"Remove this "Float" constructor(öšìıÿÿÿÿ
+;
+java:S2129"Remove this "Float" constructor(³ÿ½Äÿÿÿÿÿ
+;
+java:S2129¡"Remove this "Float" constructor(®¨ºıÿÿÿÿ
+<
+java:S2153¸"%Remove the unboxing from "Character".(´Ì›Œ
+8
+java:S2129¸"!Remove this "Integer" constructor(´Ì›Œ
+=
+java:S2129º"!Remove this "Integer" constructor(Ë€‘äøÿÿÿÿ
+n
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Õùèûÿÿÿÿ
+7
+java:S2129Ò" Remove this "Double" constructor(ÏùÌ£
+7
+java:S2129Ô" Remove this "Double" constructor(®şø
+;
+java:S2129Ù"Remove this "Float" constructor(ÕúĞ‰ıÿÿÿÿ
+;
+java:S2129Û"Remove this "Float" constructor(¼Ó¥€şÿÿÿÿ
+:
+java:S2129à"Remove this "Long" constructor(£Êâ“ÿÿÿÿÿ
+5
+java:S2129â"Remove this "Long" constructor(Í¡ß˜
+n
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ëŞ·íøÿÿÿÿ
+@
+java:S1940ÿ")Use the opposite operator ("!=") instead.(Ò—âÏ
+@
+java:S1940ÿ")Use the opposite operator ("!=") instead.(Ò—âÏ
+P
+java:S1117„"9Rename "value" which hides the field declared at line 95.(¤’Áä
+<
+java:S2153ˆ"%Remove the unboxing from "Character".(ê¡±¾
+8
+java:S2129ˆ"!Remove this "Integer" constructor(ê¡±¾
+=
+java:S1168Ì"&Return an empty array instead of null.(¥¹ï
+B
+java:S1905ø"&Remove this unnecessary cast to "int".(ıŒÿÍÿÿÿÿÿ
+n
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(ãÇæÑùÿÿÿÿ
+M
+java:S5261Ô"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+M
+java:S5261ã"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+M
+java:S5261ı"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+<
+java:S2153²"%Remove the unboxing from "Character".(ê¡±¾
+8
+java:S2129²"!Remove this "Integer" constructor(ê¡±¾
+:
+java:S2129º"Remove this "Byte" constructor(ö¶³çûÿÿÿÿ
+6
+java:S2129¼"Remove this "Short" constructor(•Œ°Ì
+?
+java:S2129¾"#Remove this "Character" constructor(§±˜òúÿÿÿÿ
+=
+java:S2129À"!Remove this "Integer" constructor(Üû¹°úÿÿÿÿ
+5
+java:S2129Â"Remove this "Long" constructor(ÍŞÄé
+5
+java:S2129Ä"Remove this "Float" constructor(ÀÚF
+<
+java:S2129Æ" Remove this "Double" constructor(úÖÇ¸ùÿÿÿÿ

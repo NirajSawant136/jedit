@@ -1,0 +1,43 @@
+
+o
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ü×
+u
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ²÷¶ûÿÿÿÿ
+p
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(°°ç
+u
+java:S1192­"YDefine a constant instead of duplicating this literal "plugin-manager.mirror.id" 4 times.(Ú½áıÿÿÿÿ
+D
+java:S1121S".Extract the assignment out of this expression.(½ü×
+?
+java:S1604Ç"(Make this anonymous inner class a lambda(¯øÄ
+?
+java:S1604Ó"(Make this anonymous inner class a lambda(¯øÄ
+?
+java:S1604î"(Make this anonymous inner class a lambda(¯øÄ
+t
+java:S1450Â"^Remove the "cacheForSpinner" field and declare it as a local variable in the relevant methods.(éèÙ`
+V	java:S1250"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161¢":Add the "@Override" annotation above this method signature(ñâÀÇúÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+@
+java:S1905²")Remove this unnecessary cast to "String".(µõÍÌ
+W	java:S125·"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(İòó±
+?
+java:S1948ä")Make "mirrors" transient or serializable.(Ï¼‹|
+W	java:S125İ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ß"<This block of commented-out lines of code should be removed.(İòó±
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—…Ñóûÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+C
+java:S1905",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+F
+java:S2093„"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

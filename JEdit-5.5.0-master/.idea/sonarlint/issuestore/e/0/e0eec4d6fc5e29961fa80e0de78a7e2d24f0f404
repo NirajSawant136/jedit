@@ -1,0 +1,456 @@
+
+a	java:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(Ξ–ώΣϊÿÿÿÿ
+E
+java:S3740‚"/Provide the parametrized type for this generic.(άΊΕl
+o
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ο±€
+b
+java:S1192Ζ "KDefine a constant instead of duplicating this literal "commentEnd" 4 times.(³Ι’ª
+h
+java:S1192 "LDefine a constant instead of duplicating this literal "lineComment" 3 times.(νίΖχÿÿÿÿÿ
+b
+java:S1192β"KDefine a constant instead of duplicating this literal "autoIndent" 4 times.(ζϊ¤β
+f
+java:S1192ψ"JDefine a constant instead of duplicating this literal "noWordSep" 5 times.(ÿξΌ“ϊÿÿÿÿ
+g
+java:S1192ζ"PDefine a constant instead of duplicating this literal "camelCasedWords" 4 times.(Ι·Κ¨
+d
+java:S1192Ε "MDefine a constant instead of duplicating this literal "commentStart" 4 times.(ΈΗΎ²
+I
+java:S1121q".Extract the assignment out of this expression.(‡εΣϋÿÿÿÿ
+C
+java:S1121u".Extract the assignment out of this expression.(ΩΏQ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µπ‡έ
+f	java:S117Ζ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ρι h
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ρι h
+l	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ήΖ¶Ϊϋÿÿÿÿ
+?
+java:S1604ς'"(Make this anonymous inner class a lambda(»Η‰Ό
+?
+java:S1604Γ4"(Make this anonymous inner class a lambda(έΌ«ο
+g
+java:S1301Ί"KReplace this "switch" statement by "if" statements to increase readability.(µΐ¬Άψÿÿÿÿ
+g
+java:S1301Ξ"KReplace this "switch" statement by "if" statements to increase readability.(µΐ¬Άψÿÿÿÿ
+g
+java:S1301ª+"KReplace this "switch" statement by "if" statements to increase readability.(σ…Ι·ϊÿÿÿÿ
+`
+java:S2184€"DCast one of the operands of this subtraction operation to a "float".(®°¨Ζÿÿÿÿÿ
+^
+java:S3973φ"GUse indentation to denote the code conditionally executed by this "if".(ÒΥήΓ
+R
+java:S2387ƒ)"6"listenerList" is the name of a field in "JComponent".(‡‚²£ώÿÿÿÿ
+J
+java:S1948ά&".Make "mouseHandler" transient or serializable.(‹ϋε΄ψÿÿÿÿ
+C
+java:S1948έ&",Make "chunkCache" transient or serializable.(µ§εΞ
+G
+java:S1948ή&"0Make "displayManager" transient or serializable.(ζ™Φƒ
+N
+java:S1948ί&"2Make "selectionManager" transient or serializable.(„ª―όÿÿÿÿ
+E
+java:S1948δ&"/Make "actionContext" transient or serializable.(«ª"
+P
+java:S1948‡)"9Make "elasticTabstopsExpander" transient or serializable.(―μέύ
+R
+java:S1948)"6Make "inputHandlerProvider" transient or serializable.(°Η€Ηωÿÿÿÿ
+K
+java:S1948)"4Make "inputMethodSupport" transient or serializable.(‚»
+D
+java:S1948΅)"(Make "buffer" transient or serializable.(­θωÿÿÿÿ
+O
+java:S1948§)"3Make "structureMatchers" transient or serializable.(»”ÿÿÿÿÿ
+C
+java:S1948¨)"'Make "match" transient or serializable.(ώΔω±ύÿÿÿÿ
+Q	java:S125@"<This block of commented-out lines of code should be removed.(έςσ±
+I
+java:S3010"-Remove this assignment of "focusedComponent".(”ϊΦ™ϋÿÿÿÿ
+Q	java:S125f"<This block of commented-out lines of code should be removed.(έςσ±
+Q	java:S125y"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125‡"<This block of commented-out lines of code should be removed.(ζΎª®ύÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125“"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125™"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Α"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ρ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ή"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Έ¦ξΌ
+W	java:S125Ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ο"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125―"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125α"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΄"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776μ"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(”ΎΗ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(έςσ±
+^
+java:S1117•"BRename "visibleLines" which hides the field declared at line 5269.(ξή„‚ÿÿÿÿÿ
+W	java:S125Ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ο"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125π"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125–"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΄"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Ζ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Φ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776¥	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Τθΐπ
+W	java:S125	"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Π	"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Ò	"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125έ	"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ζ	"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125π	"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ό	"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125’
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125±
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Η
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ξ
+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+U
+java:S1117²"?Rename "caretLine" which hides the field declared at line 5284.(μ—C
+W	java:S125»"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+U
+java:S1117Δ"?Rename "caretLine" which hides the field declared at line 5284.(μ—C
+W	java:S125η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(®¤ΧΏ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776Ζ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(καΘ“ϊÿÿÿÿ
+W	java:S125Ώ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+=
+java:S1659Ι"!Declare "end" on a separate line.(ΝτΑΡύÿÿÿÿ
+W
+java:S1119β";Refactor the code to remove this label and the need for it.( κ――ύÿÿÿÿ
+R
+java:S1119ό";Refactor the code to remove this label and the need for it.(ΚΦΧΟ
+W	java:S125’"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ξ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125β"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ώ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ί"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125χ"<This block of commented-out lines of code should be removed.(¬Ϊ΄™
+W	java:S125•"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Φ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125β"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Y
+java:S1117π"BRename "oldCaretLine" which hides the field declared at line 5302.(²½δο
+W	java:S125ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ΐ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W
+java:S1119Ρ";Refactor the code to remove this label and the need for it.(Ϊ‡Δ™ϊÿÿÿÿ
+7	java:S131Σ""Add a default case to this switch.(ψΰN
+n
+java:S3776ξ"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(σ¥πΩϋÿÿÿÿ
+W	java:S125ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+A
+java:S1659ƒ"*Declare "extraEndVirt" on a separate line.(Γ‰λ
+W	java:S125Ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ή"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+\
+java:S1117ϋ"ERename "caretScreenLine" which hides the field declared at line 5285.(¬Ίοβ
+n
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ω“ÿÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R
+java:S1119";Refactor the code to remove this label and the need for it.(—Ϋχδ
+W	java:S125½"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R
+java:S1119";Refactor the code to remove this label and the need for it.(Ò€ίν
+7	java:S131ƒ""Add a default case to this switch.(ψΰN
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ΝΏβΗ
+W	java:S125•"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ζ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+\
+java:S1117¤"ERename "caretScreenLine" which hides the field declared at line 5285.(¬Ίοβ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(²¤ΐÒ
+W	java:S125³"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W
+java:S1119Γ";Refactor the code to remove this label and the need for it.(Γ΄‰Όωÿÿÿÿ
+W	java:S125δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ο"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ϊ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125―"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ο"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΅"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(β™Εÿÿÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+@
+java:S1659ς"$Declare "offset" on a separate line.(±†Σύÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+@
+java:S1659"$Declare "offset" on a separate line.(±†Σύÿÿÿÿ
+W	java:S125Ή"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Π"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125²"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Λ"<This block of commented-out lines of code should be removed.(υΑΰΈψÿÿÿÿ
+W	java:S125Φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ξ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125θ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125¥"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ρ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ί"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Θ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125» "<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(†‹ρό
+W	java:S125ϊ "<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+=
+java:S1659!"!Declare "end" on a separate line.(ζΟδόÿÿÿÿ
+W	java:S125Ν!"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ο!"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‘""<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R
+java:S1117΅"";Rename "caret" which hides the field declared at line 5283.(΄ΝωΈ
+W	java:S125Έ""<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R
+java:S1117Θ"";Rename "caret" which hides the field declared at line 5283.(΄ΝωΈ
+W	java:S125ί""<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+h
+java:S3776χ""RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ΣωΞf
+W	java:S125ξ""<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125 #"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ή#"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ι#"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Υ#"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125δ#"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ρ#"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¨$"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ό$"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Θ$"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ϋ$"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+M
+java:S2696μ$"6Make the enclosing method "static" or remove this set.(ΆΆ¬µ
+W	java:S125ο$"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ϊ$"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125…%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¥%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125°%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125»%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ζ%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ρ%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125έ%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ι%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125τ%"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125µ&"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1133Ι&"5Do not forget to remove this deprecated code someday.(‹ΰίΟψÿÿÿÿ
+W	java:S125Β&"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Υ&"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ώ&"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125‡'"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125”'"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ά'"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Α'"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ω'"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+d	java:S100‚("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(δοτμ
+i
+java:S3776‚("RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(δοτμ
+W	java:S125ώ'"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Η("<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ξ("<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ϋ("<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125π("<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ς("<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125ω("<This block of commented-out lines of code should be removed.(έςσ±
+i	java:S100Β)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ν•ω–ϋÿÿÿÿ
+R	java:S125Ί)"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Π)"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125έ)"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125σ)"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‡*"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125*"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125³*"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i	java:S100Λ*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(εέύωÿÿÿÿ
+W	java:S125Θ*"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125γ*"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ύ*"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+T
+java:S1117+"=Rename "tabSize" which hides the field declared at line 4975.(ϋζΐΗ
+W	java:S125»+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776Χ+"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¥Υυ―ϋÿÿÿÿ
+W	java:S125Ρ+"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+T
+java:S1117ξ+"=Rename "tabSize" which hides the field declared at line 4975.(ϋζΐΗ
+W	java:S125Ε,"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Μ,"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125λ,"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+=	java:S131σ,""Add a default case to this switch.(Ϊ¤‘ϊÿÿÿÿ
+W	java:S125ÿ,"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125-"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776¤-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(®Ηµί
+W	java:S125ή-"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125η-"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776ƒ."RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ΗΐΪΣÿÿÿÿÿ
+W	java:S125€."<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776·."RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÿεΌÒωÿÿÿÿ
+W	java:S125΄."<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ί."<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ι."<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.( ‹Έ‰ύÿÿÿÿ
+W	java:S125‹/"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ϊ/"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¥0"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125·0"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Γ0"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ξ0"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Χ0"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125α0"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ψ0"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125„1"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+L
+java:S1133¬1"5Do not forget to remove this deprecated code someday.(θ‰‘Β
+>
+java:S1123¬1"'Add the missing @Deprecated annotation.(θ‰‘Β
+W	java:S1251"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+[
+java:S1134¦1"DTake the required action to fix the issue indicated by this comment.(ΟΊ‹²
+W	java:S125±1"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+o
+java:S2975Ο2"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(―ΤΪ“ωÿÿÿÿ
+d
+java:S1182Ο2"HUse super.clone() to create and seed the cloned instance to be returned.(―ΤΪ“ωÿÿÿÿ
+W	java:S125Υ2"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Φ2"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ι2"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125φ2"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125χ2"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125€3"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‡3"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+S
+java:S18743"7Remove this use of "getMarkPosition"; it is deprecated.(†΄έϋÿÿÿÿ
+W	java:S1253"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S1253"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S1253"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125 3"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R
+java:S2696¶3"6Make the enclosing method "static" or remove this set.(κΟ— ÿÿÿÿÿ
+W	java:S125·3"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ι3"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Κ3"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776Π3"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ρ¥γ’
+W	java:S1254"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125©4"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125°4"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125·4"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Έ4"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Ί4"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Ξ4"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+F
+java:S3398Β)"*Move this method into "MouseWheelHandler".(Ν•ω–ϋÿÿÿÿ

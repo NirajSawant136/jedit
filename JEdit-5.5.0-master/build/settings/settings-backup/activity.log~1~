@@ -1,0 +1,184 @@
+Log file created on Fri Mar 01 15:58:31 CST 2024
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+3:58:31 PM [main] [message] Log: When reporting bugs, please include the following information:
+3:58:31 PM [main] [message] Log: java.version=1.8.0_402
+3:58:31 PM [main] [message] Log: java.vm.version=25.402-b08
+3:58:31 PM [main] [message] Log: java.vm.name=OpenJDK 64-Bit Server VM
+3:58:31 PM [main] [message] Log: java.runtime.version=1.8.0_402-b08
+3:58:31 PM [main] [message] Log: java.runtime.name=OpenJDK Runtime Environment
+3:58:31 PM [main] [message] Log: java.vendor=Amazon.com Inc.
+3:58:31 PM [main] [message] Log: java.compiler=null
+3:58:31 PM [main] [message] Log: os.name=Windows 11
+3:58:31 PM [main] [message] Log: os.version=10.0
+3:58:31 PM [main] [message] Log: os.arch=amd64
+3:58:31 PM [main] [message] Log: user.home=C:\Users\niraj
+3:58:31 PM [main] [message] Log: java.home=C:\Users\niraj\.jdks\corretto-1.8.0_402\jre
+3:58:31 PM [main] [message] Log: java.class.path=C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\charsets.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\access-bridge-64.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\cldrdata.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\dnsns.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\jaccess.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\jfxrt.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\localedata.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\nashorn.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\sunec.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\sunjce_provider.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\sunmscapi.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\sunpkcs11.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\zipfs.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\jce.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\jfr.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\jfxswt.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\jsse.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\management-agent.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\resources.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\rt.jar;C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\classes\core;C:\Users\niraj\Documents\JEdit\jsr305-3.0.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\lib\idea_rt.jar
+3:58:31 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/niraj/Documents/JEdit/JEdit-5.5.0-master/build/settings
+3:58:31 PM [main] [debug] jEdit: before splash screen activation:179 ms
+3:58:31 PM [main] [debug] jEdit: after splash screen activation:379 ms
+3:58:31 PM [main] [debug] MiscUtilities: Saving backup of file "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\activity.log" to "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\settings-backup\activity.log~1~"
+3:58:31 PM [main] [notice] jEdit: jEdit version 5.5.0
+3:58:31 PM [main] [message] jEdit: Settings directory is C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings
+3:58:31 PM [main] [message] jEdit: jEdit home directory is C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master
+3:58:31 PM [main] [debug] SplashScreen: init:47/124ms
+3:58:31 PM [main] [debug] SplashScreen: init system properties:33/157ms
+3:58:31 PM [main] [message] BeanShell: Beanshell Init
+3:58:31 PM [main] [debug] SplashScreen: init beanshell:301/458ms
+3:58:31 PM [main] [debug] SplashScreen: loading site properties:6/464ms
+3:58:31 PM [main] [debug] SplashScreen: loading user properties:16/480ms
+3:58:31 PM [main] [debug] GUIUtilities: Icon theme set to: tango
+3:58:31 PM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+3:58:31 PM [main] [debug] SplashScreen: init GUI:15/495ms
+3:58:31 PM [main] [debug] EditServer: jEdit server started on port 56815
+3:58:31 PM [main] [debug] EditServer: Authorization key is 559651447
+3:58:31 PM [main] [debug] SplashScreen: init server:2/497ms
+3:58:31 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+3:58:31 PM [main] [debug] SplashScreen: init look and feel:7/504ms
+3:58:31 PM [main] [debug] SplashScreen: init VFS Manager:1/505ms
+3:58:31 PM [main] [debug] ActionSet: Loading actions from file:/C:/Users/niraj/Documents/JEdit/JEdit-5.5.0-master/build/classes/core/org/gjt/sp/jedit/actions.xml
+3:58:31 PM [main] [debug] DockableWindowManager: Loading dockables from file:/C:/Users/niraj/Documents/JEdit/JEdit-5.5.0-master/build/classes/core/org/gjt/sp/jedit/dockables.xml
+3:58:31 PM [main] [debug] SplashScreen: init resources:166/671ms
+3:58:32 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+3:58:32 PM [main] [debug] SplashScreen: Migrate keymaps:167/838ms
+3:58:32 PM [main] [notice] jEdit: Loading plugins from C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\jars
+3:58:32 PM [main] [notice] jEdit: Loading plugins from C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\jars
+3:58:32 PM [main] [debug] SplashScreen: init plugins:57/895ms
+3:58:32 PM [main] [message] HistoryModel: Loading history
+3:58:32 PM [main] [debug] SplashScreen: init history model:14/909ms
+3:58:32 PM [main] [message] BufferHistory: Loading C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\recent.xml
+3:58:32 PM [main] [debug] SplashScreen: init buffer history:24/933ms
+3:58:32 PM [main] [message] KillRing: Loading C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\killring.xml
+3:58:32 PM [main] [debug] SplashScreen: init killring:15/948ms
+3:58:32 PM [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+3:58:32 PM [main] [debug] jEdit: SOCKS proxy disabled
+3:58:32 PM [main] [debug] jEdit: HTTP proxy disabled
+3:58:32 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+3:58:32 PM [main] [debug] SplashScreen: init various properties:157/1105ms
+3:58:32 PM [main] [message] jEdit: Loading mode catalog file C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\modes\catalog
+3:58:32 PM [main] [message] jEdit: Loading mode catalog file C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\modes\catalog
+3:58:32 PM [main] [debug] SplashScreen: init modes:37/1142ms
+3:58:32 PM [main] [debug] SplashScreen: activate plugins:20/1162ms
+3:58:32 PM [main] [debug] Macros: Registered beanshell macro handler
+3:58:32 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+3:58:32 PM [main] [debug] SplashScreen: init macros:73/1235ms
+3:58:32 PM [main] [message] BeanShell: Running script C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\startup\startup.bsh
+3:58:32 PM [main] [notice] jEdit$5: Loading edit mode C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\modes\text.xml
+3:58:32 PM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
+3:58:32 PM [main] [debug] SplashScreen: run startup scripts:377/1612ms
+3:58:32 PM [main] [debug] SplashScreen: run startup scripts:1/1613ms
+3:58:32 PM [main] [debug] SplashScreen: run startup scripts:1/1613ms
+3:58:32 PM [main] [debug] jEdit: main done:1986 ms
+3:58:32 PM [AWT-EventQueue-0] [message] PerspectiveManager: Loading C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\perspective.xml
+3:58:32 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=1.java.txt (%USERPROFILE%\Downloads\)]
+3:58:32 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=1.java.txt (%USERPROFILE%\Downloads\)]
+3:58:32 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=1.java.txt (%USERPROFILE%\Downloads\)]
+3:58:32 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=1.java.txt (%USERPROFILE%\Downloads\)]
+3:58:32 PM [AWT-EventQueue-0] [notice] jEdit$5: Loading edit mode C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\modes\ant.xml
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=build.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=build.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=build.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=build.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=gh.txt (%USERPROFILE%\Documents\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=gh.txt (%USERPROFILE%\Documents\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=gh.txt (%USERPROFILE%\Documents\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=gh.txt (%USERPROFILE%\Documents\)]
+3:58:33 PM [AWT-EventQueue-0] [notice] jEdit$5: Loading edit mode C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\modes\xml.xml
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=ivysettings.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=ivysettings.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=ivysettings.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=ivysettings.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)]
+3:58:33 PM [AWT-EventQueue-0] [notice] BufferLoadRequest: C:\Users\niraj\Documents\Niraj Sawant Fall 2023.pdf: UTF-8: java.nio.charset.MalformedInputException: Input length = 1
+3:58:33 PM [AWT-EventQueue-0] [notice] ErrorListDialog$ErrorEntry: C:\Users\niraj\Documents\Niraj Sawant Fall 2023.pdf:
+3:58:33 PM [AWT-EventQueue-0] [notice] ErrorListDialog$ErrorEntry: The file could not be loaded correctly (some data might be lost) with
+3:58:33 PM [AWT-EventQueue-0] [notice] ErrorListDialog$ErrorEntry: the encoding "UTF-8".
+3:58:33 PM [AWT-EventQueue-0] [notice] ErrorListDialog$ErrorEntry: (java.nio.charset.MalformedInputException: Input length = 1)
+3:58:33 PM [AWT-EventQueue-0] [notice] ErrorListDialog$ErrorEntry: Try selecting a different encoding.
+3:58:33 PM [AWT-EventQueue-0] [notice] ErrorListDialog$ErrorEntry: It can be selected with the menu File->Reload with Encoding.
+3:58:33 PM [AWT-EventQueue-0] [notice] ErrorListDialog$ErrorEntry: If you want it to be done automatically, add the candidates into
+3:58:33 PM [AWT-EventQueue-0] [notice] ErrorListDialog$ErrorEntry: "List of fallback encodings" in Encodings pane of Global Options.
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Niraj Sawant Fall 2023.pdf (%USERPROFILE%\Documents\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Niraj Sawant Fall 2023.pdf (%USERPROFILE%\Documents\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Niraj Sawant Fall 2023.pdf (%USERPROFILE%\Documents\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Niraj Sawant Fall 2023.pdf (%USERPROFILE%\Documents\)]
+3:58:33 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+3:58:33 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089 addBufferAt(1.java.txt (%USERPROFILE%\Downloads\),-1)
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer added 1.java.txt (%USERPROFILE%\Downloads\) at 0
+3:58:34 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089 addBufferAt(1.java.txt (%USERPROFILE%\Downloads\),0)
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089 addBufferAt(1.java.txt (%USERPROFILE%\Downloads\),1)
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089 addBufferAt(build.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\),2)
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer added build.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\) at 1
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089 addBufferAt(gh.txt (%USERPROFILE%\Documents\),3)
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer added gh.txt (%USERPROFILE%\Documents\) at 2
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089 addBufferAt(ivysettings.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\),4)
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer added ivysettings.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\) at 3
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089 addBufferAt(Niraj Sawant Fall 2023.pdf (%USERPROFILE%\Documents\),5)
+3:58:34 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer added Niraj Sawant Fall 2023.pdf (%USERPROFILE%\Documents\) at 4
+3:58:34 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+3:58:34 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+3:58:34 PM [AWT-EventQueue-0] [message] jEdit: Startup complete: 3683 ms
+3:58:34 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+3:58:37 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+3:58:49 PM [AWT-EventQueue-0] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+3:59:02 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\perspective.xml" to "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\settings-backup\perspective.xml~1~"
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0: Exception in thread "AWT-EventQueue-0" 
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0: java.lang.NullPointerException
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at sun.awt.windows.WInputMethod$1.run(WInputMethod.java:592)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventQueue.access$500(EventQueue.java:97)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventQueue$3.run(EventQueue.java:709)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventQueue$3.run(EventQueue.java:703)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.security.AccessController.doPrivileged(Native Method)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventQueue$4.run(EventQueue.java:733)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventQueue$4.run(EventQueue.java:731)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.security.AccessController.doPrivileged(Native Method)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+5:36:56 PM [AWT-EventQueue-0] [error] AWT-EventQueue-0:  at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+5:36:56 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+5:36:56 PM [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for all buffers
+5:36:56 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+5:37:10 PM [AWT-EventQueue-0] [message] PerspectiveManager: Saving C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\perspective.xml
+5:37:10 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\perspective.xml" to "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\settings-backup\perspective.xml~1~"
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: EditorExiting[source=null]
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer removed 1.java.txt (%USERPROFILE%\Downloads\)
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:1.java.txt (%USERPROFILE%\Downloads\) is in no bufferSet anymore, closing it
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer removed build.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:build.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\) is in no bufferSet anymore, closing it
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer removed gh.txt (%USERPROFILE%\Documents\)
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:gh.txt (%USERPROFILE%\Documents\) is in no bufferSet anymore, closing it
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer removed ivysettings.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\)
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:ivysettings.xml (%USERPROFILE%\Documents\JEdit\JEdit-5.5.0-master\) is in no bufferSet anymore, closing it
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSet: 515017089: Buffer removed Niraj Sawant Fall 2023.pdf (%USERPROFILE%\Documents\)
+5:37:10 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Niraj Sawant Fall 2023.pdf (%USERPROFILE%\Documents\) is in no bufferSet anymore, closing it
+5:37:10 PM [AWT-EventQueue-0] [message] BufferHistory: Saving C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\recent.xml
+5:37:10 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\recent.xml" to "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\settings-backup\recent.xml~1~"
+5:37:10 PM [AWT-EventQueue-0] [message] KillRing: Saving C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\killring.xml
+5:37:10 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\killring.xml" to "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\settings-backup\killring.xml~1~"
+5:37:10 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\properties" to "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\settings-backup\properties~1~"

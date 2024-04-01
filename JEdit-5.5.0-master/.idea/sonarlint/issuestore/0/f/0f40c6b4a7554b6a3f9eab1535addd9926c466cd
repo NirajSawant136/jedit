@@ -1,0 +1,38 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(όγ{
+u
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¶θΙόÿÿÿÿ
+p
+java:S2293Α"YReplace the type specification in this constructor call with the diamond operator ("<>").(φ¦ζυ
+A
+java:S1948H"+Make "delegated" transient or serializable.(ΓΡ¬γ
+{
+java:S1149J"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·ΪδΧ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(όγ{
+V	java:S125_"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+_
+java:S1117‘"CRename "invertedIndices" which hides the field declared at line 79.(½¶θΙόÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(έςσ±
+B
+java:S1168Ό"+Return an empty collection instead of null.(¥Ήο
+B
+java:S1168Ώ"+Return an empty collection instead of null.(¥Ήο
+W	java:S125Η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ή"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ϋ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

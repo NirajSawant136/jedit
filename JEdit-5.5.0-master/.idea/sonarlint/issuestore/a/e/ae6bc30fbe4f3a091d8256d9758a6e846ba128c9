@@ -1,0 +1,36 @@
+
+K
+java:S3740ή"/Provide the parametrized type for this generic.(ΪΨ¶δϋÿÿÿÿ
+o
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ε΄
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Θ­ΩΗ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(έςσ±
+P
+java:S1161b":Add the "@Override" annotation above this method signature(±νςΙ
+V	java:S125^"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Ρ«΄ώÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1161¥":Add the "@Override" annotation above this method signature(„ΰ
+W	java:S125Ά"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125΄"<This block of commented-out lines of code should be removed.(έςσ±
+Z
+java:S1155Ί">Use isEmpty() to check whether the collection is empty or not.(ψΉύÿÿÿÿ
+W	java:S125Λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ο"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ρ"<This block of commented-out lines of code should be removed.(έςσ±
+Q
+java:S1161ψ":Add the "@Override" annotation above this method signature(ΠσΨ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(ΥΌ‘…ϊÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125―"<This block of commented-out lines of code should be removed.(έςσ±

@@ -1,0 +1,62 @@
+
+u
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ŒµÄûÿÿÿÿ
+p
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ éÀ
+u
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Ø ïúÿÿÿÿ
+t	java:S135Á"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
+K
+java:S1066€"/Merge this if statement with the enclosing one.(Æœ¯œüÿÿÿÿ
+k	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨èÐúÿÿÿÿ
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨èÐúÿÿÿÿ
+l	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨èÐúÿÿÿÿ
+_
+java:S2259â"CA "NullPointerException" could be thrown; "other" is nullable here.(ùÞ•±ùÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(Ýòó±
+h
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ë…«§
+V	java:S125b"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125À"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125È"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ë¦–Š
+W	java:S125Á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125š"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125­"<This block of commented-out lines of code should be removed.(ªÉÑ
+R	java:S125¹"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125Á"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+[
+java:S1134…"DTake the required action to fix the issue indicated by this comment.(ïÍ³º
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125º"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+;
+java:S2097Ü"Add a type test to this method.(é˜Õþÿÿÿÿ
+B
+java:S2160ï"+Override the "equals" method in this class.(¶ü¬«
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Ýòó±

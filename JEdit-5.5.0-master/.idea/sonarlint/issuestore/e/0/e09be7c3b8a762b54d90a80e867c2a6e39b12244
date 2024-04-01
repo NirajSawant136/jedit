@@ -1,0 +1,57 @@
+
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΘΡΆϊÿÿÿÿ
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(σ―Έκϊÿÿÿÿ
+u
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΐΙƒψϋÿÿÿÿ
+u
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(©ΚΨϋÿÿÿÿ
+J
+java:S1066x"/Merge this if statement with the enclosing one.(²Ίξΰώÿÿÿÿ
+F
+java:S1066Θ"/Merge this if statement with the enclosing one.(ΡεΎΫ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S1258"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+h
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(•ΡΘρ
+V	java:S125K"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(μ™•„ύÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΅"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+F	java:S106Ό"+Replace this use of System.err by a logger.(«Ω±Ύόÿÿÿÿ
+W	java:S125Α"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ώ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΅"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ί"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ο"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ρ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Β"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Π"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ί"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(‚€£ούÿÿÿÿ
+W	java:S125ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+`
+java:S1134Χ"DTake the required action to fix the issue indicated by this comment.(Θ―ζ™ϋÿÿÿÿ
+i
+java:S1871•"MThis branch's code block is the same as the block for the branch on line 774.(ÒΜβ–ψÿÿÿÿ
+R	java:S125™"<This block of commented-out lines of code should be removed.(£ΙΣ—
+W	java:S125©"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ΐ"<This block of commented-out lines of code should be removed.(έςσ±
+8
+java:S1116Ρ"Remove this empty statement.(£σΞώÿÿÿÿ
+W	java:S125κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

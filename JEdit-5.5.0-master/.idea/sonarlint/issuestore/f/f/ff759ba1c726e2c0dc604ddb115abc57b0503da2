@@ -1,0 +1,34 @@
+
+Q	java:S125#"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1259"<This block of commented-out lines of code should be removed.(ìˆˆÑıÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161K":Add the "@Override" annotation above this method signature(ÇÜ×
+V	java:S125H"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(ô©ÑÇüÿÿÿÿ
+O
+java:S1161U":Add the "@Override" annotation above this method signature(Ó°Ö'
+V	java:S125R"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161]":Add the "@Override" annotation above this method signature(¿±¤×
+V	java:S125Z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161p":Add the "@Override" annotation above this method signature(”™Õ¯
+V	java:S125i"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161w":Add the "@Override" annotation above this method signature(è­›
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(ºùüüÿÿÿÿ
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(³¹³˜
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'javax.swing.border'.(Õ˜ÀÆÿÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'javax.swing.plaf.basic.BasicButtonUI'.(Áá£Ó
+h
+java:S1128 "MRemove this unused import 'javax.swing.plaf.basic.BasicBorders.ButtonBorder'.(ÈÕ¥¬üÿÿÿÿ
+X
+java:S1128!"=Remove this unused import 'org.gjt.sp.jedit.OperatingSystem'.(²í®Äıÿÿÿÿ

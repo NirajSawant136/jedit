@@ -1,0 +1,60 @@
+
+o	java:S135©"YReduce the total number of break and continue statements in this loop to use at most one.(ÂÇÙÏ
+n	java:S135Å"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öô¾£ûÿÿÿÿ
+g	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎŒëö
+e	java:S116"PRename this field "m_crc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‚ğ¡
+l	java:S116 "RRename this field "m_inUse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÉß²ûÿÿÿÿ
+q	java:S116!"WRename this field "m_seqToUnseq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å˜Àüÿÿÿÿ
+q	java:S116""WRename this field "m_unseqToSeq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–öĞûÿÿÿÿ
+o	java:S116#"URename this field "m_selector" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÍ¦ºıÿÿÿÿ
+m	java:S116$"XRename this field "m_selectorMtf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¢èÔ
+n	java:S116*"TRename this field "m_unzftab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÓ¯ïùÿÿÿÿ
+g	java:S116,"RRename this field "m_limit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£Úƒ
+e	java:S116-"QRename this field "m_base" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ï¸k
+f	java:S116."QRename this field "m_perm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦•ÖÑ
+i	java:S116/"TRename this field "m_minLens" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥«’Á
+j	java:S1161"VRename this field "m_streamEnd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Æ¯\
+r	java:S1162"XRename this field "m_currentChar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¦á…ùÿÿÿÿ
+s	java:S1164"YRename this field "m_currentState" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡°ùşúÿÿÿÿ
+h	java:S1165"SRename this field "m_rNToGo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¨Ò
+l	java:S1166"RRename this field "m_rTPos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì±¥ğÿÿÿÿÿ
+k	java:S1167"QRename this field "m_tPos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·çÃşÿÿÿÿ
+v	java:S116@"\Rename this field "m_blockRandomised" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó›ìôşÿÿÿÿ
+t	java:S116F"ZRename this field "m_blockSize100k" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä²Üîşÿÿÿÿ
+h	java:S116G"SRename this field "m_bsBuff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï·ò
+h	java:S116H"SRename this field "m_bsLive" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àãõá
+l	java:S116J"RRename this field "m_input" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÙÚşÿÿÿÿ
+r	java:S116L"]Rename this field "m_computedBlockCRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Š¸·
+z	java:S116M"`Rename this field "m_computedCombinedCRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä”†ïùÿÿÿÿ
+k	java:S116S"QRename this field "m_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÒûüÿÿÿÿ
+j	java:S116T"PRename this field "m_ll8" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŞÔÖúÿÿÿÿ
+m	java:S116U"SRename this field "m_nInUse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É±Ø÷üÿÿÿÿ
+n	java:S116Z"TRename this field "m_origPtr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü›Õîùÿÿÿÿ
+u	java:S116\"[Rename this field "m_storedBlockCRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Èùõùÿÿÿÿ
+s	java:S116]"^Rename this field "m_storedCombinedCRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”­ÒÖ
+d	java:S116^"ORename this field "m_tt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê…ˆ€
+S
+java:S4929"=Provide an override of "read(byte[],int,int)" for this class.(¥É§Â
+w
+java:S1450L"aRemove the "m_computedBlockCRC" field and declare it as a local variable in the relevant methods.(›Š¸·
+x
+java:S1450]"bRemove the "m_storedCombinedCRC" field and declare it as a local variable in the relevant methods.(”­ÒÖ
+E	java:S106t"+Replace this use of System.out by a logger.(ğ şıÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(¦¶¨¸øÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(„õˆï
+U
+java:S1854Ï"9Remove this useless assignment to local variable "cftab".(®»èÛøÿÿÿÿ
+n
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.(ºŸßèÿÿÿÿÿ
+2
+java:S3626—"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626Ş"Remove this redundant jump.(ÉŠ©ƒ
+W	java:S125×"<This block of commented-out lines of code should be removed.(ÁØ¡ùÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(©ŠæÊùÿÿÿÿ
+R	java:S125”"<This block of commented-out lines of code should be removed.(çÒà
+n
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ŒĞ¯÷ùÿÿÿÿ
+ã
+java:S6541ı"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 189 to 64, Complexity from 25 to 14, Nesting Level from 6 to 2, Number of Variables from 24 to 6.(ºŸßèÿÿÿÿÿ

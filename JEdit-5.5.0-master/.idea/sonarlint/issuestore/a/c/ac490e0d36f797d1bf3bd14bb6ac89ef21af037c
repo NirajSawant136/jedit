@@ -1,0 +1,20 @@
+
+D
+java:S3740?"/Provide the parametrized type for this generic.(ÑúåQ
+k
+java:S1104-"PMake kind a static final constant or non-public and provide accessors if needed.(…ü³ùÿÿÿÿ
+h
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(çÔ°
+P
+java:S11611":Add the "@Override" annotation above this method signature(çÔ°
+Q	java:S125C"<This block of commented-out lines of code should be removed.(ÛÑ –
+L
+java:S5261O"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+B
+java:S1125d"'Remove the unnecessary boolean literal.(„Œäíùÿÿÿÿ
+=
+java:S1125p"'Remove the unnecessary boolean literal.(­šÔ²
+W	java:S125’"<This block of commented-out lines of code should be removed.(İì’‚ÿÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(«Ä¥Ôşÿÿÿÿ
+M
+java:S5261Ê"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ

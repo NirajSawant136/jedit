@@ -1,0 +1,17 @@
+
+p
+java:S1192©"TDefine a constant instead of duplicating this literal "ioerror.write-error" 3 times.(Å‚Šñùÿÿÿÿ
+P
+java:S1141q"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(İòó±
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¬ìĞ¿üÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+E
+java:S2093v"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+C
+java:S1905—",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125ı"<This block of commented-out lines of code should be removed.(İòó±

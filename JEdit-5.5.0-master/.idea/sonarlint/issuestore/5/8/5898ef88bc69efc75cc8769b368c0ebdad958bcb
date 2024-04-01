@@ -1,0 +1,21 @@
+
+t
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÆé¤úÿÿÿÿ
+C
+java:S1604<"(Make this anonymous inner class a lambda(²âÄ÷þÿÿÿÿ
+=
+java:S1604F"(Make this anonymous inner class a lambda(½Òß>
+?
+java:S1604·"(Make this anonymous inner class a lambda(í»õ¿
+Q	java:S125,"<This block of commented-out lines of code should be removed.(Ýòó±
+h
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ž–…š
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(–ëúÔþÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(–ëúÔþÿÿÿÿ
+P
+java:S1161b":Add the "@Override" annotation above this method signature(«þ£•
+B
+java:S1125w"'Remove the unnecessary boolean literal.(¼Ðž†úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ø”›
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

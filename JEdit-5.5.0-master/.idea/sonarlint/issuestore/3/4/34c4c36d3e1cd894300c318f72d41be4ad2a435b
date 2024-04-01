@@ -1,0 +1,175 @@
+
+o
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä€ï´
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ‰ô
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ‰ô
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(àƒüÆıÿÿÿÿ
+g
+java:S1192²"PDefine a constant instead of duplicating this literal "EOL_SPAN_REGEXP" 3 times.(ù÷¯¡
+j
+java:S1192á"NDefine a constant instead of duplicating this literal "MARK_PREVIOUS" 3 times.(âƒÉÿÿÿÿÿ
+b
+java:S1192¬"KDefine a constant instead of duplicating this literal "empty-tag" 10 times.(É¥ˆñ
+a
+java:S1192R"FDefine a constant instead of duplicating this literal "RULES" 9 times.(£ÄòÉşÿÿÿÿ
+f
+java:S1192Ó"ODefine a constant instead of duplicating this literal "MARK_FOLLOWING" 3 times.(…®ÒÑ
+b
+java:S1192µ"KDefine a constant instead of duplicating this literal "SEQ_REGEXP" 3 times.(ğ´°ã
+e
+java:S1192¯"NDefine a constant instead of duplicating this literal "token-invalid" 3 times.(Š¢½
+b
+java:S1192h"GDefine a constant instead of duplicating this literal "regexp" 4 times.(Æê¬€ùÿÿÿÿ
+e
+java:S1192¤"IDefine a constant instead of duplicating this literal "EOL_SPAN" 3 times.( ³¤ªûÿÿÿÿ
+]
+java:S1192Ø"FDefine a constant instead of duplicating this literal "BEGIN" 5 times.(ÀØûº
+‹
+java:S1319®"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(æĞõáûÿÿÿÿ
+o
+java:S1104ë"SMake tagName a static final constant or non-public and provide accessors if needed.(ò©‡ëıÿÿÿÿ
+l
+java:S1104ì"UMake lastStart a static final constant or non-public and provide accessors if needed.(ûÇÙ«
+j
+java:S1104í"SMake lastEnd a static final constant or non-public and provide accessors if needed.(â®Æ 
+s
+java:S1104î"WMake lastKeyword a static final constant or non-public and provide accessors if needed.(ôˆûªûÿÿÿÿ
+m
+java:S1104ï"WMake lastSetName a static final constant or non-public and provide accessors if needed.(£Ó«6
+r
+java:S1104ğ"VMake lastEscape a static final constant or non-public and provide accessors if needed.(»åØøÿÿÿÿ
+q
+java:S1104ñ"[Make lastDelegateSet a static final constant or non-public and provide accessors if needed.(Ú—c
+o
+java:S1104ò"YMake lastNoWordSep a static final constant or non-public and provide accessors if needed.(åÁ–Q
+h
+java:S1104ó"QMake rules a static final constant or non-public and provide accessors if needed.(«ì½â
+u
+java:S1104ô"YMake lastDefaultID a static final constant or non-public and provide accessors if needed.(Ø“à§üÿÿÿÿ
+n
+java:S1104õ"WMake lastTokenID a static final constant or non-public and provide accessors if needed.(¨¡Šä
+p
+java:S1104ö"YMake lastMatchType a static final constant or non-public and provide accessors if needed.(ñ½®µ
+p
+java:S1104÷"TMake termChar a static final constant or non-public and provide accessors if needed.(¾ì”úÿÿÿÿ
+r
+java:S1104ø"[Make lastNoLineBreak a static final constant or non-public and provide accessors if needed.(µÓğ·
+w
+java:S1104ù"[Make lastNoWordBreak a static final constant or non-public and provide accessors if needed.(Çº¯÷üÿÿÿÿ
+q
+java:S1104ú"ZMake lastIgnoreCase a static final constant or non-public and provide accessors if needed.(ı›‹Ç
+{
+java:S1104û"_Make lastHighlightDigits a static final constant or non-public and provide accessors if needed.(ïñ…øÿÿÿÿ
+r
+java:S1104ü"[Make lastAtLineStart a static final constant or non-public and provide accessors if needed.(‡ïù¯
+{
+java:S1104ı"_Make lastAtWhitespaceEnd a static final constant or non-public and provide accessors if needed.(ÅÃ¾·ùÿÿÿÿ
+r
+java:S1104ş"[Make lastAtWordStart a static final constant or non-public and provide accessors if needed.(”¾ß
+r
+java:S1104ÿ"VMake lastRegexp a static final constant or non-public and provide accessors if needed.(†ãáÃûÿÿÿÿ
+u
+java:S1104€"YMake lastEndRegexp a static final constant or non-public and provide accessors if needed.(Éı›­ÿÿÿÿÿ
+t
+java:S1104"]Make lastStartPosMatch a static final constant or non-public and provide accessors if needed.(æ‘àÎ
+r
+java:S1104‚"[Make lastEndPosMatch a static final constant or non-public and provide accessors if needed.(ÖØÜ 
+s
+java:S1104ƒ"WMake lastDigitRE a static final constant or non-public and provide accessors if needed.(Å¸šªıÿÿÿÿ
+t
+java:S1104„"XMake lastHashChar a static final constant or non-public and provide accessors if needed.(ëØÀÓüÿÿÿÿ
+u
+java:S1104…"YMake lastHashChars a static final constant or non-public and provide accessors if needed.(¥ñ¼Ìüÿÿÿÿ
+`
+java:S2259Ë"IA "NullPointerException" could be thrown; "findParent()" can return null.(‚­ï‘
+e
+java:S2259‰"IA "NullPointerException" could be thrown; "findParent()" can return null.(Ù’ûúÿÿÿÿ
+`
+java:S2259Ä"IA "NullPointerException" could be thrown; "findParent()" can return null.(‚­ï‘
+e
+java:S2259Â"IA "NullPointerException" could be thrown; "findParent()" can return null.(ƒÏú—şÿÿÿÿ
+Y
+java:S2259I"CA "NullPointerException" could be thrown; "qName" is nullable here.(¢Ñ¡Ò
+e
+java:S2259™"IA "NullPointerException" could be thrown; "findParent()" can return null.(Ù’ûúÿÿÿÿ
+e
+java:S2259Ê"IA "NullPointerException" could be thrown; "findParent()" can return null.(ƒÏú—şÿÿÿÿ
+O
+java:S5993/"9Change the visibility of this constructor to "protected".(˜ìÙÍ
+r
+java:S1149®"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(æĞõáûÿÿÿÿ
+g
+java:S1149×"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ğ»ş
+r
+java:S1149Ú"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(„ôîûÿÿÿÿ
+m
+java:S1149Û"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ñãÍ‡
+
+java:S1149á"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(İ³Óşıÿÿÿÿ
+v
+java:S1149ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ûÇÙ«
+v
+java:S1149í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(â®Æ 
+{
+java:S1149î"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôˆûªûÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(İòó±
+U
+java:S11618":Add the "@Override" annotation above this method signature(‘¯äŠøÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161>":Add the "@Override" annotation above this method signature(ŸÀÎÈ
+V	java:S125;"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Âñ¹¯
+P
+java:S1161D":Add the "@Override" annotation above this method signature(Âñ¹¯
+V	java:S125A"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(¼–±Ê
+P
+java:S1161t":Add the "@Override" annotation above this method signature(¼–±Ê
+V	java:S125q"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(ßÄ™¦ÿÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161”":Add the "@Override" annotation above this method signature(û–»
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125À"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Í"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125â"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(İòó±
+i
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¼™—Ú
+I
+java:S1659ö"-Declare "delegateSetName" on a separate line.(·ÒÙøÿÿÿÿ
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Á¹ÅŞúÿÿÿÿ
+Ü
+java:S6541t"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 250 to 64, Complexity from 41 to 14, Nesting Level from 4 to 2, Number of Variables from 9 to 6.(¼–±Ê

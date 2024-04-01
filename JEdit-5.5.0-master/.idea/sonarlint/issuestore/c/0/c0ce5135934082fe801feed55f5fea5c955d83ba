@@ -1,0 +1,30 @@
+
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õò‘şÿÿÿÿ
+f	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‹û®
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìå´–üÿÿÿÿ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒæßÿÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ„Âè
+g	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‰Ÿª
+l	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìå´–üÿÿÿÿ
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­€ ğÿÿÿÿÿ
+l	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šĞÇûÿÿÿÿ
+l	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı²“äüÿÿÿÿ
+l	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‡º¸üÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å—¥˜ıÿÿÿÿ
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ûæ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¨“
+\
+java:S2184k"ACast one of the operands of this addition operation to a "float".(¢ûÿÿÿÿ
+[
+java:S2184"DCast one of the operands of this subtraction operation to a "float".(Œ„Âè
+Q	java:S125'"<This block of commented-out lines of code should be removed.(İòó±
+U
+java:S1161S":Add the "@Override" annotation above this method signature(Åç˜¼ÿÿÿÿÿ
+Q	java:S125O"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125q"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125È"<This block of commented-out lines of code should be removed.(İòó±
+\
+java:S3252Û"@Use static access with "java.text.CharacterIterator" for "DONE".(à—€÷ÿÿÿÿÿ
+`
+java:S1134”"DTake the required action to fix the issue indicated by this comment.(Üì¹¡ıÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(İòó±

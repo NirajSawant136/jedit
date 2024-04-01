@@ -1,0 +1,16 @@
+
+o
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(∏Ü¬ù
+d
+java:S11920"NDefine a constant instead of duplicating this literal "options.print" 5 times.(“é Ã
+B
+java:S2387|"-"font" is the name of a field in "Component".(‚€°k
+Q	java:S125"<This block of commented-out lines of code should be removed.(›ÚÛ±
+U
+java:S1161)":Add the "@Override" annotation above this method signature(øÑÁ®˙ˇˇˇˇ
+V	java:S125&"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+U
+java:S1161m":Add the "@Override" annotation above this method signature(Ò‚¿«˙ˇˇˇˇ
+V	java:S125j"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+V	java:S125y"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(›ÚÛ±

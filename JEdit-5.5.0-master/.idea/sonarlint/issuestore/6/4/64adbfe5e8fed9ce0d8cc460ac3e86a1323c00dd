@@ -1,0 +1,105 @@
+
+E
+java:S3740e"/Provide the parametrized type for this generic.(İ«™
+E
+java:S3740e"/Provide the parametrized type for this generic.(İ«™
+E
+java:S3740k"/Provide the parametrized type for this generic.(ÜÉöé
+E
+java:S3740k"/Provide the parametrized type for this generic.(ÜÉöé
+J
+java:S3740r"/Provide the parametrized type for this generic.(üïá·ÿÿÿÿÿ
+J
+java:S3740r"/Provide the parametrized type for this generic.(üïá·ÿÿÿÿÿ
+J
+java:S3740s"/Provide the parametrized type for this generic.(”ä´°şÿÿÿÿ
+J
+java:S3740s"/Provide the parametrized type for this generic.(”ä´°şÿÿÿÿ
+E
+java:S3740u"/Provide the parametrized type for this generic.(šÂêó
+E
+java:S3740u"/Provide the parametrized type for this generic.(šÂêó
+D
+java:S3740v"/Provide the parametrized type for this generic.(Ô±ñF
+D
+java:S3740v"/Provide the parametrized type for this generic.(Ô±ñF
+K
+java:S3740‹"/Provide the parametrized type for this generic.(º®ì²ıÿÿÿÿ
+F
+java:S3740¥"/Provide the parametrized type for this generic.(Ã±ÊÔ
+F
+java:S3740¬"/Provide the parametrized type for this generic.(Âµß„
+K
+java:S3740¹"/Provide the parametrized type for this generic.(Ş©ºªıÿÿÿÿ
+F
+java:S3740İ"/Provide the parametrized type for this generic.(±—‚³
+F
+java:S3740à"/Provide the parametrized type for this generic.(¥±ª
+K
+java:S3740¥"/Provide the parametrized type for this generic.(àëØšıÿÿÿÿ
+K
+java:S3740³"/Provide the parametrized type for this generic.(ñŞöíşÿÿÿÿ
+K
+java:S3740Æ"/Provide the parametrized type for this generic.(”–ğ”üÿÿÿÿ
+K
+java:S3740á"/Provide the parametrized type for this generic.(¾’Çóøÿÿÿÿ
+K
+java:S3740â"/Provide the parametrized type for this generic.(ùÅÕËşÿÿÿÿ
+K
+java:S3740ã"/Provide the parametrized type for this generic.(Ÿ¸¨Ëùÿÿÿÿ
+K
+java:S3740ä"/Provide the parametrized type for this generic.(àêÛúÿÿÿÿ
+K
+java:S3740’"/Provide the parametrized type for this generic.(Œ¥ä¸úÿÿÿÿ
+K
+java:S3740Ø"/Provide the parametrized type for this generic.(è—ÙŸûÿÿÿÿ
+K
+java:S3740İ"/Provide the parametrized type for this generic.(¨°ùáüÿÿÿÿ
+`
+java:S2259ö"DA "NullPointerException" could be thrown; "target" is nullable here.(¯øÄúÿÿÿÿ
+`
+java:S2259õ"DA "NullPointerException" could be thrown; "target" is nullable here.(À…¡Äıÿÿÿÿ
+m
+java:S3008T"RRename this field "NOVALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¨ã‚ıÿÿÿÿ
+
+java:S1186ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍÆŠ‘şÿÿÿÿ
+
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆºÓİûÿÿÿÿ
+
+java:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÖ¿ùÿÿÿÿ
+
+java:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×Ûò“ÿÿÿÿÿ
+l
+java:S1149e"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(İ«™
+l
+java:S1149k"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÜÉöé
+q
+java:S1149r"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(üïá·ÿÿÿÿÿ
+q
+java:S1149s"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(”ä´°şÿÿÿÿ
+l
+java:S1149u"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(šÂêó
+k
+java:S1149v"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ô±ñF
+F
+java:S2065e"0Remove the "transient" modifier from this field.(İ«™
+F
+java:S2065k"0Remove the "transient" modifier from this field.(ÜÉöé
+K
+java:S2065r"0Remove the "transient" modifier from this field.(üïá·ÿÿÿÿÿ
+K
+java:S2065s"0Remove the "transient" modifier from this field.(”ä´°şÿÿÿÿ
+F
+java:S2065u"0Remove the "transient" modifier from this field.(šÂêó
+E
+java:S2065v"0Remove the "transient" modifier from this field.(Ô±ñF
+B
+java:S1075»"&Remove this hard-coded path-delimiter.(ËÎ¯óıÿÿÿÿ
+F	java:S106Á"+Replace this use of System.out by a logger.(£Ó¤¹şÿÿÿÿ
+F	java:S106Å"+Replace this use of System.err by a logger.(Şàš¬øÿÿÿÿ
+F	java:S106Ê"+Replace this use of System.err by a logger.(¶×Î’ùÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(ñ™‘ûúÿÿÿÿ
+;
+java:S2097ò"Add a type test to this method.(İ¢êÍıÿÿÿÿ
+E
+java:S1940€")Use the opposite operator ("!=") instead.(Ó¥¡Ïùÿÿÿÿ

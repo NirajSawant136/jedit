@@ -1,0 +1,47 @@
+
+l	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡íÂ­øÿÿÿÿ
+k
+java:S1104Ñ"UMake actionSet a static final constant or non-public and provide accessors if needed.(¦Ðâ	
+g
+java:S1104Ò"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+g
+java:S1104Ó"QMake label a static final constant or non-public and provide accessors if needed.(¡ˆž
+j
+java:S1104Ô"SMake tooltip a static final constant or non-public and provide accessors if needed.(ùŒÜÜ
+p
+java:S1104Õ"TMake shortcut a static final constant or non-public and provide accessors if needed.(æàüšÿÿÿÿÿ
+p
+java:S1104Ö"TMake isPrefix a static final constant or non-public and provide accessors if needed.(›Ü¨êÿÿÿÿÿ
+R
+java:S4973ˆ"<Strings and Boxed types should be compared using "equals()".(ÚƒÔ
+E
+java:S1948†")Make "binding" transient or serializable.(Íäðäþÿÿÿÿ
+I
+java:S1948‡"-Make "allBindings" transient or serializable.(›Äêšþÿÿÿÿ
+D
+java:S1948ˆ"-Make "debugBuffer" transient or serializable.(žæ¤ø
+Q	java:S125%"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S125="<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125s"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125î"<This block of commented-out lines of code should be removed.(‰°Íßûÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+M
+java:S5261“"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¾"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‡íÂ­øÿÿÿÿ
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

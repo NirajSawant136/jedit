@@ -1,0 +1,11 @@
+
+y
+java:S1488/"^Immediately return this expression instead of assigning it to the temporary variable "widget".(À·›ëýÿÿÿÿ
+C
+java:S5411R"(Use a primitive boolean expression here.(àê¼†ýÿÿÿÿ
+>
+java:S5411V"(Use a primitive boolean expression here.(»ŽÎß
+Q	java:S125%"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S1251"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(¢ä–Êùÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

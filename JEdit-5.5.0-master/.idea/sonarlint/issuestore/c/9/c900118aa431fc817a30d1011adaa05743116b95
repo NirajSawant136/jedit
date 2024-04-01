@@ -1,0 +1,32 @@
+
+_
+java:S2583¯"CChange this condition so that it does not always evaluate to "true"(½Ö¯Ğüÿÿÿÿ
+Z
+java:S2583Ó"CChange this condition so that it does not always evaluate to "true"(¥×‹“
+Y
+java:S2583¾"CChange this condition so that it does not always evaluate to "true"(¡ÿ»X
+Z
+java:S2583š"CChange this condition so that it does not always evaluate to "true"(±ø²Ÿ
+l
+java:S1845ã"PRename field "center" to prevent any misunderstanding/clash with field "CENTER".(Ì®øóûÿÿÿÿ
+h
+java:S1845ä"LRename field "left" to prevent any misunderstanding/clash with field "LEFT".(§êãúÿÿÿÿ
+j
+java:S1845å"NRename field "right" to prevent any misunderstanding/clash with field "RIGHT".(¬ÍÍ³øÿÿÿÿ
+g
+java:S1845æ"PRename field "bottom" to prevent any misunderstanding/clash with field "BOTTOM".(±’ı‚
+f
+java:S1845ç"JRename field "top" to prevent any misunderstanding/clash with field "TOP".(ÒçÚÈûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+<	java:S131D""Add a default case to this switch.(àĞŠ¹ıÿÿÿÿ
+V	java:S125a"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125|"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(İòó±
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼Šíˆıÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125÷"<This block of commented-out lines of code should be removed.(İòó±

@@ -1,0 +1,54 @@
+
+k
+java:S1192×"ODefine a constant instead of duplicating this literal "plugin-manager" 3 times.(Ñó°áøÿÿÿÿ
+J
+java:S1121²".Extract the assignment out of this expression.(·Ñ–ìøÿÿÿÿ
+J
+java:S1121´".Extract the assignment out of this expression.(ô–ºıûÿÿÿÿ
+J
+java:S1121¶".Extract the assignment out of this expression.(Ä¯ì›şÿÿÿÿ
+K
+java:S1066·"/Merge this if statement with the enclosing one.(º™¼üÿÿÿÿ
+E
+java:S1066Á"/Merge this if statement with the enclosing one.(§²Èa
+C
+java:S1604X"(Make this anonymous inner class a lambda(Õ‰²­ıÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(¯øÄ
+d
+java:S3973¾"HUse indentation to denote the code conditionally executed by this "for".(û´Ôıÿÿÿÿ
+K
+java:S2387Œ"/"parent" is the name of a field in "Component".(ış”Üùÿÿÿÿ
+H
+java:S1948‰",Make "pluginList" transient or serializable.(Ê…»÷ûÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125;"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+L
+java:S2696A"6Make the enclosing method "static" or remove this set.(¼®‚®
+V	java:S125E"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125j"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125p"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125|"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(Êà¼
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+M
+java:S5261¾"1Add explicit curly braces to avoid dangling else.(û´Ôıÿÿÿÿ
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125î"<This block of commented-out lines of code should be removed.(İòó±
+N
+java:S1135ø"2Complete the task associated to this TODO comment.(í‹ûêûÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125“"<This block of commented-out lines of code should be removed.(İòó±

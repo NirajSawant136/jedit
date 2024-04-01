@@ -1,0 +1,71 @@
+
+p
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍôÌÛ
+p
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¡÷¸
+u
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÎßøÿÿÿÿ
+p
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(·à±Ÿ
+p
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¡÷¸
+u
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÎßøÿÿÿÿ
+p
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(·à±Ÿ
+p
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¡÷¸
+u
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÎßøÿÿÿÿ
+p
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(·à±Ÿ
+p
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¡÷¸
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÎßøÿÿÿÿ
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(·à±Ÿ
+p
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(äŞä
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÄâ³ÿÿÿÿÿ
+u
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò‰Ìöüÿÿÿÿ
+o
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÛ¾.
+o
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¡f
+o
+java:S2293“	"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¡f
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(êë¿Êüÿÿÿÿ
+g
+java:S1301°"KReplace this "switch" statement by "if" statements to increase readability.( ñ·µşÿÿÿÿ
+g
+java:S1301Ğ"KReplace this "switch" statement by "if" statements to increase readability.(‡†ş¾øÿÿÿÿ
+g
+java:S1301ê"KReplace this "switch" statement by "if" statements to increase readability.(ûšÏöüÿÿÿÿ
+e
+java:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(¥…İ³
+
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢Ô¡›ÿÿÿÿÿ
+r
+java:S1149‘"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÑÈŞáşÿÿÿÿ
+R	java:S107‰"<Method has 8 parameters, which is greater than 7 authorized.(€î£—
+i
+java:S2786³"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ë¬¶ü
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(——µîşÿÿÿÿ
+j
+java:S3776‹"SRefactor this method to reduce its Cognitive Complexity from 105 to the 15 allowed.(±†“
+U
+java:S1854â">Remove this useless assignment to local variable "modifySize".(£ºÜ­
+`
+java:S3358Ï"DExtract this nested ternary operation into an independent statement.(âÖˆÈûÿÿÿÿ
+i
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(€î£—
+j
+java:S3776ò"SRefactor this method to reduce its Cognitive Complexity from 104 to the 15 allowed.(§¥ş·
+Ş
+java:S6541‰"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 302 to 64, Complexity from 50 to 14, Nesting Level from 4 to 2, Number of Variables from 63 to 6.(€î£—
+Ş
+java:S6541ò"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 177 to 64, Complexity from 37 to 14, Nesting Level from 7 to 2, Number of Variables from 36 to 6.(§¥ş·

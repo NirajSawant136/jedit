@@ -1,0 +1,26 @@
+
+Z	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(ÇšÄ
+q
+java:S1192x"VDefine a constant instead of duplicating this literal "constructed empty LHS" 3 times.(µ¤óÃÿÿÿÿÿ
+[
+java:S2583á"DChange this condition so that it does not always evaluate to "false"(Úé’á
+d
+java:S1845H"NRename field "field" to prevent any misunderstanding/clash with field "FIELD".(«Â†
+d
+java:S1845J"NRename field "index" to prevent any misunderstanding/clash with field "INDEX".(Î‚í„
+¥
+java:S1845½"Rename method "assign" to prevent any misunderstanding/clash with field "ASSIGN" defined in interface "org.gjt.sp.jedit.bsh.ParserConstants".(Ş«œõ
+X
+java:S1659?"BDeclare "FIELD" and all following declarations on a separate line.(Ğ¥îÏ
+=
+java:S1948H"'Make "field" transient or serializable.(«Â†
+C
+java:S1948I"(Make "object" transient or serializable.(„Œ·Øúÿÿÿÿ
+P	java:S125S"<This block of commented-out lines of code should be removed.(“ø–D
+i
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ş«œõ
+H
+java:S3011Ğ",This accessibility bypass should be removed.(æôÃóşÿÿÿÿ
+O
+java:S1117İ"8Rename "type" which hides the field declared at line 68.(†£òè
+R	java:S125é"<This block of commented-out lines of code should be removed.(È¼™´

@@ -1,0 +1,61 @@
+
+t
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôóúÿÿÿÿ
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃİÁ
+u
+java:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦…Â¸øÿÿÿÿ
+e
+java:S1192f"ODefine a constant instead of duplicating this literal "view.antiAlias" 3 times.( Šù
+p
+java:S1192ò"TDefine a constant instead of duplicating this literal "view.fontSubstList." 4 times.(»º÷Ãøÿÿÿÿ
+f
+java:S1192r"QDefine a constant instead of duplicating this literal "options.textarea" 5 times.(Õ½W
+J
+java:S1121Š".Extract the assignment out of this expression.(²Äøÿÿÿÿ
+E
+java:S1121".Extract the assignment out of this expression.(óÇğÛ
+J
+java:S1121©".Extract the assignment out of this expression.(ïßõÀúÿÿÿÿ
+J
+java:S1121¯".Extract the assignment out of this expression.(ÑúÄ‘øÿÿÿÿ
+E
+java:S1121µ".Extract the assignment out of this expression.(…ÁôŒ
+J
+java:S1121½".Extract the assignment out of this expression.(Í¹úÇüÿÿÿÿ
+J
+java:S1121Ä".Extract the assignment out of this expression.(›‰Šøÿÿÿÿ
+J
+java:S1121Ì".Extract the assignment out of this expression.(ùÆñûÿÿÿÿ
+E
+java:S1121Ó".Extract the assignment out of this expression.(åÔ
+E
+java:S1121Ú".Extract the assignment out of this expression.(£®ƒÏ
+E
+java:S1121á".Extract the assignment out of this expression.(ÕÑ¥“
+C
+java:S1604A"(Make this anonymous inner class a lambda(½’ÇÛøÿÿÿÿ
+C
+java:S1604R"(Make this anonymous inner class a lambda(Õ ³øùÿÿÿÿ
+C
+java:S1604h"(Make this anonymous inner class a lambda(‘Ú•óÿÿÿÿÿ
+C
+java:S2387¸"-"font" is the name of a field in "Component".(âÛ¡k
+Q	java:S125'"<This block of commented-out lines of code should be removed.(İòó±
+U
+java:S11617":Add the "@Override" annotation above this method signature(•‚İôıÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+\
+java:S3252€"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(…‰éûÿÿÿÿ
+V
+java:S1161ÿ":Add the "@Override" annotation above this method signature(íøºåşÿÿÿÿ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(İòó±
+Q
+java:S1854Ë"5Remove this useless assignment to local variable "f".(»º÷Ãøÿÿÿÿ
+>
+java:S1905Ò"'Remove this unnecessary cast to "Font".(ÈŒ¬ó
+P
+java:S1161ç":Add the "@Override" annotation above this method signature(÷²«k
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

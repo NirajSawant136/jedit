@@ -1,0 +1,16 @@
+
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ¹–®ÿÿÿÿÿ
+C
+java:S1604S"(Make this anonymous inner class a lambda(ÌîŠìþÿÿÿÿ
+c
+java:S3824Q"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(´‡íŠþÿÿÿÿ
+U
+java:S1948˜"9Make "propertyChangeListeners" transient or serializable.(õ¹–®ÿÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(Ýòó±
+O
+java:S1161M":Add the "@Override" annotation above this method signature(ŒŸ
+V	java:S125m"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125•"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125™"<This block of commented-out lines of code should be removed.(Ýòó±

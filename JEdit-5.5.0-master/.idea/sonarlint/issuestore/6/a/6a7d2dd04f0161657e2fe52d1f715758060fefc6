@@ -1,0 +1,33 @@
+
+J
+java:S3740^"/Provide the parametrized type for this generic.(ÕÛÓşÿÿÿÿ
+E
+java:S3740v"/Provide the parametrized type for this generic.(ŠÌ­Ş
+K
+java:S3740«"/Provide the parametrized type for this generic.(º‡‹Ìüÿÿÿÿ
+K
+java:S3740²"/Provide the parametrized type for this generic.(è—ÙŸûÿÿÿÿ
+F
+java:S3740Ç"/Provide the parametrized type for this generic.(˜´Ò‚
+K
+java:S3740á"/Provide the parametrized type for this generic.(ë‡§¨şÿÿÿÿ
+F
+java:S3740ï"/Provide the parametrized type for this generic.(ÑÌÓ
+F
+java:S3740õ"/Provide the parametrized type for this generic.(¨ŞÊ«
+F
+java:S3740¤"/Provide the parametrized type for this generic.(Ç°©µ
+P
+java:S11610":Add the "@Override" annotation above this method signature(çÔ°
+S
+java:S1854O"=Remove this useless assignment to local variable "namespace".(°íâÕ
+M
+java:S1854V"7Remove this useless assignment to local variable "obj".(Œ³Ğ®
+D
+java:S1481O".Remove this unused "namespace" local variable.(°íâÕ
+R
+java:S2696¯"6Make the enclosing method "static" or remove this set.(ÓÀÔ¸úÿÿÿÿ
+W
+java:S1193½"@Replace the usage of the "instanceof" operator by a catch block.(—š³ˆ
+B
+java:S1172Ç"+Remove this unused method parameter "args".(˜´Ò‚

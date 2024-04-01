@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\niraj\Downloads\1.java.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build.xml</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\niraj\Documents\gh.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\ivysettings.xml</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">C:\Users\niraj\Documents\Niraj Sawant Fall 2023.pdf</BUFFER>
+<VIEW PLAIN="FALSE">
+<PANES>
+"C:\\Users\\niraj\\Downloads\\1.java.txt" buffer "C:\\Users\\niraj\\Downloads\\1.java.txt" buff "C:\\Users\\niraj\\Documents\\JEdit\\JEdit-5.5.0-master\\build.xml" buff "C:\\Users\\niraj\\Documents\\gh.txt" buff "C:\\Users\\niraj\\Documents\\JEdit\\JEdit-5.5.0-master\\ivysettings.xml" buff "C:\\Users\\niraj\\Documents\\Niraj Sawant Fall 2023.pdf" buff "global" bufferset
+</PANES>
+<GEOMETRY X="575" Y="211" WIDTH="1016" HEIGHT="744" EXT_STATE="0" />
+</VIEW>
+</PERSPECTIVE>

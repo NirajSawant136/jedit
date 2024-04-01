@@ -1,0 +1,11 @@
+
+t
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôœ»µûÿÿÿÿ
+g
+java:S11920"LDefine a constant instead of duplicating this literal "no-settings" 4 times.(æÎ†Œÿÿÿÿÿ
+`
+java:S2583ÿ"DChange this condition so that it does not always evaluate to "false"(¿ÈžÒüÿÿÿÿ
+`
+java:S2583÷"DChange this condition so that it does not always evaluate to "false"(¿ÈžÒüÿÿÿÿ
+´
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.( ¿ôÓýÿÿÿÿ

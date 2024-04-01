@@ -1,0 +1,4 @@
+
+p	java:S116V"VRename this field "m_globalCrc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á·äµþÿÿÿÿ
+q
+java:S3008"VRename this field "CRC32_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÚˆûÿÿÿÿÿ

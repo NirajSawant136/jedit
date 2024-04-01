@@ -1,0 +1,541 @@
+
+a	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(ŸÛÈÆüÿÿÿÿ
+E
+java:S1121…".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121…".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121…".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Ü".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Ü".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Ü".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121¯".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121¯".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121¯".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121ı".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121ı".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121ı".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121»".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121»".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121»".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121ï".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121ï".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121ï".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121™".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121™".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121™".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Á".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Á".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Á".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121ç".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121ç".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121ç".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Œ".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Œ".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Œ".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121­".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121­".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121­".Extract the assignment out of this expression.(™é±Ş
+E
+java:S1121Ã".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121Ã".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121Ù".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121Ù".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121í".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121í".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121ƒ".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121ƒ".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121™".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121™".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121±".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121±".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121Ç".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121Ç".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121Ù".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121Ù".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121ğ".Extract the assignment out of this expression.(Ã¸İ«
+E
+java:S1121ğ".Extract the assignment out of this expression.(Ã¸İ«
+J
+java:S1121‚	".Extract the assignment out of this expression.(–âùàşÿÿÿÿ
+J
+java:S1121”	".Extract the assignment out of this expression.(–âùàşÿÿÿÿ
+J
+java:S1121¦	".Extract the assignment out of this expression.(–âùàşÿÿÿÿ
+J
+java:S1121¸	".Extract the assignment out of this expression.(–âùàşÿÿÿÿ
+J
+java:S1121Ê	".Extract the assignment out of this expression.(–âùàşÿÿÿÿ
+J
+java:S1121Ü	".Extract the assignment out of this expression.(–âùàşÿÿÿÿ
+E
+java:S1121Ò".Extract the assignment out of this expression.(Úıô¡
+g	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÎÎ™
+g	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜøŒŞ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‡”Ùùÿÿÿÿ
+g	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àˆº´
+g
+java:S1301Î"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301à"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301÷"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301‰	"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301›	"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301­	"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301¿	"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301Ñ	"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301ã	"KReplace this "switch" statement by "if" statements to increase readability.(¶ËßÜüÿÿÿÿ
+g
+java:S1301à"KReplace this "switch" statement by "if" statements to increase readability.(ÇŠª·ÿÿÿÿÿ
+g
+java:S1301ê"KReplace this "switch" statement by "if" statements to increase readability.(ÇŠª·ÿÿÿÿÿ
+l
+java:S1104"WMake debugStream a static final constant or non-public and provide accessors if needed.(¾Ó¯w
+r	java:S116³"WRename this field "input_stream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â°˜şÿÿÿÿ
+9
+java:S2386ˆ"Make this member "protected".(éŸì¯ÿÿÿÿÿ
+9
+java:S2386§"Make this member "protected".(¼Íîüÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(¾Ó¯w
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥àù’úÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(¥àù’úÿÿÿÿ
+I
+java:S1172".Remove this unused method parameter "active2".(¥àù’úÿÿÿÿ
+i	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§³£œùÿÿÿÿ
+c	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡Ä
+d	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¢õ§
+^
+java:S1479¦"BReduce the number of non-empty switch cases from 47 to at most 30.(¶ËßÜüÿÿÿÿ
+i	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¹í—ùÿÿÿÿ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ê¹í—ùÿÿÿÿ
+‡
+java:S2234¯"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(Â‡ÅËüÿÿÿÿ
+‡
+java:S2234Ğ"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ğ–“áùÿÿÿÿ
+‚
+java:S2234Ò"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(©×÷
+‡
+java:S2234Ô"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ïĞË®şÿÿÿÿ
+‡
+java:S2234Ö"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ÚÆÕÔùÿÿÿÿ
+‚
+java:S2234Ü"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(Ø…²…
+
+java:S2234Ş"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(„Ã!
+‚
+java:S2234à"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ÄĞ“
+‡
+java:S2234â"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(Òï„ùÿÿÿÿ
+‡
+java:S2234ä"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(Şşş¾üÿÿÿÿ
+
+java:S2234æ"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(íç×
+‡
+java:S2234í"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(Ì©‚ışÿÿÿÿ
+‡
+java:S2234ï"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(»õÓûÿÿÿÿ
+‚
+java:S2234ñ"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(¼±®Ì
+‡
+java:S2234ó"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ğËºµùÿÿÿÿ
+‚
+java:S2234õ"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(«¢²
+‡
+java:S2234÷"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(äó„àüÿÿÿÿ
+‚
+java:S2234ù"kParameters to jjMoveStringLiteralDfa2_0 have the same names but not the same order as the method arguments.(ô©ÅÌ
+d	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İíü¸
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(İíü¸
+‡
+java:S2234š"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(İ€ìêÿÿÿÿÿ
+‡
+java:S2234œ"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(Üª“ïüÿÿÿÿ
+‚
+java:S2234"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ˆš¸¢
+‚
+java:S2234 "kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(†©È¾
+
+java:S2234¢"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(Ğùî
+‚
+java:S2234¤"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ÿ¯²­
+‡
+java:S2234¦"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(„¸•×ûÿÿÿÿ
+‚
+java:S2234¨"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(¨‹’¿
+‡
+java:S2234ª"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ÀÂ¸£ùÿÿÿÿ
+‡
+java:S2234¬"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ÅŒèúÿÿÿÿ
+‚
+java:S2234®"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(ªîÚ½
+‡
+java:S2234·"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(©ªÈæúÿÿÿÿ
+‚
+java:S2234¹"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(²²•ä
+‚
+java:S2234Ê"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(Œã—Ø
+‚
+java:S2234Ì"kParameters to jjMoveStringLiteralDfa3_0 have the same names but not the same order as the method arguments.(àÜ¾Ù
+d	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÛğ
+i
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(óÛğ
+‡
+java:S2234ê"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(Èé£Ìùÿÿÿÿ
+‡
+java:S2234ì"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(¤À½üÿÿÿÿ
+‡
+java:S2234î"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(…Á˜âøÿÿÿÿ
+‡
+java:S2234ğ"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(¿ùÌ¿ıÿÿÿÿ
+‡
+java:S2234ù"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(´áäÂÿÿÿÿÿ
+‚
+java:S2234ƒ"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(ò„ñ
+‡
+java:S2234…"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(¦œÁáıÿÿÿÿ
+‚
+java:S2234‰"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(çÁ””
+‚
+java:S2234‹"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(›àèÔ
+‡
+java:S2234"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(ÇÇÜàıÿÿÿÿ
+‡
+java:S2234‘"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(€ÔÀßùÿÿÿÿ
+‡
+java:S2234—"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(æ¨½¡üÿÿÿÿ
+‚
+java:S2234›"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(ìœ½š
+‚
+java:S2234Ÿ"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(ÜÙÊ
+‚
+java:S2234¡"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(œ”è»
+‚
+java:S2234£"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(’˜–³
+‚
+java:S2234¥"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(ÍÙŞ¡
+‡
+java:S2234§"kParameters to jjMoveStringLiteralDfa4_0 have the same names but not the same order as the method arguments.(‚ĞŒ¹øÿÿÿÿ
+d	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¾ÂÌ
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Š¾ÂÌ
+‡
+java:S2234¹"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(¾¢áıÿÿÿÿ
+‚
+java:S2234»"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(şÂíÃ
+‡
+java:S2234½"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(‘Öõîûÿÿÿÿ
+‡
+java:S2234Ã"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.( Å‚«úÿÿÿÿ
+‚
+java:S2234Ç"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(Èà†â
+‡
+java:S2234É"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(ÄËÉéøÿÿÿÿ
+‚
+java:S2234Ô"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(ÉË¹±
+‡
+java:S2234Ö"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(Ûùé”ùÿÿÿÿ
+
+java:S2234Ş"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(ÛŞÔC
+‚
+java:S2234â"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(øùº
+‡
+java:S2234ê"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(õÛøûÿÿÿÿÿ
+‚
+java:S2234ì"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(¨´…‰
+‡
+java:S2234î"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(œµô¿ûÿÿÿÿ
+‡
+java:S2234õ"kParameters to jjMoveStringLiteralDfa5_0 have the same names but not the same order as the method arguments.(ñÈ€³úÿÿÿÿ
+i	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”´Ü”úÿÿÿÿ
+n
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(”´Ü”úÿÿÿÿ
+‚
+java:S2234‡"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(°¯ú
+‚
+java:S2234‰"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(ÎºÛ
+‚
+java:S2234"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(ÆÁ˜›
+‚
+java:S2234‘"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(ÉÎ‘ï
+‡
+java:S2234™"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(‚Áı¢ûÿÿÿÿ
+‡
+java:S2234›"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(øåùüÿÿÿÿ
+‚
+java:S2234¡"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(î¨ˆÙ
+‡
+java:S2234£"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(Ç†Ÿ¤ıÿÿÿÿ
+‡
+java:S2234¥"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(°óª¢ÿÿÿÿÿ
+‡
+java:S2234©"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(öŠÒùÿÿÿÿ
+‚
+java:S2234«"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(Œªóš
+‚
+java:S2234¯"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(³ï 
+‚
+java:S2234³"kParameters to jjMoveStringLiteralDfa6_0 have the same names but not the same order as the method arguments.(½—ùå
+i	java:S100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÕıÿÿÿÿ
+‚
+java:S2234Å"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(©Õ¶ı
+‚
+java:S2234Ç"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(Ãòª
+‡
+java:S2234É"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(æíğïÿÿÿÿÿ
+‚
+java:S2234Ï"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(£¨‰
+‡
+java:S2234Ñ"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(„ˆŸÖúÿÿÿÿ
+‚
+java:S2234Ó"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(­Ò Ğ
+‡
+java:S2234Ù"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(£ñø„ùÿÿÿÿ
+‡
+java:S2234İ"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(åØª£ÿÿÿÿÿ
+‡
+java:S2234á"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(œøöÓøÿÿÿÿ
+‡
+java:S2234ã"kParameters to jjMoveStringLiteralDfa7_0 have the same names but not the same order as the method arguments.(¼è•“øÿÿÿÿ
+i	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï«æ¿úÿÿÿÿ
+‚
+java:S2234ù"kParameters to jjMoveStringLiteralDfa8_0 have the same names but not the same order as the method arguments.(‹˜¦
+‡
+java:S2234ÿ"kParameters to jjMoveStringLiteralDfa8_0 have the same names but not the same order as the method arguments.(û½°îÿÿÿÿÿ
+‚
+java:S2234"kParameters to jjMoveStringLiteralDfa8_0 have the same names but not the same order as the method arguments.(¹¹×
+‚
+java:S2234ƒ"kParameters to jjMoveStringLiteralDfa8_0 have the same names but not the same order as the method arguments.(ˆéãÃ
+‚
+java:S2234…"kParameters to jjMoveStringLiteralDfa8_0 have the same names but not the same order as the method arguments.(ÿš±
+‡
+java:S2234‹"kParameters to jjMoveStringLiteralDfa8_0 have the same names but not the same order as the method arguments.(Š“›œúÿÿÿÿ
+‡
+java:S2234‘"kParameters to jjMoveStringLiteralDfa8_0 have the same names but not the same order as the method arguments.(ñÌºûÿÿÿÿ
+d	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ø§–
+‚
+java:S2234£"kParameters to jjMoveStringLiteralDfa9_0 have the same names but not the same order as the method arguments.(™íš‡
+‚
+java:S2234­"kParameters to jjMoveStringLiteralDfa9_0 have the same names but not the same order as the method arguments.(»¾†¯
+‡
+java:S2234¯"kParameters to jjMoveStringLiteralDfa9_0 have the same names but not the same order as the method arguments.(ñË˜Œıÿÿÿÿ
+‚
+java:S2234±"kParameters to jjMoveStringLiteralDfa9_0 have the same names but not the same order as the method arguments.(Â¥óó
+‚
+java:S2234³"kParameters to jjMoveStringLiteralDfa9_0 have the same names but not the same order as the method arguments.(—ÌÛŠ
+‡
+java:S2234µ"kParameters to jjMoveStringLiteralDfa9_0 have the same names but not the same order as the method arguments.(ÃØü¦üÿÿÿÿ
+
+java:S2234¹"kParameters to jjMoveStringLiteralDfa9_0 have the same names but not the same order as the method arguments.(ğıQ
+i	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¸Û€ùÿÿÿÿ
+ƒ
+java:S2234Ë"lParameters to jjMoveStringLiteralDfa10_0 have the same names but not the same order as the method arguments.(Ç€¹¯
+ˆ
+java:S2234Ï"lParameters to jjMoveStringLiteralDfa10_0 have the same names but not the same order as the method arguments.(ÔÚ¼¦ÿÿÿÿÿ
+ƒ
+java:S2234Ñ"lParameters to jjMoveStringLiteralDfa10_0 have the same names but not the same order as the method arguments.(·…Àñ
+ˆ
+java:S2234Ó"lParameters to jjMoveStringLiteralDfa10_0 have the same names but not the same order as the method arguments.(íÄöïıÿÿÿÿ
+ˆ
+java:S2234Ù"lParameters to jjMoveStringLiteralDfa10_0 have the same names but not the same order as the method arguments.(Òˆı¨şÿÿÿÿ
+ˆ
+java:S2234İ"lParameters to jjMoveStringLiteralDfa10_0 have the same names but not the same order as the method arguments.(¤­åµıÿÿÿÿ
+ˆ
+java:S2234ß"lParameters to jjMoveStringLiteralDfa10_0 have the same names but not the same order as the method arguments.(ê½ó¼øÿÿÿÿ
+i	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì««©üÿÿÿÿ
+ƒ
+java:S2234ñ"lParameters to jjMoveStringLiteralDfa11_0 have the same names but not the same order as the method arguments.(„Š²•
+‚
+java:S2234ó"lParameters to jjMoveStringLiteralDfa11_0 have the same names but not the same order as the method arguments.(Ä‹s
+ˆ
+java:S2234õ"lParameters to jjMoveStringLiteralDfa11_0 have the same names but not the same order as the method arguments.(×Ç«£şÿÿÿÿ
+ƒ
+java:S2234ù"lParameters to jjMoveStringLiteralDfa11_0 have the same names but not the same order as the method arguments.(ù¡ñ‘
+ƒ
+java:S2234„"lParameters to jjMoveStringLiteralDfa11_0 have the same names but not the same order as the method arguments.(êêç
+i	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(  Ò–şÿÿÿÿ
+ƒ
+java:S2234–"lParameters to jjMoveStringLiteralDfa12_0 have the same names but not the same order as the method arguments.(İ¥±Ö
+‚
+java:S2234"lParameters to jjMoveStringLiteralDfa12_0 have the same names but not the same order as the method arguments.(èØƒh
+ˆ
+java:S2234¥"lParameters to jjMoveStringLiteralDfa12_0 have the same names but not the same order as the method arguments.(åûûÎşÿÿÿÿ
+i	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ü¶ºÿÿÿÿÿ
+ˆ
+java:S2234·"lParameters to jjMoveStringLiteralDfa13_0 have the same names but not the same order as the method arguments.(ˆ½¿úÿÿÿÿ
+ƒ
+java:S2234¹"lParameters to jjMoveStringLiteralDfa13_0 have the same names but not the same order as the method arguments.(·¡µµ
+ˆ
+java:S2234»"lParameters to jjMoveStringLiteralDfa13_0 have the same names but not the same order as the method arguments.(íŞ€Ôøÿÿÿÿ
+i	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¤Ûüÿÿÿÿ
+ˆ
+java:S2234Í"lParameters to jjMoveStringLiteralDfa14_0 have the same names but not the same order as the method arguments.(°è»Şşÿÿÿÿ
+ƒ
+java:S2234Ï"lParameters to jjMoveStringLiteralDfa14_0 have the same names but not the same order as the method arguments.(ôáßõ
+ƒ
+java:S2234Ñ"lParameters to jjMoveStringLiteralDfa14_0 have the same names but not the same order as the method arguments.(·ó¤¶
+i	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¬¸ïşÿÿÿÿ
+ˆ
+java:S2234ã"lParameters to jjMoveStringLiteralDfa15_0 have the same names but not the same order as the method arguments.(ˆ°½Êıÿÿÿÿ
+ƒ
+java:S2234å"lParameters to jjMoveStringLiteralDfa15_0 have the same names but not the same order as the method arguments.(¢ìàÏ
+i	java:S100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ˆúßşÿÿÿÿ
+ƒ
+java:S2234÷"lParameters to jjMoveStringLiteralDfa16_0 have the same names but not the same order as the method arguments.(«“Ìà
+ƒ
+java:S2234ù"lParameters to jjMoveStringLiteralDfa16_0 have the same names but not the same order as the method arguments.(û“õ
+ƒ
+java:S2234û"lParameters to jjMoveStringLiteralDfa16_0 have the same names but not the same order as the method arguments.(˜Š­™
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åïˆ”ùÿÿÿÿ
+ˆ
+java:S2234"lParameters to jjMoveStringLiteralDfa17_0 have the same names but not the same order as the method arguments.(ˆÒÇÌÿÿÿÿÿ
+ƒ
+java:S2234"lParameters to jjMoveStringLiteralDfa17_0 have the same names but not the same order as the method arguments.(Şå‘
+ƒ
+java:S2234‘"lParameters to jjMoveStringLiteralDfa17_0 have the same names but not the same order as the method arguments.(óÄÉ¶
+d	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İî¢¥
+ƒ
+java:S2234£"lParameters to jjMoveStringLiteralDfa18_0 have the same names but not the same order as the method arguments.(Çœõí
+ƒ
+java:S2234¥"lParameters to jjMoveStringLiteralDfa18_0 have the same names but not the same order as the method arguments.(æŠ‹
+i	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‡÷Âûÿÿÿÿ
+ƒ
+java:S2234»"lParameters to jjMoveStringLiteralDfa19_0 have the same names but not the same order as the method arguments.(ó±˜à
+d	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÏé
+ƒ
+java:S2234Ñ"lParameters to jjMoveStringLiteralDfa20_0 have the same names but not the same order as the method arguments.(õ†•°
+c	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‡óS
+ˆ
+java:S2234è"lParameters to jjMoveStringLiteralDfa21_0 have the same names but not the same order as the method arguments.(¼¾÷øÿÿÿÿ
+d	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡şÀ
+i	java:S100€	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü–ûÉùÿÿÿÿ
+=
+java:S1110‚	"!Remove these useless parentheses.(–âùàşÿÿÿÿ
+i	java:S100’	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïëû‘ùÿÿÿÿ
+=
+java:S1110”	"!Remove these useless parentheses.(–âùàşÿÿÿÿ
+d	java:S100¤	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß”¹š
+=
+java:S1110¦	"!Remove these useless parentheses.(–âùàşÿÿÿÿ
+d	java:S100¶	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëœÚÉ
+=
+java:S1110¸	"!Remove these useless parentheses.(–âùàşÿÿÿÿ
+d	java:S100È	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µğ£•
+=
+java:S1110Ê	"!Remove these useless parentheses.(–âùàşÿÿÿÿ
+d	java:S100Ú	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ù¹
+=
+java:S1110Ü	"!Remove these useless parentheses.(–âùàşÿÿÿÿ
+i	java:S100¤
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÄà®şÿÿÿÿ
+o
+java:S3776¤
+"SRefactor this method to reduce its Cognitive Complexity from 670 to the 15 allowed.(ôÄà®şÿÿÿÿ
+>
+java:S1659«
+""Declare "kind" on a separate line.(ø€Â¤ıÿÿÿÿ
+K
+java:S1481¦
+"/Remove this unused "nextStates" local variable.(¼¶òúÿÿÿÿ
+B
+java:S1481«
+"&Remove this unused "j" local variable.(ø€Â¤ıÿÿÿÿ
+R
+java:S1119³
+";Refactor the code to remove this label and the need for it.(Ÿ£µ™
+0
+java:S1065³
+"Remove this unused label.(Ÿ£µ™
+^
+java:S1479µ
+"BReduce the number of non-empty switch cases from 66 to at most 30.(±Ø¹Ìúÿÿÿÿ
+R
+java:S1119™";Refactor the code to remove this label and the need for it.(Ÿ£µ™
+0
+java:S1065™"Remove this unused label.(Ÿ£µ™
+B
+java:S1905ü"&Remove this unnecessary cast to "int".(ı¡´øÿÿÿÿ
+R
+java:S1119";Refactor the code to remove this label and the need for it.(Ÿ£µ™
+0
+java:S1065"Remove this unused label.(Ÿ£µ™
+i	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŒ©üÿÿÿÿ
+M
+java:S1172Ş"1Remove these unused method parameters "i1", "l1".(íŒ©üÿÿÿÿ
+d	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü´ÏÉ
+]
+java:S1126ï"AReplace this if-then-else statement by a single return statement.(÷Ÿ÷ÿÿÿÿÿ
+c	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æå¤s
+X
+java:S1126ƒ"AReplace this if-then-else statement by a single return statement.(øæ“¬
+d	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ç¤
+d	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‘ºà
+d	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨éÛÇ
+d	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µøú†
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(¼ıè
+E
+java:S1481ó")Remove this unused "kind" local variable.(Øî©¬úÿÿÿÿ
+R
+java:S1119ø";Refactor the code to remove this label and the need for it.(œÈ‹ã
+R
+java:S1144‡
+"6Remove this unused private "jjCheckNAddStates" method.(ÜÇ˜µÿÿÿÿÿ
+ä
+java:S6541¤
+"ÇA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 563 to 64, Complexity from 254 to 14, Nesting Level from 6 to 2, Number of Variables from 15 to 6.(ôÄà®şÿÿÿÿ

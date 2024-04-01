@@ -1,0 +1,38 @@
+
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(½£†ñÿÿÿÿÿ
+o
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å«ƒ­
+I
+java:S1121i".Extract the assignment out of this expression.(±¶ëäÿÿÿÿÿ
+o	java:S135½"YReduce the total number of break and continue statements in this loop to use at most one.(Üò¬ü
+H
+java:S1948©"1Make "documentHandler" transient or serializable.(€òø€
+Q	java:S125$"<This block of commented-out lines of code should be removed.(Ýòó±
+P	java:S125R"<This block of commented-out lines of code should be removed.(¤ëâ
+V	java:S125n"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125®"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125è"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125õ"<This block of commented-out lines of code should be removed.(Ýòó±
+^
+java:S5361¡"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ù‘ÿd
+d
+java:S5361¢"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¥Á©žøÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ð"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+A
+java:S3398ë"%Move this method into "ClearHandler".(˜çÂÐøÿÿÿÿ

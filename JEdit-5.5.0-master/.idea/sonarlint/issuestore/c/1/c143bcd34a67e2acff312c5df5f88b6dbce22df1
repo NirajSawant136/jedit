@@ -1,0 +1,22 @@
+
+n	java:S135“"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+F
+java:S1066"/Merge this if statement with the enclosing one.(©í€©
+g	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›µó€
+l	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‰øÿÿÿÿ
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º—½Èøÿÿÿÿ
+l	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¦¹÷ûÿÿÿÿ
+g	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æèÚ
+h
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÌÏ—ô
+V	java:S125N"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¹ì»¢
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S5857ñ"9Replace this use of a reluctant quantifier with "[^)]++".(ãŸ¤
+L
+java:S6397ñ"5Replace this character class by the character itself.(ãŸ¤
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125À"<This block of commented-out lines of code should be removed.(İòó±

@@ -1,0 +1,39 @@
+
+>
+java:S1604â"(Make this anonymous inner class a lambda(œ–š,
+f
+java:S1301n"KReplace this "switch" statement by "if" statements to increase readability.(µÀ¬¢øÿÿÿÿ
+g
+java:S1301†"KReplace this "switch" statement by "if" statements to increase readability.(µÀ¬¢øÿÿÿÿ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S125N"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125c"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(ÈŸÍ…ÿÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161â":Add the "@Override" annotation above this method signature(è¹ˆ
+Q
+java:S1161ö":Add the "@Override" annotation above this method signature(ûñî¦
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+;
+java:S2153"Remove the boxing to "Integer".(Ò‰áÁþÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125©"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125¯"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

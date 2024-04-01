@@ -1,0 +1,8 @@
+
+r
+java:S1488/"\Immediately return this expression instead of assigning it to the temporary variable "mode".(ØËÂ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(İòó±
+—
+java:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şÏ€
+V	java:S1251"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

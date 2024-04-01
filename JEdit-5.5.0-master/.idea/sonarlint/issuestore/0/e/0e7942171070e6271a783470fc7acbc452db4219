@@ -1,0 +1,50 @@
+
+D
+java:S1604"(Make this anonymous inner class a lambda(‚χΖϊÿÿÿÿ
+L
+java:S1948Χ"0Make "selectedKeymap" transient or serializable.(νΧ«ξύÿÿÿÿ
+I
+java:S1948ΰ"-Make "allBindings" transient or serializable.(›Δκώÿÿÿÿ
+|
+java:S1149έ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¬Όπ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S125>"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(Ò’ώÿÿÿÿ
+D	java:S108Γ")Either remove or fill this block of code.(θτ®Ύÿÿÿÿÿ
+W	java:S125Δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Σ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ƒ®’ύÿÿÿÿ
+W	java:S125ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+\
+java:S1117„"@Rename "allBindings" which hides the field declared at line 224.(ΩΧ „ώÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+8	java:S131ω""Add a default case to this switch.(ύΞ°€
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+i
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(δ Έϊ
+F
+java:S1948…"*Make "bindings" transient or serializable.( ®©ωÿÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+>
+java:S1659"'Declare "shortcut2" on a separate line.(΅©έ‘
+J
+java:S1948­".Make "selectedItem" transient or serializable.(Ϋςόÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Φ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125θ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ϊ"<This block of commented-out lines of code should be removed.(έςσ±

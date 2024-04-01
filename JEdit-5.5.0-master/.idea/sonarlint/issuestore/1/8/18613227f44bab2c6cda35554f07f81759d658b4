@@ -1,0 +1,61 @@
+
+t
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(éâĞ£úÿÿÿÿ
+u
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(æè÷ùÿÿÿÿ
+o	java:S135©"YReduce the total number of break and continue statements in this loop to use at most one.(†ŞÜ­
+o	java:S135Ì"YReduce the total number of break and continue statements in this loop to use at most one.(Ô•™ô
+y
+java:S1319†"bThe type of "pages" should be an interface such as "Map" rather than the implementation "HashMap".(Š­É
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íëş
+g	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€èö¶
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÅÇØıÿÿÿÿ
+g	java:S1011"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÄûÍıÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(£èŒ¼ÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ïÔ­ãÿÿÿÿÿ
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(©ªÖ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(šíÙµüÿÿÿÿ
+R	java:S125§"<This block of commented-out lines of code should be removed.(¼òû
+W	java:S125®"<This block of commented-out lines of code should be removed.(’÷´¿şÿÿÿÿ
+i
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(€èö¶
+P
+java:S1854•"9Remove this useless assignment to local variable "chars".(»çõ 
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(³ÿ¾œ
+R	java:S125ê"<This block of commented-out lines of code should be removed.(‡İøğ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(è„âö
+W	java:S125ù"<This block of commented-out lines of code should be removed.(±Ûª¿úÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Ìöïî
+A
+java:S1481•"*Remove this unused "chars" local variable.(»çõ 
+8
+java:S2129·"!Remove this "Integer" constructor(¼É¶¨
+W	java:S125¸"<This block of commented-out lines of code should be removed.(‹Î˜ßûÿÿÿÿ
+8
+java:S2129Ì"!Remove this "Integer" constructor(¼É¶¨
+W	java:S125Í"<This block of commented-out lines of code should be removed.(‹Î˜ßûÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(µáÓşûÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(Ù˜¼êøÿÿÿÿ
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(‚ÅÇØıÿÿÿÿ
+T
+java:S1854ö"=Remove this useless assignment to local variable "zoomLevel".(’Š…è
+U
+java:S1854¤">Remove this useless assignment to local variable "pageHeight".(èé»ò
+W	java:S125ô"<This block of commented-out lines of code should be removed.(Şõœ°úÿÿÿÿ
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(×Ãû
+H
+java:S1135€"2Complete the task associated to this TODO comment.(åÄ¦u
+R	java:S125–"<This block of commented-out lines of code should be removed.(Æé»Â
+R	java:S125µ"<This block of commented-out lines of code should be removed.(ÑÑ‹Æ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(˜×æËşÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(ï»Ã
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(ú¨ı¶
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(ËœöÖ
+W	java:S125€"<This block of commented-out lines of code should be removed.(Š›ˆ½ùÿÿÿÿ
+N
+java:S1117‰"7Rename "frc" which hides the field declared at line 78.(å÷ğ”
+N
+java:S1117"7Rename "frc" which hides the field declared at line 78.(å÷ğ”
+G
+java:S1128(",Remove this unused import 'org.gjt.sp.util'.(ƒæ»²üÿÿÿÿ

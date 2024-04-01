@@ -1,0 +1,23 @@
+
+Q	java:S125&"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1258"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1161N":Add the "@Override" annotation above this method signature(ÔÖ³äÿÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+J
+java:S1128 "/Remove this unused import 'javax.swing.border'.(Õ˜ÀÆÿÿÿÿÿ
+I
+java:S1128!".Remove this unused import 'javax.swing.event'.(œë»úÿÿÿÿ
+F
+java:S1128%"0Remove this unused import 'org.gjt.sp.util.Log'.(şÛÚ”

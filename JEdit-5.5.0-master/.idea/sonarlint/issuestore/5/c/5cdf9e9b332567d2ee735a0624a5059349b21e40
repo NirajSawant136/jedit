@@ -1,0 +1,31 @@
+
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(­œ¿²úÿÿÿÿ
+s
+java:S1192<"]Define a constant instead of duplicating this literal "view.toolbar.alternateLayout" 3 times.(‹€­µ
+D
+java:S1121K".Extract the assignment out of this expression.(±å÷ò
+D
+java:S1121O".Extract the assignment out of this expression.(ŽÒŸ²
+?
+java:S1604Œ"(Make this anonymous inner class a lambda(ÝËû·
+?
+java:S1604º"(Make this anonymous inner class a lambda(¶êÍÈ
+d
+java:S1659"HDeclare "layoutIcon2" and all following declarations on a separate line.(¿ý²íøÿÿÿÿ
+K
+java:S1659"4Declare "alternateToolBarLayout" on a separate line.(ò¢ˆð
+I
+java:S1948"-Make "layoutIcon1" transient or serializable.(¿ý²íøÿÿÿÿ
+I
+java:S1948"-Make "layoutIcon2" transient or serializable.(¿ý²íøÿÿÿÿ
+I
+java:S1948"-Make "layoutIcon3" transient or serializable.(¿ý²íøÿÿÿÿ
+I
+java:S1948"-Make "layoutIcon4" transient or serializable.(¿ý²íøÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S125+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

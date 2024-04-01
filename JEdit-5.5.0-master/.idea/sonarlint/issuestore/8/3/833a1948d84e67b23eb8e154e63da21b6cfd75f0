@@ -1,0 +1,52 @@
+
+p
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬‡ıâ
+p
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğì“ã
+e
+java:S1192"IDefine a constant instead of duplicating this literal "options." 3 times.( ­„‰ûÿÿÿÿ
+t	java:S135†"YReduce the total number of break and continue statements in this loop to use at most one.(ˆû·Öıÿÿÿÿ
+M
+java:S2589ì"7Remove this expression which always evaluates to "true"(«ÂÜP
+C
+java:S1948I"-Make "optionGroup" transient or serializable.(µÕ°
+H
+java:S1948O"-Make "currentPane" transient or serializable.(äÅ§¡øÿÿÿÿ
+L
+java:S1948Q"1Make "optionTreeModel" transient or serializable.(œŸŒóøÿÿÿÿ
+P
+java:S1948S"5Make "deferredOptionPanes" transient or serializable.(öò½Óùÿÿÿÿ
+B
+java:S1948W"'Make "title" transient or serializable.(¿ÑÌ²ûÿÿÿÿ
+Q	java:S125X"<This block of commented-out lines of code should be removed.(İòó±
+m
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¼ê²±úÿÿÿÿ
+D
+java:S1905—"-Remove this unnecessary cast to "OptionPane".(çê²„
+@
+java:S1905—")Remove this unnecessary cast to "String".(çê²„
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(—¸«Æ
+D	java:S108‘")Either remove or fill this block of code.(‚Äç üÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(¿„ç¨úÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+N
+java:S1135®"2Complete the task associated to this TODO comment.(êò¢­şÿÿÿÿ
+u
+java:S3252Ä"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(ßÁ£•ıÿÿÿÿ
+z
+java:S3252Å"^Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_AS_NEEDED".(çÈ¶‹ıÿÿÿÿ
+V
+java:S1161à":Add the "@Override" annotation above this method signature(ñâÀÇúÿÿÿÿ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+[
+java:S1128%"@Remove this unused import 'javax.swing.event.EventListenerList'.(º©èÿÿÿÿÿ
+S
+java:S1128&"=Remove this unused import 'javax.swing.event.TreeModelEvent'.(†»ø
+[
+java:S1128'"@Remove this unused import 'javax.swing.event.TreeModelListener'.(‘Ó—¢ûÿÿÿÿ
+L
+java:S1128*"7Remove this unused import 'javax.swing.tree.TreeModel'.(‚éİ-

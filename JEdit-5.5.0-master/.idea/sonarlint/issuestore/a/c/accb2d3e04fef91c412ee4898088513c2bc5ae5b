@@ -1,0 +1,38 @@
+
+a	java:S112ï"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+u
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¼¼àøÿÿÿÿ
+p
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¡Ù§
+u
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦þâ°ùÿÿÿÿ
+o	java:S135Ž"YReduce the total number of break and continue statements in this loop to use at most one.(Ž˜’ 
+e
+java:S3824Ï"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ãÂ÷·
+V	java:S125x"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Š†—€
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125®"<This block of commented-out lines of code should be removed.(Ýòó±
+A
+java:S2160É"+Override the "equals" method in this class.(ü‚›
+<
+java:S1948¸"%Make "add" transient or serializable.(¹¡Ù§
+D
+java:S1948¹"(Make "remove" transient or serializable.(¦þâ°ùÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+S
+java:S1854÷"7Remove this useless assignment to local variable "msg".(—÷¤šúÿÿÿÿ
+D
+java:S1481÷"(Remove this unused "msg" local variable.(—÷¤šúÿÿÿÿ
+W	java:S125º"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+;
+java:S3398û"$Move this method into "SendMessage".(Š†—€

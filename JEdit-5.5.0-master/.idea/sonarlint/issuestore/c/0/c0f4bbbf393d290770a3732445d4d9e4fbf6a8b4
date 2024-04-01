@@ -1,0 +1,16 @@
+
+“	java:S127p"XRefactor the code in order to not assign to this loop counter from within the loop body.(†ğİ­J$7f31f3f1-35fa-4eda-bad1-58847a6684a6
+™	java:S127€"XRefactor the code in order to not assign to this loop counter from within the loop body.(ƒÜÕ¹üÿÿÿÿJ$4a80be1d-58cc-4e13-b08a-09e3137c94f8
+’
+java:S1104'"QMake value a static final constant or non-public and provide accessors if needed.(’åéäøÿÿÿÿJ$990c73f9-a808-4cdc-be1d-4dcca4a3c1cb
+h
+java:S1948'"'Make "value" transient or serializable.(’åéäøÿÿÿÿJ$1a340178-75b5-456d-bf2f-db6954fd114c
+v
+java:S1161+":Add the "@Override" annotation above this method signature(çÔ°J$6cfe26d7-92a5-4808-92e4-1d9b7aafd713
+b	java:S1316""Add a default case to this switch.(ìÃŒüÿÿÿÿJ$7e7d6076-3953-45e2-a5e7-9a7a340a4bed
+V
+java:S2153d"Remove the boxing of "ch".(äï‹J$40bbb758-97aa-467f-8794-57d363c78b8c
+_
+java:S2129d"#Remove this "Character" constructor(äï‹J$8a642621-448c-4c8c-8eb7-a3e7060d4f64
+
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÖÑÂJ$281fc7d4-69a1-444b-9e3c-2eb81da10745

@@ -1,0 +1,58 @@
+
+`	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(½¾‡Ïùÿÿÿÿ
+a	java:S112À"FDefine and throw a dedicated exception instead of using a generic one.(×çêØûÿÿÿÿ
+J
+java:S1121ˆ".Extract the assignment out of this expression.(â†ç…şÿÿÿÿ
+E
+java:S1121•".Extract the assignment out of this expression.(áªğÅ
+E
+java:S1121ø".Extract the assignment out of this expression.(Ÿ»Èİ
+E
+java:S1121˜".Extract the assignment out of this expression.(‘õšğ
+h
+java:S1104;"RMake bufpos a static final constant or non-public and provide accessors if needed.(âëË
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷İÕ·
+<	java:S131""Add a default case to this switch.(Ë¡‰Áøÿÿÿÿ
+@
+java:S1197?"*Move the array designators [] to the type.(§°ÿ
+E
+java:S1197@"*Move the array designators [] to the type.(õıœãúÿÿÿÿ
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éë
+E
+java:S1197S"*Move the array designators [] to the type.(œˆãÃşÿÿÿÿ
+E
+java:S1197T"*Move the array designators [] to the type.(•ŒÎ¨ıÿÿÿÿ
+d	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÛÃÃ
+2
+java:S3626"Remove this redundant jump.(ûÁİ…
+i	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é³ùÇûÿÿÿÿ
+i	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëĞíıÿÿÿÿ
+i	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î˜öÿÿÿÿÿ
+d	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‹ç
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ˆœıï
+L
+java:S1133Ø"5Do not forget to remove this deprecated code someday.(ûã’è
+>
+java:S1123Ø"'Add the missing @Deprecated annotation.(ûã’è
+Q
+java:S1133á"5Do not forget to remove this deprecated code someday.(Äïôşÿÿÿÿ
+C
+java:S1123á"'Add the missing @Deprecated annotation.(Äïôşÿÿÿÿ
+d	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÅË‚
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÅË‚
+d	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ğœ
+M
+java:S1172³"1Remove this unused method parameter "buffersize".(ÅñúÇÿÿÿÿÿ
+d	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿşóÜ
+M
+java:S1172Ä"1Remove this unused method parameter "buffersize".(ÅñúÇÿÿÿÿÿ
+d	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿşóÜ
+d	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ÿ¦Ï
+i	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‰‘Çøÿÿÿÿ
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓôÂšúÿÿÿÿ
+i	java:S100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÿÃûÿÿÿÿ
+Z
+java:S1659„">Declare "j" and all following declarations on a separate line.(ãäÚ‘üÿÿÿÿ
+D
+java:S1659…"(Declare "columnDiff" on a separate line.(ÙşÙúÿÿÿÿ

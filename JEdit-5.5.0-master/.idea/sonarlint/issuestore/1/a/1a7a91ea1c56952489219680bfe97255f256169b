@@ -1,0 +1,55 @@
+
+t
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(éâÐ£úÿÿÿÿ
+t	java:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(¸ÅÝ•ÿÿÿÿÿ
+k	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÕÆ¨úÿÿÿÿ
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼«þÊ
+C
+java:S1604s"(Make this anonymous inner class a lambda(Õ‰²­ýÿÿÿÿ
+^
+java:S2184û"BCast one of the operands of this addition operation to a "double".(©ÝÃ‰ùÿÿÿÿ
+P
+java:S11333"5Do not forget to remove this deprecated code someday.(¼Øûåøÿÿÿÿ
+C
+java:S11233"(Add the missing @deprecated Javadoc tag.(¼Øûåøÿÿÿÿ
+[	java:S1076"AConstructor has 9 parameters, which is greater than 7 authorized.(Ï©Œˆúÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S125X"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(î—›­
+S
+java:S3878f"8Remove this array creation and simply pass the elements.(þþÜ§ùÿÿÿÿ
+Y
+java:S3878h"CDisambiguate this call by either casting as "Object" or "Object[]".(äÜÊÁ
+V	java:S125{"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(‡Ýøð
+W	java:S125‰"<This block of commented-out lines of code should be removed.(ïÔ­ãÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(À¤­öûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(æ¸äÊûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(èÙÓçúÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(«ù©åûÿÿÿÿ
+R	java:S125¤"<This block of commented-out lines of code should be removed.(å€µ—
+Q	java:S125©"<This block of commented-out lines of code should be removed.(ÃÖÂZ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125º"<This block of commented-out lines of code should be removed.(Ýòó±
+i
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¼«þÊ
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(¸ðÓ¹
+W	java:S125â"<This block of commented-out lines of code should be removed.(©ÔÎ¿üÿÿÿÿ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125‹"<This block of commented-out lines of code should be removed.(÷ãÞ»
+R	java:S125•"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125˜"<This block of commented-out lines of code should be removed.(éŸòõ
+W
+java:S1119›";Refactor the code to remove this label and the need for it.(¸ÅÝ•ÿÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S1117Û"8Rename "frc" which hides the field declared at line 208.(å÷ð”
+R	java:S125î"<This block of commented-out lines of code should be removed.(Ýòó±
+O
+java:S1117÷"8Rename "frc" which hides the field declared at line 208.(å÷ð”
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

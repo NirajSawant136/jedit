@@ -1,0 +1,165 @@
+
+n	java:S135î"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+n	java:S135Œ"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+n	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+n	java:S135¥
+"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+t	java:S135ì	"YReduce the total number of break and continue statements in this loop to use at most one.(â¯ìıÿÿÿÿ
+n	java:S135Ò"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ7
+l	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ŞË–şÿÿÿÿ
+g	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»Ê½
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»Ê½
+b
+java:S1301Ğ"KReplace this "switch" statement by "if" statements to increase readability.(¹¾­«
+b
+java:S1301ò"KReplace this "switch" statement by "if" statements to increase readability.(¹¾­«
+I
+java:S1199Ñ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199è"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199†"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199­"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199 "-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199Ë"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199„"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199¿"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+T
+java:S2589º"8Remove this expression which always evaluates to "false"(úæ›ÿÿÿÿÿ
+T
+java:S2589º"8Remove this expression which always evaluates to "false"(úæ›ÿÿÿÿÿ
+T
+java:S2589º"8Remove this expression which always evaluates to "false"(úæ›ÿÿÿÿÿ
+T
+java:S2589»"8Remove this expression which always evaluates to "false"(àè´úÿÿÿÿ
+e	java:S116*"PRename this field "m_crc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‚ğ¡
+l	java:S116,"RRename this field "m_inUse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÉß²ûÿÿÿÿ
+q	java:S116."WRename this field "m_seqToUnseq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å˜Àüÿÿÿÿ
+q	java:S116/"WRename this field "m_unseqToSeq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–öĞûÿÿÿÿ
+o	java:S1161"URename this field "m_selector" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÍ¦ºıÿÿÿÿ
+m	java:S1162"XRename this field "m_selectorMtf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¢èÔ
+i	java:S1164"TRename this field "m_mtfFreq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¦õÊ
+r	java:S1166"XRename this field "m_currentChar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¦á…ùÿÿÿÿ
+p	java:S1167"VRename this field "m_runLength" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î°ì½şÿÿÿÿ
+m	java:S1169"SRename this field "m_closed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®À‡–ıÿÿÿÿ
+f	java:S116A"QRename this field "m_incs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôã‹†
+v	java:S116H"\Rename this field "m_blockRandomised" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó›ìôşÿÿÿÿ
+t	java:S116N"ZRename this field "m_blockSize100k" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä²Üîşÿÿÿÿ
+h	java:S116O"SRename this field "m_bsBuff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï·ò
+h	java:S116P"SRename this field "m_bsLive" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àãõá
+k	java:S116V"QRename this field "m_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÒûüÿÿÿÿ
+n	java:S116["TRename this field "m_origPtr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü›Õîùÿÿÿÿ
+t	java:S116]"_Rename this field "m_allowableBlockSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş­Ç‰
+l	java:S116_"RRename this field "m_block" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹²äüÿÿÿÿ
+o	java:S116a"URename this field "m_blockCRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œéÂªşÿÿÿÿ
+m	java:S116b"XRename this field "m_combinedCRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØƒÂŠ
+j	java:S116d"URename this field "m_bsStream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ôĞ±
+s	java:S116e"YRename this field "m_firstAttempt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò®ã™ûÿÿÿÿ
+f	java:S116f"QRename this field "m_ftab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ëÀ˜
+m	java:S116g"SRename this field "m_nInUse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É±Ø÷üÿÿÿÿ
+k	java:S116i"QRename this field "m_nMTF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘üÈéúÿÿÿÿ
+j	java:S116j"URename this field "m_quadrant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é©¿á
+g	java:S116k"RRename this field "m_szptr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êêä‰
+i	java:S116l"URename this field "m_workDone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ôˆ4
+l	java:S116s"WRename this field "m_workFactor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÁ¬
+p	java:S116t"VRename this field "m_workLimit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïòöğúÿÿÿÿ
+f	java:S116u"QRename this field "m_zptr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¾ŒÕ
+Y
+java:S4349">Provide an override of "write(byte[],int,int)" for this class.(î¯ñÓùÿÿÿÿ
+t
+java:S1450a"YRemove the "m_blockCRC" field and declare it as a local variable in the relevant methods.(œéÂªşÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(óµøµûÿÿÿÿ
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(®Ÿñüøÿÿÿÿ
+E
+java:S1940Ş")Use the opposite operator (">=") instead.(­İéÑúÿÿÿÿ
+@
+java:S1940º")Use the opposite operator (">=") instead.(Ñà²ë
+F	java:S106é"+Replace this use of System.out by a logger.(Ñ¼†”şÿÿÿÿ
+R	java:S125ê"<This block of commented-out lines of code should be removed.(ñâÃ»
+V
+java:S1161í":Add the "@Override" annotation above this method signature(´Ôùíûÿÿÿÿ
+I
+java:S1113"-Do not override the Object.finalize() method.(†Ôş–ûÿÿÿÿ
+B
+java:S1174"&Make this finalize() method protected.(†Ôş–ûÿÿÿÿ
+V
+java:S1161‡":Add the "@Override" annotation above this method signature(åóõìùÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¦æüúÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(€÷å³ÿÿÿÿÿ
+n
+java:S2737Ü"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+n
+java:S2737‹"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+8
+java:S1116²"Remove this empty statement.(Åñ­õşÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(õøó¸üÿÿÿÿ
+8
+java:S1116Š"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+n
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(í€Ãªşÿÿÿÿ
+8
+java:S1116Â"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8	java:S131Ğ""Add a default case to this switch.(¹¾­«
+8
+java:S1116İ"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8
+java:S1116ä"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8	java:S131ò""Add a default case to this switch.(¹¾­«
+8
+java:S1116 "Remove this empty statement.(Åñ­õşÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(Á³Ñ²ûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Ìñ•÷ıÿÿÿÿ
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(˜¶¡˜
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(ñ·á
+E
+java:S1940Ó")Use the opposite operator ("!=") instead.(ñûõ¤üÿÿÿÿ
+Q	java:S125ç"<This block of commented-out lines of code should be removed.(µ®½
+?
+java:S1940ƒ	"(Use the opposite operator (">") instead.(ùÊØƒ
+L
+java:S1854Á	"5Remove this useless assignment to local variable "c".(×çÒ±
+i
+java:S3776Ò	"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ØìÒ
+8
+java:S1116
+"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8
+java:S1116¶
+"Remove this empty statement.(Åñ­õşÿÿÿÿ
+j
+java:S3776‰"SRefactor this method to reduce its Cognitive Complexity from 132 to the 15 allowed.(İÈ„ğ
+O
+java:S1854ú"8Remove this useless assignment to local variable "cost".(Ø»¼§
+O
+java:S1854ù"8Remove this useless assignment to local variable "fave".(„µê¬
+U
+java:S1854ø"9Remove this useless assignment to local variable "rfreq".(ª…„Ëùÿÿÿÿ
+8
+java:S1116ß"Remove this empty statement.(Åñ­õşÿÿÿÿ
+E
+java:S1940ü")Use the opposite operator (">=") instead.(ÏÄ¥ıÿÿÿÿ
+@
+java:S1940±")Use the opposite operator ("!=") instead.(°ÁàÀ
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(²ì—»
+j	java:S116à"ORename this field "m_dd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êƒä¦øÿÿÿÿ
+d	java:S116á"ORename this field "m_hh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¥±<
+j	java:S116â"ORename this field "m_ll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Üßüøÿÿÿÿ
+Ş
+java:S6541‰"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 342 to 64, Complexity from 66 to 14, Nesting Level from 5 to 2, Number of Variables from 38 to 6.(İÈ„ğ
+Ş
+java:S6541Ä"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 163 to 64, Complexity from 32 to 14, Nesting Level from 6 to 2, Number of Variables from 18 to 6.(˜¶¡˜
+ã
+java:S6541’"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 162 to 64, Complexity from 25 to 14, Nesting Level from 4 to 2, Number of Variables from 28 to 6.(®Ÿñüøÿÿÿÿ

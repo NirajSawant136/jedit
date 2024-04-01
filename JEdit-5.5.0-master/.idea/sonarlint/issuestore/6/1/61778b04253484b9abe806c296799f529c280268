@@ -1,0 +1,18 @@
+
+o
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ò³þ
+C
+java:S16042"(Make this anonymous inner class a lambda(²âÄ÷þÿÿÿÿ
+{
+java:S1149Z"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(«ò³þ
+Q	java:S125""<This block of commented-out lines of code should be removed.(Ýòó±
+h
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ž–…š
+V	java:S125*"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.(–ëúÔþÿÿÿÿ
+P
+java:S1161?":Add the "@Override" annotation above this method signature(•ç¸
+P
+java:S1161F":Add the "@Override" annotation above this method signature(ñ¤ó
+V	java:S125J"<This block of commented-out lines of code should be removed.(–ëúÔþÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

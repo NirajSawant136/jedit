@@ -1,0 +1,57 @@
+
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(β›Β„ωÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ν…›Θ
+o
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(…‚Β(
+u
+java:S2293τ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ϊυϋϊόÿÿÿÿ
+F
+java:S1066©"/Merge this if statement with the enclosing one.(ο’ψ
+?
+java:S1604"(Make this anonymous inner class a lambda(ΛΖόϋ
+?
+java:S1604£"(Make this anonymous inner class a lambda(ΐ‡Χ
+—
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Ο¤
+|
+java:S1149ƒ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Σέ‹ 
+
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ύΰύϊÿÿÿÿ
+|
+java:S1149ρ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ΐΔ‚ƒ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S125J"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125_"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125i"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125~"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125®"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+L
+java:S1133Ò"5Do not forget to remove this deprecated code someday.(·‡‚μ
+W	java:S125ΐ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+L
+java:S1133α"5Do not forget to remove this deprecated code someday.(Ύωτ—
+W	java:S125Υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ι"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ά"<This block of commented-out lines of code should be removed.(βΠ€Γ
+W	java:S125γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ϊ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125’"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+>
+java:S1659Χ"'Declare "errCount2" on a separate line.( 
+U
+java:S1155Ξ">Use isEmpty() to check whether the collection is empty or not.(®…‹Φ
+W	java:S125Ψ"<This block of commented-out lines of code should be removed.(ϊωΜόÿÿÿÿ
+W	java:S125κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(έςσ±

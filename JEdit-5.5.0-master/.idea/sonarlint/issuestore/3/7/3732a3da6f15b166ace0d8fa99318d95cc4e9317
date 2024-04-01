@@ -1,0 +1,17 @@
+
+o
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(âä÷³
+e
+java:S1192I"PDefine a constant instead of duplicating this literal "options.browser" 8 times.(›²–
+g
+java:S1192K"LDefine a constant instead of duplicating this literal "vfs.browser" 8 times.(È‘È«ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ýòó±
+U
+java:S1161.":Add the "@Override" annotation above this method signature(•‚Ýôýÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161‡":Add the "@Override" annotation above this method signature(íøºåþÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ž"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

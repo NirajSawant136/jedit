@@ -1,0 +1,29 @@
+
+|
+java:S1488ñ"`Immediately return this expression instead of assigning it to the temporary variable "toReturn".(°ƒñùÿÿÿÿ
+D
+java:S19482".Make "invalidStyle" transient or serializable.(Ş–‡§
+7
+java:S2129@"!Remove this "Integer" constructor(âì†Ğ
+7
+java:S2129M"!Remove this "Integer" constructor(âì†Ğ
+7
+java:S2129^"!Remove this "Integer" constructor(âì†Ğ
+7
+java:S2129k"!Remove this "Integer" constructor(âì†Ğ
+?	java:S108Ò")Either remove or fill this block of code.(èúäÃ
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(§æ²í
+Q
+java:S1161ç":Add the "@Override" annotation above this method signature(£Û‹
+V
+java:S1161ğ":Add the "@Override" annotation above this method signature(Å›ÛŸùÿÿÿÿ
+Q
+java:S1161¢":Add the "@Override" annotation above this method signature(§æ²í
+Q
+java:S1161³":Add the "@Override" annotation above this method signature(£Û‹
+V
+java:S1161¼":Add the "@Override" annotation above this method signature(Å›ÛŸùÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(İòó±
+_
+java:S1128 "IRemove this unused import 'javax.swing.text.DocumentFilter.FilterBypass'.(´ñïğ

@@ -1,0 +1,91 @@
+
+t
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(öƒôúúÿÿÿÿ
+t
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(èèÃôùÿÿÿÿ
+o
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(õÛˆ
+t
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾û§×øÿÿÿÿ
+o
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(öˆê¹
+o
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(à ù¡
+t
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ì¸Ïşÿÿÿÿ
+l
+java:S1192î"PDefine a constant instead of duplicating this literal "elasticTabstops" 3 times.(Û´˜òûÿÿÿÿ
+b
+java:S1192ï"KDefine a constant instead of duplicating this literal "autoIndent" 3 times.(ö–Õî
+^
+java:S1192í"GDefine a constant instead of duplicating this literal "noTabs" 3 times.(ÔƒŞ’
+a
+java:S1192å"JDefine a constant instead of duplicating this literal "noWordSep" 3 times.(±®½
+d
+java:S1192ã"MDefine a constant instead of duplicating this literal "filenameGlob" 5 times.(Şá“ª
+_
+java:S1192ë"HDefine a constant instead of duplicating this literal "tabSize" 3 times.(ˆŒ¹
+g
+java:S1192ì"KDefine a constant instead of duplicating this literal "indentSize" 3 times.(É‚Œîüÿÿÿÿ
+j
+java:S1192ä"NDefine a constant instead of duplicating this literal "firstlineGlob" 5 times.(Ã¤šüÿÿÿÿ
+j
+java:S1192è"NDefine a constant instead of duplicating this literal "collapseFolds" 3 times.(®Õè±ûÿÿÿÿ
+_
+java:S1192ç"HDefine a constant instead of duplicating this literal "folding" 3 times.(¹¿Ù
+l
+java:S1192æ"PDefine a constant instead of duplicating this literal "camelCasedWords" 3 times.(ÌŒóØøÿÿÿÿ
+b
+java:S1192ğ"KDefine a constant instead of duplicating this literal "deepIndent" 3 times.(—áÈŒ
+a
+java:S1192ê"KDefine a constant instead of duplicating this literal "maxLineLen" 3 times.(»ÊB
+D
+java:S1121D".Extract the assignment out of this expression.(Ô”È
+I
+java:S1121F".Extract the assignment out of this expression.(üØÊ×üÿÿÿÿ
+I
+java:S1121K".Extract the assignment out of this expression.(èèÃôùÿÿÿÿ
+C
+java:S1121N".Extract the assignment out of this expression.(Åãò
+D
+java:S1121V".Extract the assignment out of this expression.(õÛˆ
+D
+java:S1121d".Extract the assignment out of this expression.(öˆê¹
+D
+java:S1121i".Extract the assignment out of this expression.(à ù¡
+I
+java:S1121n".Extract the assignment out of this expression.(¨ì¸Ïşÿÿÿÿ
+D
+java:S1121r".Extract the assignment out of this expression.(¾’´
+D
+java:S1121u".Extract the assignment out of this expression.(ˆ‹Âš
+I
+java:S1121y".Extract the assignment out of this expression.(Ñ§ÒÂúÿÿÿÿ
+J
+java:S1121‚".Extract the assignment out of this expression.(í£¦şÿÿÿÿ
+?
+java:S1948¬"(Make "global" transient or serializable.(±¥——
+B
+java:S1948­"+Make "modeProps" transient or serializable.(”Äÿ»
+@
+java:S1948®")Make "current" transient or serializable.(ÏşÑÚ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(İòó±
+T
+java:S18546"9Remove this useless assignment to local variable "modes".(ØãÑ£ıÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+E
+java:S14816"*Remove this unused "modes" local variable.(ØãÑ£ıÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Á"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125š"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125È"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

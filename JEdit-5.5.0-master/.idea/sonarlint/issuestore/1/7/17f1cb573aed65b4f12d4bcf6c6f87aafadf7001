@@ -1,0 +1,21 @@
+
+i
+java:S1104g"SMake matcher a static final constant or non-public and provide accessors if needed.(™©ÿŒ
+p
+java:S1104h"UMake startLine a static final constant or non-public and provide accessors if needed.(¶ØŞ¾ÿÿÿÿÿ
+g
+java:S1104i"QMake start a static final constant or non-public and provide accessors if needed.(ßÆ‡Ò
+i
+java:S1104j"SMake endLine a static final constant or non-public and provide accessors if needed.(àÛ™
+j
+java:S1104k"OMake end a static final constant or non-public and provide accessors if needed.(­Û¿ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S1250"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S1259"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125^"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Š":Add the "@Override" annotation above this method signature(Åç˜¼ÿÿÿÿÿ
+<
+java:S1659š" Declare "x2" on a separate line.(í«¨Âÿÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

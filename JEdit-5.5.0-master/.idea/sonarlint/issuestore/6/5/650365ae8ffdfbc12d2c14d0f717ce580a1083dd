@@ -1,0 +1,31 @@
+
+J
+java:S3740d"/Provide the parametrized type for this generic.(‚Ó©äıÿÿÿÿ
+k
+java:S1104'"PMake kind a static final constant or non-public and provide accessors if needed.(…ü³ùÿÿÿÿ
+i
+java:S1104("SMake postfix a static final constant or non-public and provide accessors if needed.(‹—‚³
+]
+java:S3973g"GUse indentation to denote the code conditionally executed by this "if".(©£Ø
+P
+java:S1161,":Add the "@Override" annotation above this method signature(çÔ°
+=
+java:S1659E"'Declare "postvalue" on a separate line.(±¹®ç
+h
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ì£Î÷
+<
+java:S2129h"!Remove this "Boolean" constructor(Öİ†ôıÿÿÿÿ
+4
+java:S2129s"Remove this "Byte" constructor(šªëÄ
+:
+java:S2129u"Remove this "Short" constructor(õ®ªùÿÿÿÿ
+>
+java:S2129w"#Remove this "Character" constructor(§Äª×úÿÿÿÿ
+7
+java:S2129z"!Remove this "Integer" constructor(ãƒµ‚
+4
+java:S2129}"Remove this "Long" constructor(µ¶ï¨
+:
+java:S2129"Remove this "Float" constructor(²¶Ú³ûÿÿÿÿ
+7
+java:S2129" Remove this "Double" constructor(¥Æşµ

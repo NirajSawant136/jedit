@@ -1,0 +1,16 @@
+
+`
+java:S3014Ö"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(£ï¦®
+Q	java:S125""<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S125A"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+y
+java:S2142["^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâÞáøÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+y
+java:S2142}"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâÞáøÿÿÿÿ
+z
+java:S2142”"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâÞáøÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

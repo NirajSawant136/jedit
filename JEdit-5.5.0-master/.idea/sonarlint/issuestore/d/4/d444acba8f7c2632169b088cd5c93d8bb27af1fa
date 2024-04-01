@@ -1,0 +1,30 @@
+
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ…
+g	java:S117Ά"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Υ½
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ώδωÿÿÿÿ
+g	java:S117Ι"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ή·Έπ
+l	java:S116α"VRename this field "pattern_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ά‰ιΖ
+n	java:S116ε"SRename this field "fwd_skip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ψ χψÿÿÿÿ
+p	java:S116ζ"URename this field "fwd_suffix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ίε‹Λϊÿÿÿÿ
+o	java:S116η"TRename this field "back_skip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ήπ½ωÿÿÿÿ
+l	java:S116θ"VRename this field "back_suffix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Όςϋ£
+Q	java:S125E"<This block of commented-out lines of code should be removed.(έςσ±
+m
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(—π“όÿÿÿÿ
+V	java:S125i"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+?
+java:S1659}"$Declare "suffix" on a separate line.(έ‚€Λψÿÿÿÿ
+Q	java:S125z"<This block of commented-out lines of code should be removed.(‚³ª§
+Q	java:S125z"<This block of commented-out lines of code should be removed.(‚³ª§
+W	java:S125‘"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(‡κΪ‰ψÿÿÿÿ
+R
+java:S1119―";Refactor the code to remove this label and the need for it.(­μ…σ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125έ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+n
+java:S3776΅"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(―βνώÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ξ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Π"<This block of commented-out lines of code should be removed.(έςσ±

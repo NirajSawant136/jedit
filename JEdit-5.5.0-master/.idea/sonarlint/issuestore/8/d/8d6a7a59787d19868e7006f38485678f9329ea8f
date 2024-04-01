@@ -1,0 +1,12 @@
+
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÛïÂıÿÿÿÿ
+{
+java:S1149A"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëºà
+V	java:S125&"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+H
+java:S1905G"2Remove this unnecessary cast to "ColumnBlockLine".(àÖú¶
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(±¬†­
+H
+java:S1905Z"2Remove this unnecessary cast to "ColumnBlockLine".(óı”„
+V	java:S125]"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

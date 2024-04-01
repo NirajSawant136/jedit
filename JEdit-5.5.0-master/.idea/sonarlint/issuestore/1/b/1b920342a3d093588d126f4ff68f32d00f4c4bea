@@ -1,0 +1,59 @@
+
+D
+java:S1604Ý"(Make this anonymous inner class a lambda(Õ‰²­ýÿÿÿÿ
+C
+java:S1948Æ",Make "controller" transient or serializable.(Þ¶¯‡
+Q	java:S125""<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S1253"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1161a":Add the "@Override" annotation above this method signature(ýÛ„Ûþÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Ø":Add the "@Override" annotation above this method signature(ËÙÙÝøÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161â":Add the "@Override" annotation above this method signature(ýÛ„Ûþÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(±óÃž
+Q
+java:S1161ê":Add the "@Override" annotation above this method signature(±óÃž
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+8	java:S131ñ""Add a default case to this switch.(ÿéÓî
+Q
+java:S1161£":Add the "@Override" annotation above this method signature(Ó´µÅ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Á"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125É"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(Ýòó±
+V
+java:S1161Õ":Add the "@Override" annotation above this method signature(Õ¼‘…úÿÿÿÿ
+Q
+java:S1161Û":Add the "@Override" annotation above this method signature(‘‚Ã£
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161è":Add the "@Override" annotation above this method signature(ÔáÞ¬
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161õ":Add the "@Override" annotation above this method signature(€³ûª
+W	java:S125ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161€":Add the "@Override" annotation above this method signature(û¦ØÉøÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(ýíçú
+Q
+java:S1161›":Add the "@Override" annotation above this method signature(¤ŠªÈ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(Ýòó±

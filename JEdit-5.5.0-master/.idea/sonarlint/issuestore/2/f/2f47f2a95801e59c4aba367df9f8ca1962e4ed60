@@ -1,0 +1,75 @@
+
+y
+java:S1192I"cDefine a constant instead of duplicating this literal "Unbalanced begin/endCompoundEdit()" 3 times.(îÿ»É
+H
+java:S1659•",Declare "redoClearDirty" on a separate line.(„âîßşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1250"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S1256"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+<
+java:S1168L"&Return an empty array instead of null.(¥¹ï
+@
+java:S1197R"*Move the array designators [] to the type.(ûšµÏ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125_"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+<
+java:S1168h"&Return an empty array instead of null.(¥¹ï
+V	java:S125u"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+8
+java:S1116"Remove this empty statement.(Î×ùÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+D
+java:S1172§"-Remove this unused method parameter "length".(å¤»Ğ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(Ò§Óğşÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Î"<This block of commented-out lines of code should be removed.(´éúºıÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+>
+java:S1659š""Declare "next" on a separate line.(”ÙĞÏùÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¶"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125·"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+C
+java:S1659¤"'Declare "strInsert" on a separate line.(òÅó¡ùÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+9
+java:S1659¼""Declare "last" on a separate line.(Ÿ¾«ù
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+c	java:S100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Õàs
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125º"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125º"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¿"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Á"<This block of commented-out lines of code should be removed.(İòó±

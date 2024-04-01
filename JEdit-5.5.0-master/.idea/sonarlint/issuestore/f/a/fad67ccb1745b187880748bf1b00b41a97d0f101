@@ -1,0 +1,32 @@
+
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(†«¦•þÿÿÿÿ
+\
+java:S2259L"AA "NullPointerException" could be thrown; "tag" is nullable here.(çÄœËúÿÿÿÿ
+l
+java:S1149†"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(†«¦•þÿÿÿÿ
+U
+java:S11611":Add the "@Override" annotation above this method signature(‘¯äŠøÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S11618":Add the "@Override" annotation above this method signature(ŸÀÎÈ
+V	java:S1255"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1161G":Add the "@Override" annotation above this method signature(Âñ¹¯
+V	java:S125D"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1161T":Add the "@Override" annotation above this method signature(‹»¶ôúÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1161h":Add the "@Override" annotation above this method signature(ßÄ™¦ÿÿÿÿÿ
+V	java:S125e"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S1161u":Add the "@Override" annotation above this method signature(û–»
+V	java:S125r"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125x"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+N
+java:S1135‡"2Complete the task associated to this TODO comment.(ùÛ¸‡ÿÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125œ"<This block of commented-out lines of code should be removed.(Ýòó±
+D
+java:S1068ˆ"(Remove this unused "path" private field.(áë»àûÿÿÿÿ

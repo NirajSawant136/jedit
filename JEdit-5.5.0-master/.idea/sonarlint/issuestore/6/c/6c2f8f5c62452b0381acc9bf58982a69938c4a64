@@ -1,0 +1,10 @@
+
+Y
+java:S2259Y"CA "NullPointerException" could be thrown; "other" is nullable here.(éá£
+e	java:S116u"PRename this field "m_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ£Ã
+k
+java:S1206W"PThis class overrides "equals()" and should therefore also override "hashCode()".(¤Ï—ÿüÿÿÿÿ
+3
+java:S23861"Make this member "protected".(ÛôÇÈ
+3
+java:S23864"Make this member "protected".(³¶ö

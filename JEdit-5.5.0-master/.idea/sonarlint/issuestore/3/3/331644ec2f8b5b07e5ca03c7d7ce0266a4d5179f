@@ -1,0 +1,33 @@
+
+V	java:S125,"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+Q
+java:S2696C"6Make the enclosing method "static" or remove this set.(É´˛ç˛ˇˇˇˇ
+i
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¥®˝
+V	java:S125~"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+U
+java:S1117à">Rename "dragStart" which hides the field declared at line 638.(πÈ›ä
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125˚"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(≥î∆Ï
+W	java:S125≈"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125˙"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+R
+java:S2696Ñ"6Make the enclosing method "static" or remove this set.(É´˛ç˛ˇˇˇˇ
+W	java:S125è"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+[
+java:S3358ﬂ"DExtract this nested ternary operation into an independent statement.(ãú˘Â
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+[
+java:S3358Û"DExtract this nested ternary operation into an independent statement.(¬Ê¸ä
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢ùÌÙ˚ˇˇˇˇ
+R	java:S125é"<This block of commented-out lines of code should be removed.(›ÚÛ±

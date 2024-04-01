@@ -1,0 +1,15 @@
+
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹ÚäÈøÿÿÿÿ
+Ê
+java:S6548&"®An Enum-based Singleton implementation was detected. Make sure the use of the Singleton pattern is required and an Enum-based implementation is the right one for the context.(Øääıÿÿÿÿ
+V	java:S1252"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125V"<This block of commented-out lines of code should be removed.(»€·Ñ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125w"<This block of commented-out lines of code should be removed.(Ø×îüÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125š"<This block of commented-out lines of code should be removed.(Ş®
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

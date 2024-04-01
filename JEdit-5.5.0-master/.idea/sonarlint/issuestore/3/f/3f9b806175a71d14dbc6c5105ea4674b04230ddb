@@ -1,0 +1,40 @@
+
+s	java:S127µ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÿë–³ûÿÿÿÿ
+c
+java:S3973í"GUse indentation to denote the code conditionally executed by this "if".(á°˜õûÿÿÿÿ
+c
+java:S3973±"GUse indentation to denote the code conditionally executed by this "if".(á°˜õûÿÿÿÿ
+˜
+java:S1186Ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Á›íä
+
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥£Ø¸ÿÿÿÿÿ
+U
+java:S1161w":Add the "@Override" annotation above this method signature(…ã ¾ÿÿÿÿÿ
+V
+java:S1161“":Add the "@Override" annotation above this method signature(€Íñ“ùÿÿÿÿ
+V
+java:S1161¿":Add the "@Override" annotation above this method signature(â–ç—ÿÿÿÿÿ
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(Á›íä
+`
+java:S3551Ê"IMake this method "synchronized" to match the parent class implementation.(Á›íä
+V
+java:S1161Ò":Add the "@Override" annotation above this method signature(¥£Ø¸ÿÿÿÿÿ
+e
+java:S3551Ò"IMake this method "synchronized" to match the parent class implementation.(¥£Ø¸ÿÿÿÿÿ
+n
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.( £Öûşÿÿÿÿ
+F	java:S106î"+Replace this use of System.err by a logger.(ë¬˜×úÿÿÿÿ
+A	java:S106‚"+Replace this use of System.err by a logger.(óÍ¸ğ
+A	java:S106‹"+Replace this use of System.err by a logger.(âëš¸
+F	java:S106²"+Replace this use of System.err by a logger.(ë¬˜×úÿÿÿÿ
+E
+java:S4517Û"/Convert this signed byte into an unsigned byte.(ıëÊ
+Q
+java:S1161Ô":Add the "@Override" annotation above this method signature(˜†ì³
+V
+java:S1161ç":Add the "@Override" annotation above this method signature(şÆø²øÿÿÿÿ
+Q
+java:S1161ú":Add the "@Override" annotation above this method signature(…æãõ
+H
+java:S1264Ÿ",Replace this "for" loop with a "while" loop.(àÕßŞüÿÿÿÿ

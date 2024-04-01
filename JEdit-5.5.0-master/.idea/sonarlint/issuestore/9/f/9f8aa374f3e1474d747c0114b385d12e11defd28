@@ -1,0 +1,59 @@
+
+a	java:S112õ"FDefine and throw a dedicated exception instead of using a generic one.(è±øâûÿÿÿÿ
+[	java:S112ú"FDefine and throw a dedicated exception instead of using a generic one.(ëí©B
+\	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(ÒÄíº
+c
+java:S1192„"GDefine a constant instead of duplicating this literal "plugin" 5 times.(¥›…òÿÿÿÿÿ
+d
+java:S1192Z"IDefine a constant instead of duplicating this literal "file:///" 3 times.(„Ó»øúÿÿÿÿ
+R
+java:S4973t"<Strings and Boxed types should be compared using "equals()".(¹¿×İ
+Q
+java:S4973{"<Strings and Boxed types should be compared using "equals()".(İ—¥S
+Q	java:S125%"<This block of commented-out lines of code should be removed.(İòó±
+h
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¸ú¤¶
+?
+java:S1659x")Declare "inputStream" on a separate line.(ö°øç
+U
+java:S4719‹"9Replace charset name argument with StandardCharsets.UTF_8(¿şªÂşÿÿÿÿ
+Q	java:S899š";Do something with the "boolean" value returned by "delete".(¾²Í¬
+e
+java:S4042š"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¾²Í¬
+B
+java:S1905¦",Remove this unnecessary cast to "Closeable".(¾ı7
+C
+java:S1905§",Remove this unnecessary cast to "Closeable".(û Ÿ¶
+E
+java:S2093y"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+C
+java:S1905å",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+H
+java:S1905æ",Remove this unnecessary cast to "Closeable".(É…™¥üÿÿÿÿ
+F
+java:S2093¸"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+A	java:S106"+Replace this use of System.err by a logger.(úõÛ
+F	java:S106"+Replace this use of System.err by a logger.(âÉÀÜüÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(”î—Íüÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(§İÆƒøÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(É··¼
+X
+java:S1126›"AReplace this if-then-else statement by a single return statement.(‰Óş­
+X
+java:S1126¨"AReplace this if-then-else statement by a single return statement.(‰Óş­
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+N
+java:S1135ë"2Complete the task associated to this TODO comment.(ç³üŒùÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(İòó±
+Q
+java:S1144ì":Remove this unused private "getAutoSelectedMirror" method.(åªŸ«

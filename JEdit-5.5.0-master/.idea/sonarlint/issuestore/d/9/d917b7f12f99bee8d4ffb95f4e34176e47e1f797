@@ -1,0 +1,32 @@
+
+E
+java:S3740-"/Provide the parametrized type for this generic.(òŠúß
+J
+java:S3740{"/Provide the parametrized type for this generic.(óâÊ¼ıÿÿÿÿ
+K
+java:S3740¤"/Provide the parametrized type for this generic.(¦¬ûÿÿÿÿ
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò®•Şşÿÿÿÿ
+\
+java:S2259c"AA "NullPointerException" could be thrown; "tag" is nullable here.(€Öô»ùÿÿÿÿ
+g
+java:S1149®"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(éÔÎ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+H
+java:S1172>"2Remove this unused method parameter "isSpecified".(ûâñÓ
+V	java:S125;"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+I
+java:S1135¢"2Complete the task associated to this TODO comment.(­ãŞÑ
+R	java:S125¯"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(İòó±
+D
+java:S1068£"(Remove this unused "path" private field.(á¨©æıÿÿÿÿ

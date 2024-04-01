@@ -1,0 +1,18 @@
+
+t
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(«²Δÿÿÿÿÿ
+u	java:S115Ά"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ι®Ϋ‹ύÿÿÿÿ
+P
+java:S1118/":Add a private constructor to hide the implicit public one.(‰ϊ’¦
+Q	java:S125'"<This block of commented-out lines of code should be removed.(έςσ±
+Z
+java:S2147C"DCombine this catch with the one at line 63, which has the same body.(ηές€
+_
+java:S4201I"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ύ Ζ
+V	java:S125R"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125£"<This block of commented-out lines of code should be removed.(έςσ±

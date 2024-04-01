@@ -1,0 +1,26 @@
+
+g
+java:S1301µ"KReplace this "switch" statement by "if" statements to increase readability.(‚ñ’Åøÿÿÿÿ
+C
+java:S1948Ç",Make "controller" transient or serializable.(Þ¶¯‡
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S1256"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125_"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1161n":Add the "@Override" annotation above this method signature(ËÙÙÝøÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3776w"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(±óÃž
+P
+java:S1161w":Add the "@Override" annotation above this method signature(±óÃž
+V	java:S125r"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+7	java:S131~""Add a default case to this switch.(ÿéÓî
+Q
+java:S1161°":Add the "@Override" annotation above this method signature(Ó´µÅ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(Ýòó±
+R	java:S125È"<This block of commented-out lines of code should be removed.(Ýòó±

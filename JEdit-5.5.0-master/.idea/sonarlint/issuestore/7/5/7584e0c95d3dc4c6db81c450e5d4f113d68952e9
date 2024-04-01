@@ -1,0 +1,16 @@
+
+^
+java:S1192P"HDefine a constant instead of duplicating this literal "plugin." 5 times.(½›‚‡
+e
+java:S1192)"ODefine a constant instead of duplicating this literal "plugin-options" 4 times.(îÃ­¨
+I
+java:S1948q".Make "pluginsGroup" transient or serializable.(ñÁŒ…üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125*"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S1256"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125r"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125{"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

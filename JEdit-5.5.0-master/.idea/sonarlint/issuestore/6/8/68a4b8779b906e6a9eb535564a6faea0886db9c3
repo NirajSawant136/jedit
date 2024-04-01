@@ -1,0 +1,62 @@
+
+t
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÌ†şÿÿÿÿ
+t
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(×”Ì”ÿÿÿÿÿ
+t
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëï¨Äüÿÿÿÿ
+p
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(Áá»—
+p
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(á±ŸÄ
+p
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(À¿æ
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò³ß ùÿÿÿÿ
+p
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ»ûù
+p
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸†Â
+u
+java:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(å§¸Öøÿÿÿÿ
+g
+java:S1192à"PDefine a constant instead of duplicating this literal "elasticTabstops" 3 times.(öøÑâ
+]
+java:S1192Ø"GDefine a constant instead of duplicating this literal "noTabs" 3 times.(Ëò¦J
+d
+java:S1192É"HDefine a constant instead of duplicating this literal "tabSize" 3 times.(¶şƒóúÿÿÿÿ
+g
+java:S1192Ğ"KDefine a constant instead of duplicating this literal "indentSize" 3 times.(´¥ŞÔøÿÿÿÿ
+d
+java:S1192¢"HDefine a constant instead of duplicating this literal "folding" 3 times.(µÄ¹°ÿÿÿÿÿ
+b
+java:S1192À"KDefine a constant instead of duplicating this literal "maxLineLen" 3 times.(÷ÉÚ¸
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õö¡˜
+=
+java:S19481"'Make "modes" transient or serializable.(½†ÿÒ
+>
+java:S1948:"(Make "buffer" transient or serializable.(ÂÎ×
+Q	java:S125a"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125k"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125r"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125œ"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¥"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¬"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¹"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ã"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125â"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125è"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+X
+java:S1117ƒ"<Rename "encoding" which hides the field declared at line 46.(ØÊÔùÿÿÿÿ
+D	java:S108¡")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+D	java:S108ª")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+D	java:S108³")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+8	java:S131¾""Add a default case to this switch.(¹©¢
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

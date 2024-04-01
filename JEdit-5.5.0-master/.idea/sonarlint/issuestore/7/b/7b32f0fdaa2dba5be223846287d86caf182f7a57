@@ -1,0 +1,28 @@
+
+D
+java:S3740C"/Provide the parametrized type for this generic.(öˆÇN
+J
+java:S3740]"/Provide the parametrized type for this generic.(¹±Ğıÿÿÿÿ
+d
+java:S3824e"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(•­Ä³
+N
+java:S1948E"3Make "invocationHandler" transient or serializable.(“¼ı­úÿÿÿÿ
+k
+java:S1149C"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(öˆÇN
+P
+java:S1161K":Add the "@Override" annotation above this method signature(Á»›ê
+P
+java:S1161R":Add the "@Override" annotation above this method signature(ùŞáî
+U
+java:S1161Z":Add the "@Override" annotation above this method signature(¾áÇüÿÿÿÿ
+<
+java:S2129c"!Remove this "Integer" constructor(ÇêàÙşÿÿÿÿ
+S
+java:S1854˜"=Remove this useless assignment to local variable "callstack".(ñŸÜr
+D
+java:S1481˜".Remove this unused "callstack" local variable.(ñŸÜr
+R	java:S125"<This block of commented-out lines of code should be removed.(´ïÆŒ
+8
+java:S2129©"!Remove this "Boolean" constructor(··Àì
+8
+java:S1116Æ"Remove this empty statement.(ôŸìúÿÿÿÿ

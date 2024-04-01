@@ -1,0 +1,35 @@
+
+u
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(°΅ζΒόÿÿÿÿ
+.
+java:S1700υ"Rename field "key"(ι­εχϊÿÿÿÿ
+d
+java:S3973h"IUse indentation to denote the code conditionally executed by this "else".(„¶αμψÿÿÿÿ
+b
+java:S3973}"GUse indentation to denote the code conditionally executed by this "if".(Ηηκ½ϊÿÿÿÿ
+U
+java:S1659">Declare "a" and all following declarations on a separate line.(ύ½νΊ
+P
+java:S1118+":Add a private constructor to hide the implicit public one.(¥Ο·
+Q	java:S125#"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S1257"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+h
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(λ¶ΣΠ
+<	java:S131v""Add a default case to this switch.(μΓόÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+?
+java:S2129"#Remove this "Character" constructor(Ά¬κ•όÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Τ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+8	java:S131Η""Add a default case to this switch.(Ξ½Σ
+W	java:S125Ω"<This block of commented-out lines of code should be removed.(¬„‡όÿÿÿÿ
+W	java:S125ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125ο"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125°"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

@@ -1,0 +1,16 @@
+[search.directory]
+C:\\Users\\niraj\\Downloads\\
+[vfs.browser.path]
+C:\\Users\\niraj\\Downloads
+C:\\Users\\niraj
+C:\\Users\\niraj\\Documents
+C:\\Users\\niraj\\Documents\\Dell
+C:\\Users\\niraj\\Documents\\JEdit\\JEdit-5.5.0-master
+[vfs.browser.filter]
+*\[^~#\]
+[search.filter]
+*
+[action]
+find
+new-file
+open-file

@@ -1,0 +1,17 @@
+
+7
+java:S2189f""Add an end condition to this loop.(¤èÄ7
+t	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾Ê‚³ýÿÿÿÿ
+t	java:S1157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨ãÛðûÿÿÿÿ
+n	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ž±ý
+b
+java:S16597"GDeclare "lastCharNL" and all following declarations on a separate line.(¨ãÛðûÿÿÿÿ
+P
+java:S1161<":Add the "@Override" annotation above this method signature(Ä…©
+G
+java:S5261K"1Add explicit curly braces to avoid dangling else.(ÔÍØ
+U
+java:S1161X":Add the "@Override" annotation above this method signature(Ççé ýÿÿÿÿ
+E
+java:S1197X"*Move the array designators [] to the type.(Ççé ýÿÿÿÿ
+@	java:S106g"+Replace this use of System.out by a logger.(²“ûÊ

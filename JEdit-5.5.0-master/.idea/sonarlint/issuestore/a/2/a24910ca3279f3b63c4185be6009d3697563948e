@@ -1,0 +1,36 @@
+
+o
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(â©¯î
+C
+java:S1604P"(Make this anonymous inner class a lambda(±÷ƒşÿÿÿÿ
+C
+java:S1604e"(Make this anonymous inner class a lambda(ü’¹şøÿÿÿÿ
+g
+java:S1301¾"KReplace this "switch" statement by "if" statements to increase readability.(‚ñ’Åøÿÿÿÿ
+B
+java:S1948|",Make "helpViewer" transient or serializable.(êÌåÍ
+Q	java:S125("<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125B"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(İòó±
+Q
+java:S1161":Add the "@Override" annotation above this method signature(´ú‘û
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161©":Add the "@Override" annotation above this method signature(Ñ¼ü§
+W	java:S125—"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(ë‰ñ§
+Q
+java:S1161º":Add the "@Override" annotation above this method signature(Ó´µÅ
+W	java:S125·"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(µ÷Â—ıÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(î½û¨ûÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+[
+java:S3358Š"DExtract this nested ternary operation into an independent statement.(»é“Õ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

@@ -1,0 +1,21 @@
+
+t
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëÝÊ€þÿÿÿÿ
+P
+java:S1118)":Add a private constructor to hide the implicit public one.(öÄ­¥
+Q	java:S125$"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S1259"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+_
+java:S1134z"DTake the required action to fix the issue indicated by this comment.(¨¯¨úÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Î"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+e
+java:S4201Ù"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¼˜ûðøÿÿÿÿ
+R	java:S125â"<This block of commented-out lines of code should be removed.(Ýòó±

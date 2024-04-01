@@ -1,0 +1,38 @@
+
+o
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Öö
+o
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(°×è¡
+p
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(İôôÏ
+I
+java:S11210".Extract the assignment out of this expression.(è¼•İùÿÿÿÿ
+D
+java:S1604Œ"(Make this anonymous inner class a lambda(±÷ƒşÿÿÿÿ
+D
+java:S1604Ô"(Make this anonymous inner class a lambda(ü’¹şøÿÿÿÿ
+B
+java:S1948=",Make "helpViewer" transient or serializable.(êÌåÍ
+=
+java:S1948@"'Make "index" transient or serializable.(ÃçÓ
+Q	java:S125""<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125:"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161Š":Add the "@Override" annotation above this method signature(œĞóØ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ä ¸ú
+U
+java:S1117É"9Rename "index" which hides the field declared at line 64.(¹ãõ†üÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161§":Add the "@Override" annotation above this method signature(‘‚Ã£
+E
+java:S1905¬")Remove this unnecessary cast to "Result".(Ë´áÿÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+<
+java:S3398B"&Move this method into "ActionHandler".(ıÜóÌ

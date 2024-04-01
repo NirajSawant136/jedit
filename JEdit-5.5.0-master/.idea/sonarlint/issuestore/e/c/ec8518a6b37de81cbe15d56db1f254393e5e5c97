@@ -1,0 +1,67 @@
+
+K
+java:S1066²"/Merge this if statement with the enclosing one.(–ªäˆûÿÿÿÿ
+F
+java:S1066Ô"/Merge this if statement with the enclosing one.(Õ™›ğ
+K
+java:S1066´"/Merge this if statement with the enclosing one.(À¢ß—ûÿÿÿÿ
+E
+java:S1066˜"/Merge this if statement with the enclosing one.(è¢˜
+F
+java:S1066È
+"/Merge this if statement with the enclosing one.(§ˆï‘
+F
+java:S1066º"/Merge this if statement with the enclosing one.(ŸúÛ
+`
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(ÙüŠæşÿÿÿÿ
+a
+java:S1124Ì"EReorder the modifiers to comply with the Java Language Specification.(øüÿÿÿÿ
+R	java:S125‹"<This block of commented-out lines of code should be removed.(ºƒÆì
+i
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÈÛ³§
+Q
+java:S6213Î":Rename this variable to not match a restricted identifier.(ÈÛ³§
+h
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(­¸Š
+i
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ç¹Åœ
+i
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ë¤ªğ
+V
+java:S6213É":Rename this variable to not match a restricted identifier.(û‘Ù‘ùÿÿÿÿ
+A
+java:S1197İ"*Move the array designators [] to the type.(ˆ‡ 
+A
+java:S1197û"*Move the array designators [] to the type.(¤òûÀ
+A
+java:S1197ü"*Move the array designators [] to the type.(ˆ‡ 
+i
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ğ¥ä¸
+h
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Àêh
+[
+java:S3358»"DExtract this nested ternary operation into an independent statement.(¾™ÿÀ
+?	java:S108½")Either remove or fill this block of code.(Äşí²
+n
+java:S3776 	"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‚ÜÕùÿÿÿÿ
+o
+java:S3776†
+"SRefactor this method to reduce its Cognitive Complexity from 127 to the 15 allowed.(É•Ó•üÿÿÿÿ
+Q
+java:S1854÷":Remove this useless assignment to local variable "source".(ó Ñ
+Q
+java:S1854":Remove this useless assignment to local variable "source".(»ÊèÕ
+Z
+java:S1659Œ
+">Declare "v" and all following declarations on a separate line.(ÓëŸúÿÿÿÿ
+6
+java:S1659
+"Declare "j" on a separate line.(ö©£Œ
+R
+java:S1117§
+";Rename "resize" which hides the field declared at line 143.(ŞËã€
+B
+java:S1481÷"+Remove this unused "source" local variable.(ó Ñ
+ã
+java:S6541†
+"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 283 to 64, Complexity from 74 to 14, Nesting Level from 6 to 2, Number of Variables from 21 to 6.(É•Ó•üÿÿÿÿ

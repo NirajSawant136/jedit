@@ -1,0 +1,22 @@
+
+—
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°ÿïÕ
+œ
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢¾ïøÿÿÿÿ
+E
+java:S1948")Make "context" transient or serializable.(Ü°²Éúÿÿÿÿ
+A
+java:S1948’"*Make "provider" transient or serializable.(ä¬‚µ
+D
+java:S1948”"(Make "ebStub" transient or serializable.(Ñ¶ÃÙşÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125*"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+D
+java:S1113—"-Do not override the Object.finalize() method.(¾Íï³
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125¼"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

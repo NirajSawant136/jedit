@@ -1,0 +1,23 @@
+
+a	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+s	java:S135h"YReduce the total number of break and continue statements in this loop to use at most one.(´™ˆÏüÿÿÿÿ
+>
+java:S1604E"(Make this anonymous inner class a lambda(¯øÄ
+?
+java:S1604™"(Make this anonymous inner class a lambda(¯øÄ
+?
+java:S1604£"(Make this anonymous inner class a lambda(¯øÄ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(İòó±
+m
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¬ìĞ¿üÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125·"<This block of commented-out lines of code should be removed.(İòó±
+ˆ
+java:S1130ß"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(°÷ÇÎÿÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+^
+java:S1126á"BReplace this if-then-else statement by a single method invocation.(Ì½’¹úÿÿÿÿ
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125·"<This block of commented-out lines of code should be removed.(İòó±

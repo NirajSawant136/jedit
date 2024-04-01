@@ -1,0 +1,39 @@
+
+u
+java:S2293ώ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΚάÒΰωÿÿÿÿ
+J
+java:S1121".Extract the assignment out of this expression.(Ό²¬―ώÿÿÿÿ
+J
+java:S1121‘".Extract the assignment out of this expression.(ΫΈ¬±ψÿÿÿÿ
+D
+java:S1604μ"(Make this anonymous inner class a lambda(Ό™ωΪόÿÿÿÿ
+?
+java:S1604ÿ"(Make this anonymous inner class a lambda(ρ‘£
+x
+java:S1488<"cImmediately return this expression instead of assigning it to the temporary variable "errorWidget".(Η’o
+Q	java:S125/"<This block of commented-out lines of code should be removed.(έςσ±
+—
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ώΟ€
+V	java:S125>"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+N
+java:S1948Ν"7Make "byteArrayOutputStream" transient or serializable.(πΚ­π
+D
+java:S1948Ξ"-Make "printStream" transient or serializable.(ÿ€ί
+W	java:S125Η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+C
+java:S1905ϋ",Remove this unnecessary cast to "Throwable".(³ΒΏ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125―"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ύ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125δ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

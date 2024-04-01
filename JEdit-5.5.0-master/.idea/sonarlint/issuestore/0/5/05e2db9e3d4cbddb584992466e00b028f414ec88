@@ -1,0 +1,41 @@
+
+K
+java:S3740ô"/Provide the parametrized type for this generic.(ÄüÓıÿÿÿÿÿ
+F
+java:S3740ş"/Provide the parametrized type for this generic.(‡’·
+F
+java:S3740€"/Provide the parametrized type for this generic.(°ˆ·ÿ
+F
+java:S3740İ"/Provide the parametrized type for this generic.(Ìˆ’—
+p
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â»ë
+C
+java:S1604h"(Make this anonymous inner class a lambda(‚€³æıÿÿÿÿ
+D
+java:S1604³"(Make this anonymous inner class a lambda(‹é”ÿøÿÿÿÿ
+?
+java:S1604©"(Make this anonymous inner class a lambda(»Ç‰¼
+D
+java:S5411’"(Use a primitive boolean expression here.(ÁµË»ûÿÿÿÿ
+U
+java:S3516…"9Refactor this method to not always return the same value.(ÌÂıÌøÿÿÿÿ
+O
+java:S19489"4Make "itemSelectedBefore" transient or serializable.(†Û‡úÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(İòó±
+?
+java:S3010u")Remove this assignment of "defaultColor".(úï‘‰
+F
+java:S3010v"+Remove this assignment of "defaultBGColor".(à’¥ºşÿÿÿÿ
+V	java:S125E"<This block of commented-out lines of code should be removed.(‡îäüÿÿÿÿ
+`
+java:S1134¿"DTake the required action to fix the issue indicated by this comment.(Î¥ıÿÿÿÿÿ
+V
+java:S1161…":Add the "@Override" annotation above this method signature(ÌÂıÌøÿÿÿÿ
+a
+java:S2147é"ECombine this catch with the one at line 357, which has the same body.(É˜Ùúÿÿÿÿ
+a
+java:S2147™"ECombine this catch with the one at line 405, which has the same body.(É˜Ùúÿÿÿÿ
+a
+java:S2147È"ECombine this catch with the one at line 452, which has the same body.(É˜Ùúÿÿÿÿ
+S
+java:S1117Ï"<Rename "editPane" which hides the field declared at line 54.(ŸÅÿÈ

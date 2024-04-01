@@ -1,0 +1,14 @@
+
+[
+java:S2184u"@Cast one of the operands of this addition operation to a "long".(×÷·©ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ýòó±
+Q	java:S125,"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S125A"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(øû›ÿ
+B
+java:S1905d",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+V	java:S125f"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+E
+java:S2093m"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Ýòó±

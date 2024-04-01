@@ -1,0 +1,30 @@
+
+e
+java:S3973x"JUse indentation to denote the code conditionally executed by this "while".(´ÙÓ“øÿÿÿÿ
+^
+java:S3973µ"GUse indentation to denote the code conditionally executed by this "if".(ŸÚ·ğ
+f
+java:S3973½"JUse indentation to denote the code conditionally executed by this "while".(´ÙÓ“øÿÿÿÿ
+h
+java:S2095Ò"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(­âæƒøÿÿÿÿ
+_
+java:S2095n"DUse try-with-resources or close this "Socket" in a "finally" clause.(¸ÉÍüÿÿÿÿ
+E
+java:S11970"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+@	java:S1064"+Replace this use of System.out by a logger.(ÆÀûı
+E	java:S106g"+Replace this use of System.err by a logger.(ûş§Ûşÿÿÿÿ
+E	java:S106l"+Replace this use of System.out by a logger.(è˜í¦ÿÿÿÿÿ
+E	java:S106y"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ
+@	java:S106"+Replace this use of System.err by a logger.(è›ÑÒ
+I
+java:S1135"2Complete the task associated to this TODO comment.(â˜¡ò
+W	java:S125"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
+U
+java:S4719¯">Replace charset name argument with StandardCharsets.ISO_8859_1(£äÖü
+F	java:S106¶"+Replace this use of System.out by a logger.(î¤‰¶úÿÿÿÿ
+F	java:S106¾"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ
+A	java:S106À"+Replace this use of System.out by a logger.(š«€
+F	java:S106Ã"+Replace this use of System.out by a logger.(È‡‡„ûÿÿÿÿ
+A	java:S106Å"+Replace this use of System.out by a logger.(®³É®
+
+java:S1130Ï"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Ğƒ‚Ç

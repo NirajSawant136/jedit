@@ -1,0 +1,45 @@
+
+E
+java:S3740:"/Provide the parametrized type for this generic.(‰½¯—
+E
+java:S3740Q"/Provide the parametrized type for this generic.(ÔÄ‚Ù
+F
+java:S3740„"/Provide the parametrized type for this generic.(İÌ®¨
+o
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(”‚Ğ
+p
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Å•Ê
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Šó¯úÿÿÿÿ
+g	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÌ®¨
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÄ±¢
+C
+java:S1948"'Make "dummy" transient or serializable.(®¡ÊÆûÿÿÿÿ
+{
+java:S1149:"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰½¯—
+{
+java:S1149Q"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÔÄ‚Ù
+Q	java:S125!"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1252"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125g"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+=
+java:S1659æ"&Declare "boldFont" on a separate line.(Ş¡Êõ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+>
+java:S1948‚"'Make "items" transient or serializable.(÷à†ª
+|
+java:S1149‚"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷à†ª
+|
+java:S1149„"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(İÌ®¨
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

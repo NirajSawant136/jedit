@@ -1,0 +1,11 @@
+
+E
+java:S2093="*Change this "try" to a try-with-resources.(η£κϊÿÿÿÿ
+U	java:S899O";Do something with the "boolean" value returned by "delete".(›ω–ξϋÿÿÿÿ
+i
+java:S4042O"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(›ω–ξϋÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ι"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

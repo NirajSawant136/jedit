@@ -1,0 +1,22 @@
+
+n	java:S135÷"YReduce the total number of break and continue statements in this loop to use at most one.(…Çí
+t	java:S135¯"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
+t	java:S135ê"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÖÓ½øÿÿÿÿ
+o	java:S135˜"YReduce the total number of break and continue statements in this loop to use at most one.(ÉÜÛ´
+o	java:S135É"YReduce the total number of break and continue statements in this loop to use at most one.(ÉÜÛ´
+V	java:S1253"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S1481<"4Remove this unused "numLinesVisible" local variable.(ÉÑø¢úÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+A	java:S106Ù"+Replace this use of System.err by a logger.(ë÷Óç
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

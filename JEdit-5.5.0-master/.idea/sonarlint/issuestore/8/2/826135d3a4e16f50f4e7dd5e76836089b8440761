@@ -1,0 +1,39 @@
+
+E
+java:S1121 ".Extract the assignment out of this expression.(à“ä™
+Q
+java:S1141®"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k
+java:S11040"UMake operation a static final constant or non-public and provide accessors if needed.(‰³‡–
+g
+java:S11042"QMake field a static final constant or non-public and provide accessors if needed.(«ÿÛÂ
+i
+java:S18451"NRename field "index" to prevent any misunderstanding/clash with field "INDEX".(ğÍ†Øúÿÿÿÿ
+]
+java:S1659,"BDeclare "INDEX" and all following declarations on a separate line.(Ú£ş¸üÿÿÿÿ
+B
+java:S19481"'Make "index" transient or serializable.(ğÍ†Øúÿÿÿÿ
+m
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¡¤ÙÌùÿÿÿÿ
+S
+java:S1854O"=Remove this useless assignment to local variable "namespace".(°íâÕ
+G
+java:S5261Q"1Add explicit curly braces to avoid dangling else.(ÔÍØ
+D
+java:S1481O".Remove this unused "namespace" local variable.(°íâÕ
+L
+java:S5261e"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¸ş†ò
+M
+java:S5261š"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+M
+java:S5261¡"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+I
+java:S1135©"2Complete the task associated to this TODO comment.(ÓñàÍ
+M
+java:S5261Ã"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+U
+java:S1117ô"9Rename "index" which hides the field declared at line 49.(şÊïÉùÿÿÿÿ
+N
+java:S1854 "7Remove this useless assignment to local variable "val".(à“ä™

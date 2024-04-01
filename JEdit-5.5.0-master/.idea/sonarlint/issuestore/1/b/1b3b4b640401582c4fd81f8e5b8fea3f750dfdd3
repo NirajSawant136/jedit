@@ -1,0 +1,12 @@
+
+e
+java:S1104&"PMake path a static final constant or non-public and provide accessors if needed.(‡ÛÛ?
+n
+java:S1104'"XMake showFullPath a static final constant or non-public and provide accessors if needed.(ÄÍË„
+f
+java:S1206P"PThis class overrides "equals()" and should therefore also override "hashCode()".(•™Ø
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125D"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

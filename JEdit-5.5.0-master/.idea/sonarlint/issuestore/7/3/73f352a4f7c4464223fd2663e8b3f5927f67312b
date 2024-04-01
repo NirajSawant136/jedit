@@ -1,0 +1,30 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125A"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125î"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ª„åúÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125î"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125È"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+o
+java:S2975Ü"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
+d
+java:S1182Ü"HUse super.clone() to create and seed the cloned instance to be returned.(¯ÔÚ“ùÿÿÿÿ
+n
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(»¥ù‡ùÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(İòó±

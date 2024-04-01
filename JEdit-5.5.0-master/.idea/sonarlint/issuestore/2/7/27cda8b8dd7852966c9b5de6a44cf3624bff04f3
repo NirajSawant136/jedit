@@ -1,0 +1,105 @@
+
+u
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û¦ÿùùÿÿÿÿ
+u
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈÌáöüÿÿÿÿ
+u
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÌ«¬ÿÿÿÿÿ
+t	java:S135€"YReduce the total number of break and continue statements in this loop to use at most one.(ï…§‚şÿÿÿÿ
+n	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+n	java:S127Ö"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+K
+java:S1066à"/Merge this if statement with the enclosing one.(²±õ•øÿÿÿÿ
+n
+java:S1104‹"RMake parent a static final constant or non-public and provide accessors if needed.(Şü­Üúÿÿÿÿ
+n
+java:S1104Œ"RMake inRule a static final constant or non-public and provide accessors if needed.(Ëøêöşÿÿÿÿ
+h
+java:S1104"QMake rules a static final constant or non-public and provide accessors if needed.(«ì½â
+t
+java:S1104"XMake spanEndSubst a static final constant or non-public and provide accessors if needed.(ƒÓıùûÿÿÿÿ
+t
+java:S1104"]Make spanEndSubstRegex a static final constant or non-public and provide accessors if needed.(ŠüæÁ
+r
+java:S1104‘"VMake escapeRule a static final constant or non-public and provide accessors if needed.(ƒÒ·òÿÿÿÿÿ
+W
+java:S2259 "@A "NullPointerException" could be thrown; "lc" is nullable here.(šÔ·´
+œ
+java:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Ğ‘üÿÿÿÿ
+u
+java:S1450˜"YRemove the "lineLength" field and declare it as a local variable in the relevant methods.(¾ÇÏõûÿÿÿÿ
+|
+java:S1450œ"`Remove the "seenWhitespaceEnd" field and declare it as a local variable in the relevant methods.(Üõ¤ûÿÿÿÿ
+r
+java:S1149‹"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Û¦ÿùùÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S1253"<This block of commented-out lines of code should be removed.(àŒÇï
+V	java:S125<"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125B"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125H"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+m
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(’òÆƒÿÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(İòó±
+W
+java:S1119€";Refactor the code to remove this label and the need for it.(ï…§‚şÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W
+java:S1119ì";Refactor the code to remove this label and the need for it.( ø±¯øÿÿÿÿ
+R	java:S125é"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(Ö¡Â¢úÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¨ĞÍ 
+R	java:S125ã"<This block of commented-out lines of code should be removed.(İòó±
+R
+java:S1117"<Rename "pattern" which hides the field declared at line 278.(ÃİV
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125ª"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¿"<This block of commented-out lines of code should be removed.(İòó±
+i
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(—‡Ú†
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÌÅ¸ˆ
+W	java:S125Î"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(—ÜÁ9
+W	java:S125¤"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+F
+java:S1172ä"*Remove this unused method parameter "ctx".(¦ş¢øÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+A
+java:S2116¿"%Use "Arrays.hashCode(array)" instead.(°°¥·üÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+o
+java:S2975Õ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d
+java:S1182Õ"HUse super.clone() to create and seed the cloned instance to be returned.(¯ÔÚ“ùÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+â
+java:S6541î"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 171 to 64, Complexity from 28 to 14, Nesting Level from 4 to 2, Number of Variables from 9 to 6.(Ö¡Â¢úÿÿÿÿ

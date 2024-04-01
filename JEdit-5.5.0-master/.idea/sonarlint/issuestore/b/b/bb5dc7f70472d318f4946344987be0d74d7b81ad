@@ -1,0 +1,69 @@
+
+K
+java:S1066γ"/Merge this if statement with the enclosing one.(…–Αÿÿÿÿÿ
+F
+java:S1066κ"/Merge this if statement with the enclosing one.(Θ–Θ‹
+F
+java:S1066ζ"/Merge this if statement with the enclosing one.(ωιλΡ
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΄Ιηϊÿÿÿÿ
+g	java:S117Ν"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µΥά–
+Q	java:S125)"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S125>"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125a"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125|"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S899Έ";Do something with the "boolean" value returned by "delete".(²­ϋÿÿÿÿ
+j
+java:S4042Έ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²­ϋÿÿÿÿ
+e
+java:S4042»"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(έ’–…
+W	java:S125Ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+
+java:S1845Ò"€Rename field "file" to prevent any misunderstanding/clash with field "FILE" defined in superclass "org.gjt.sp.jedit.io.VFSFile".(οΫϊ
+W	java:S125Ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+D
+java:S2885Υ"(Make "DATE_FORMAT" an instance variable.(ΏΈΉ‹ϊÿÿÿÿ
+W	java:S125θ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125―"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125·"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ώ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Η"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ρ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ε"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R
+java:S2696μ"6Make the enclosing method "static" or remove this set.(Β°ÿÿÿÿÿ
+=
+java:S1168ς"&Return an empty array instead of null.(¥Ήο
+W	java:S125ϊ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+j
+java:S4042Ά"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(έχβ‹όÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S899Ϋ";Do something with the "boolean" value returned by "delete".(ΚΉΝωÿÿÿÿ
+j
+java:S4042Ϋ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ΚΉΝωÿÿÿÿ
+W	java:S125α"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ό"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+D	java:S108Ξ")Either remove or fill this block of code.(ÒΜβ–ψÿÿÿÿ
+H
+java:S1905Ò",Remove this unnecessary cast to "Closeable".(¦όÿÿÿÿ
+F
+java:S2093Ή"*Change this "try" to a try-with-resources.(η£κϊÿÿÿÿ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125σ"<This block of commented-out lines of code should be removed.(Ε€μ΄
+D	java:S108ό")Either remove or fill this block of code.(ÒΜβ–ψÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125‚"<This block of commented-out lines of code should be removed.(έςσ±
+R	java:S125†"<This block of commented-out lines of code should be removed.(έςσ±

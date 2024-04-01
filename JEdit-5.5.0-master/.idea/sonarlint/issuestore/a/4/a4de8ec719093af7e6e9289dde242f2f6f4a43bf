@@ -1,0 +1,27 @@
+
+p
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ªÀé
+p
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç²ìÌ
+u
+java:S1192k"`Define a constant instead of duplicating this literal "22x22/actions/document-open.png" 3 times.(§£àO
+a
+java:S1192û"JDefine a constant instead of duplicating this literal "encoding@" 3 times.(é¬šó
+f	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¬ƒÛ
+z
+java:S1488®"^Immediately return this expression instead of assigning it to the temporary variable "custom".(•¸®™ÿÿÿÿÿ
+j
+java:S3824ƒ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÿÚÀ’ûÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(Ýòó±
+m
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(‹€À§ýÿÿÿÿ
+7
+java:S1116N"Remove this empty statement.(¤˜Ùøúÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Þ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125À"<This block of commented-out lines of code should be removed.(Ýòó±
+W	java:S125Ý"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

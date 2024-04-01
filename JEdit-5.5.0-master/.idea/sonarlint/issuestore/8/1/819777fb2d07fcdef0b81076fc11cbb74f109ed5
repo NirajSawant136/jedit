@@ -1,0 +1,23 @@
+
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ð¡î©úÿÿÿÿ
+¯
+java:S6548$"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(˜Àò´
+X
+java:S1117e"=Rename "listeners" which hides the field declared at line 41.(™¡®¶ýÿÿÿÿ
+X
+java:S1117n"=Rename "listeners" which hides the field declared at line 41.(™¡®¶ýÿÿÿÿ
+X
+java:S1117y"=Rename "listeners" which hides the field declared at line 41.(™¡®¶ýÿÿÿÿ
+Y
+java:S1117Œ"=Rename "listeners" which hides the field declared at line 41.(™¡®¶ýÿÿÿÿ
+Y
+java:S1117•"=Rename "listeners" which hides the field declared at line 41.(™¡®¶ýÿÿÿÿ
+Y
+java:S1117ž"=Rename "listeners" which hides the field declared at line 41.(™¡®¶ýÿÿÿÿ
+z
+java:S2142Â"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ŠÏ¢²üÿÿÿÿ
+Q
+java:S1161õ":Add the "@Override" annotation above this method signature(…ö¼í
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(ßÔü²þÿÿÿÿ

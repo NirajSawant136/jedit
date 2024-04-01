@@ -1,0 +1,5 @@
+
+^Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(üîÀÇ
+U	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(üîÀÇ
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(ŸÆûÿÿÿÿ
+DWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(üîÀÇ

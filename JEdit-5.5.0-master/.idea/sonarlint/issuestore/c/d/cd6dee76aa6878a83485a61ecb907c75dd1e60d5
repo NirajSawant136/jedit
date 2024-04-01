@@ -1,0 +1,9 @@
+
+q
+java:S14882"\Immediately return this expression instead of assigning it to the temporary variable "wrap".(ë¤·}
+Q	java:S125'"<This block of commented-out lines of code should be removed.(Ýòó±
+V	java:S1254"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+S
+java:S1117S"8Rename "wrap" which hides the field declared at line 57.(›ŽÆûùÿÿÿÿ
+V	java:S125m"<This block of commented-out lines of code should be removed.(¢ä–Êùÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

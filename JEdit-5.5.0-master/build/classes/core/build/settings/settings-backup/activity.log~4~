@@ -1,0 +1,23 @@
+Log file created on Wed Feb 28 18:55:07 CST 2024
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+6:55:07 PM [main] [message] Log: When reporting bugs, please include the following information:
+6:55:07 PM [main] [message] Log: java.version=1.8.0_402
+6:55:07 PM [main] [message] Log: java.vm.version=25.402-b08
+6:55:07 PM [main] [message] Log: java.vm.name=OpenJDK 64-Bit Server VM
+6:55:07 PM [main] [message] Log: java.runtime.version=1.8.0_402-b08
+6:55:07 PM [main] [message] Log: java.runtime.name=OpenJDK Runtime Environment
+6:55:07 PM [main] [message] Log: java.vendor=Amazon.com Inc.
+6:55:07 PM [main] [message] Log: java.compiler=null
+6:55:07 PM [main] [message] Log: os.name=Windows 11
+6:55:07 PM [main] [message] Log: os.version=10.0
+6:55:07 PM [main] [message] Log: os.arch=amd64
+6:55:07 PM [main] [message] Log: user.home=C:\Users\niraj
+6:55:07 PM [main] [message] Log: java.home=C:\Users\niraj\.jdks\corretto-1.8.0_402\jre
+6:55:07 PM [main] [message] Log: java.class.path=C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\charsets.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\access-bridge-64.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\cldrdata.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\dnsns.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\jaccess.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\jfxrt.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\localedata.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\nashorn.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\sunec.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\sunjce_provider.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\sunmscapi.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\sunpkcs11.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\ext\zipfs.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\jce.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\jfr.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\jfxswt.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\jsse.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\management-agent.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\resources.jar;C:\Users\niraj\.jdks\corretto-1.8.0_402\jre\lib\rt.jar;C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\classes\core;C:\Users\niraj\Documents\JEdit\jsr305-3.0.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\lib\idea_rt.jar
+6:55:07 PM [main] [message] jEdit: starting with command line arguments: -settings=C:/Users/niraj/Documents/JEdit/JEdit-5.5.0-master/build/settings
+6:55:07 PM [main] [debug] jEdit: before splash screen activation:303 ms
+6:55:07 PM [main] [debug] jEdit: after splash screen activation:641 ms
+6:55:07 PM [main] [debug] MiscUtilities: Saving backup of file "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\activity.log" to "C:\Users\niraj\Documents\JEdit\JEdit-5.5.0-master\build\settings\settings-backup\activity.log~1~"

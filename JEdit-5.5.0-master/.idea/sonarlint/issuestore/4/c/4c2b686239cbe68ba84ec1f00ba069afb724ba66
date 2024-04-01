@@ -1,0 +1,47 @@
+
+o
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(€¥”‘
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô¼€°ÿÿÿÿÿ
+D
+java:S1604–"(Make this anonymous inner class a lambda(Âªêüÿÿÿÿ
+?
+java:S1604ô"(Make this anonymous inner class a lambda(±ƒ¾Å
+D
+java:S1604„"(Make this anonymous inner class a lambda(ªåüÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(¨àÎñ
+?
+java:S1604¸"(Make this anonymous inner class a lambda(‹âÚ
+?
+java:S1604È"(Make this anonymous inner class a lambda(úÅ
+?
+java:S1604Ş"(Make this anonymous inner class a lambda(—¦ã
+D
+java:S1604ì"(Make this anonymous inner class a lambda(­¯áêúÿÿÿÿ
+˜
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Şá·
+>
+java:S19480"(Make "buffer" transient or serializable.(ÂÎ×
+G
+java:S1948:",Make "pageRanges" transient or serializable.(òìñ®ÿÿÿÿÿ
+B
+java:S1948;",Make "attributes" transient or serializable.(Ò¤Î
+I
+java:S1948<".Make "printService" transient or serializable.(ıâú¹úÿÿÿÿ
+=
+java:S1948="'Make "model" transient or serializable.(´±á‰
+M
+java:S1135N"2Complete the task associated to this TODO comment.(ºÖ™†øÿÿÿÿ
+V	java:S125w"<This block of commented-out lines of code should be removed.(€Ïääüÿÿÿÿ
+M
+java:S1135v"2Complete the task associated to this TODO comment.(á³Ûüÿÿÿÿ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¹ˆŠÆüÿÿÿÿ
+V
+java:S1161±":Add the "@Override" annotation above this method signature( èŞøÿÿÿÿ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(¡¨‰Ş
+A
+java:S1128"+Remove this unused import 'java.awt.print'.(ÏÁ€…
+F
+java:S1128)"0Remove this unused import 'org.gjt.sp.util.Log'.(şÛÚ”

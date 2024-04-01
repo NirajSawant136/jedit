@@ -1,0 +1,7 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ã†Ëù
+y
+java:S1157-"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¥¾ó¢
+;
+java:S1075Z"&Remove this hard-coded path-delimiter.(˜ÁËD

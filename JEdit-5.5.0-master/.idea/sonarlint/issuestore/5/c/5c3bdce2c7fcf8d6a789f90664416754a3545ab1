@@ -1,0 +1,18 @@
+
+K
+java:S1066Å"/Merge this if statement with the enclosing one.(ÿ™³ÿÿÿÿÿ
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñã¨ÿùÿÿÿÿ
+l
+java:S1201‘"UEither override Object.equals(Object), or rename the method to prevent any confusion.(¢è˜Û
+V
+java:S1854Œ":Remove this useless assignment to local variable "offset".(Æû–çşÿÿÿÿ
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê¾¸ÿÿÿÿÿ
+
+java:S1130°"yRemove the declaration of thrown exception 'installer.InvalidHeaderException', as it cannot be thrown from method's body.(æÏÒÕ
+W	java:S125»"<This block of commented-out lines of code should be removed.(»ˆíÖıÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(Åİı›úÿÿÿÿ
+H
+java:S1264Ù",Replace this "for" loop with a "while" loop.(†É Ôúÿÿÿÿ
+C
+java:S1264İ",Replace this "for" loop with a "while" loop.(‹–¾õ

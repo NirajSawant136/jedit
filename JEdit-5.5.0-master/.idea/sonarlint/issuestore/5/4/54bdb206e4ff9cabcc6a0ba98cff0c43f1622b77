@@ -1,0 +1,133 @@
+
+o
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(³Û²ø
+t
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘µîºıÿÿÿÿ
+b
+java:S1192õ"KDefine a constant instead of duplicating this literal "view.dock." 3 times.(ìÃ•÷
+c
+java:S1192_"HDefine a constant instead of duplicating this literal "toolbar" 3 times.(ù³äÒûÿÿÿÿ
+n
+java:S1192_"SDefine a constant instead of duplicating this literal "JButton.buttonType" 3 times.(ù³äÒûÿÿÿÿ
+I
+java:S1121s".Extract the assignment out of this expression.(–—éışÿÿÿÿ
+z
+java:S1488¢"cImmediately return this expression instead of assigning it to the temporary variable "returnValue".(¶ğŒÃ
+
+java:S1488§"cImmediately return this expression instead of assigning it to the temporary variable "returnValue".(Î©ÍÒùÿÿÿÿ
+X
+java:S2184"ACast one of the operands of this addition operation to a "float".(²ª¦Æ
+]
+java:S2184½"ACast one of the operands of this addition operation to a "float".(øÑıíıÿÿÿÿ
+Y
+java:S2184Ä"BCast one of the operands of this addition operation to a "double".(øÌ¦
+\
+java:S2184Ñ"ECast one of the operands of this subtraction operation to a "double".(»ÛÖ•
+S
+java:S2589¨"7Remove this expression which always evaluates to "true"(Úÿ–ıüÿÿÿÿ
+Q	java:S125F"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125t"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125{"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d
+java:S3252"NUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "TOP".(€Ñ 
+h
+java:S3252"QUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "BOTTOM".(ş ßı
+k
+java:S3252"OUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "LEFT".(ê¯•©ıÿÿÿÿ
+l
+java:S3252’"PUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "RIGHT".(êé…üÿÿÿÿ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦³×úÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+N
+java:S1135"2Complete the task associated to this TODO comment.(™­Œ×ùÿÿÿÿ
+N
+java:S1135¢"2Complete the task associated to this TODO comment.(™­Œ×ùÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125­"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Ö":Add the "@Override" annotation above this method signature(Õ¼‘…úÿÿÿÿ
+;
+java:S1659ğ"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+h
+java:S3252’"QUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "BOTTOM".(Ê¾¼Ä
+l
+java:S3252”"PUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "RIGHT".(ÍØâ¿ÿÿÿÿÿ
+e
+java:S3252–"NUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "TOP".( æ¸®
+e
+java:S3252˜"OUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "LEFT".(¼âß-
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+m
+java:S3252¥"QUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "BOTTOM".(ÅÊª˜ıÿÿÿÿ
+l
+java:S3252§"PUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "RIGHT".(êé…üÿÿÿÿ
+j
+java:S3252©"NUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "TOP".(èÚä³şÿÿÿÿ
+k
+java:S3252®"OUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "LEFT".(ê¯•©ıÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(›çù(
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125æ"<This block of commented-out lines of code should be removed.(İòó±
+
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“Ï­–øÿÿÿÿ
+˜
+java:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯ğâ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(“Ï­–øÿÿÿÿ
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(¯ğâ
+d
+java:S3252"NUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "TOP".(€Ñ 
+h
+java:S3252‚"QUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "BOTTOM".(ş ßı
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d
+java:S3252"NUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "TOP".(€Ñ 
+h
+java:S3252Ÿ"QUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "BOTTOM".(ş ßı
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(——µîşÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d
+java:S3252Å"NUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "TOP".(€Ñ 
+h
+java:S3252Æ"QUse static access with "org.gjt.sp.jedit.gui.DockableWindowManager" for "BOTTOM".(ş ßı
+W	java:S125Û"<This block of commented-out lines of code should be removed.(œÅñ½ıÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(Üòâ–ÿÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125º"<This block of commented-out lines of code should be removed.(İòó±

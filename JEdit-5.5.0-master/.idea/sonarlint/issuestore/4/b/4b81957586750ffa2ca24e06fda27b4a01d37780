@@ -1,0 +1,154 @@
+
+\	java:S112é"FDefine and throw a dedicated exception instead of using a generic one.(ÊÛŠ’
+\	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(ÊÛŠ’
+\	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(éğÕó
+o
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢÷¨ø
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·œ”„üÿÿÿÿ
+u
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘¯™ûÿÿÿÿ
+u
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğé‰­úÿÿÿÿ
+u
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Îşıúÿÿÿÿ
+p
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùñ¥
+u
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ò’Õıÿÿÿÿ
+u
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿş‚“ùÿÿÿÿ
+u
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ò’Õıÿÿÿÿ
+u
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿş‚“ùÿÿÿÿ
+o
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(½øº
+u
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æß¦ıüÿÿÿÿ
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã§¹ãøÿÿÿÿ
+k
+java:S1192é"TDefine a constant instead of duplicating this literal "Column out of range" 3 times.(ÊÛŠ’
+q
+java:S1192Œ"UDefine a constant instead of duplicating this literal "</strong></b></html>" 3 times.(±›Äòüÿÿÿÿ
+d
+java:S1192ˆ"HDefine a constant instead of duplicating this literal "INSTALL" 3 times.(à×¹Åùÿÿÿÿ
+n
+java:S1192‹"RDefine a constant instead of duplicating this literal "<html><b><strong>" 3 times.(ÖéÚèÿÿÿÿÿ
+D
+java:S1121[".Extract the assignment out of this expression.(¦œ„©
+D
+java:S1121e".Extract the assignment out of this expression.(Í¾ù¢
+E
+java:S1121”".Extract the assignment out of this expression.(ú·œ÷
+J
+java:S1121ş".Extract the assignment out of this expression.(Ø…”ìüÿÿÿÿ
+t	java:S135Å"YReduce the total number of break and continue statements in this loop to use at most one.(•Ú¼¸øÿÿÿÿ
+o	java:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(ºúç
+F
+java:S1066Å	"/Merge this if statement with the enclosing one.(â¨İÏ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å³Ÿßşÿÿÿÿ
+D
+java:S1604˜"(Make this anonymous inner class a lambda(±÷ƒşÿÿÿÿ
+?
+java:S1604â"(Make this anonymous inner class a lambda(ÂÃ
+D
+java:S1604Ğ"(Make this anonymous inner class a lambda(±÷ƒşÿÿÿÿ
+D
+java:S5411®"(Use a primitive boolean expression here.(×Î€äşÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125U"<This block of commented-out lines of code should be removed.(İòó±
+;
+java:S1659Ì"Declare "n" on a separate line.(ûáÉıûÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(İòó±
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(âƒ˜à
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+?
+java:S1905Å"(Remove this unnecessary cast to "Entry".(ÕÚè·
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(—Šºëüÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(êòÅÒ
+W	java:S125·"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S1871Ö"MThis branch's code block is the same as the block for the branch on line 722.(ÒÌâ–øÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›Ú 
+R	java:S125ù"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125¥"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(éÛ•
+W	java:S125¾"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S1659ö"MDeclare "installedVersion" and all following declarations on a separate line.(¶å¡¯üÿÿÿÿ
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+P
+java:S1117ƒ"9Rename "size" which hides the field declared at line 889.(ş×£
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+N
+java:S1135º"2Complete the task associated to this TODO comment.(üõÑûÿÿÿÿ
+D
+java:S1905Ï"(Remove this unnecessary cast to "Entry".(œÒœæûÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+D
+java:S1905€"(Remove this unnecessary cast to "Entry".(òò­±üÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(Šÿ¤üÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‚	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Œ	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+?
+java:S1905µ	"(Remove this unnecessary cast to "Entry".(ç¸‹˜
+W	java:S125ç	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776ÿ	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(·ôƒğøÿÿÿÿ
+`
+java:S3358†
+"DExtract this nested ternary operation into an independent statement.(ƒÚÛ“üÿÿÿÿ
+`
+java:S3358˜
+"DExtract this nested ternary operation into an independent statement.(‹ğã³ÿÿÿÿÿ
+`
+java:S3358Ÿ
+"DExtract this nested ternary operation into an independent statement.(¹Óåıÿÿÿÿ
+W	java:S125¨
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125´
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ê
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ô
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+[
+java:S3358›"DExtract this nested ternary operation into an independent statement.(©Íé•
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(İòó±

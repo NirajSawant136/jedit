@@ -1,0 +1,31 @@
+
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ˆÔŞüÿÿÿÿ
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ˆÔŞüÿÿÿÿ
+I
+java:S1121I".Extract the assignment out of this expression.(‘ˆÔŞüÿÿÿÿ
+D
+java:S1121^".Extract the assignment out of this expression.(®³Àø
+C
+java:S1121b".Extract the assignment out of this expression.(Û¾ë`
+D
+java:S1121f".Extract the assignment out of this expression.(‰ÒÓÛ
+D
+java:S1121j".Extract the assignment out of this expression.(Çñº
+Q	java:S125'"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125t"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ä ¸ú
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+@
+java:S1905ô")Remove this unnecessary cast to "String".(‘Ù¨Ã
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+K
+java:S1128""0Remove this unused import 'org.gjt.sp.jedit.io'.(í¹‚¿ùÿÿÿÿ
+;
+java:S3398—"$Move this method into "ListHandler".(ûàŠ°

@@ -1,0 +1,70 @@
+
+o
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(°—ρΎ
+t
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΥΠ°ψÿÿÿÿ
+u
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ρ–Ο•ÿÿÿÿÿ
+p
+java:S2293ό"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ…¶
+p
+java:S2293ύ"YReplace the type specification in this constructor call with the diamond operator ("<>").(„…©Δ
+u
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ζ“―ύÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨§§ϋÿÿÿÿ
+p
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(²£ήγ
+D
+java:S1604™"(Make this anonymous inner class a lambda(Ά“Σƒύÿÿÿÿ
+?
+java:S1604ª"(Make this anonymous inner class a lambda(«΄ς
+b
+java:S1301α"KReplace this "switch" statement by "if" statements to increase readability.(•ƒ¶ρ
+j
+java:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ª§¦ώÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(έςσ±
+U
+java:S1161I":Add the "@Override" annotation above this method signature(•‚έτύÿÿÿÿ
+V	java:S125F"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+U
+java:S1161V":Add the "@Override" annotation above this method signature(νψΊεώÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q	java:S125g"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Π"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125μ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+E
+java:S1948φ".Make "dockableSets" transient or serializable.(ΏΘ΄Π
+?
+java:S1948χ")Make "windows" transient or serializable.(’£¨7
+W	java:S125ν"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Q
+java:S1161Ή":Add the "@Override" annotation above this method signature(έ―ωΌ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Γ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+?
+java:S1905Θ"(Remove this unnecessary cast to "Entry".(΅χ­
+V
+java:S1161Υ":Add the "@Override" annotation above this method signature(ζΉϋΚύÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V
+java:S1161Ϋ":Add the "@Override" annotation above this method signature(¤υόκϋÿÿÿÿ
+W	java:S125Ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+?
+java:S1905ΰ"(Remove this unnecessary cast to "Entry".(΅χ­
+V
+java:S1161ξ":Add the "@Override" annotation above this method signature(ιά“–ώÿÿÿÿ
+W	java:S125λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ω"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+?
+java:S1905€"(Remove this unnecessary cast to "Entry".(ώΎτξ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

@@ -1,0 +1,54 @@
+
+u
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ÆÈ¸øÿÿÿÿ
+c
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(Õ¨É–ÿÿÿÿÿ
+
+java:S1149ÿ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(§¹™Ôÿÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(˜ë‘Ïÿÿÿÿÿ
+m
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(äÛ¤’ûÿÿÿÿ
+U
+java:S1161<":Add the "@Override" annotation above this method signature(äÛ¤’ûÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+4
+java:S2178F"Correct this "&" to "&&".(©¶ô±úÿÿÿÿ
+Q	java:S125T"<This block of commented-out lines of code should be removed.(Ûê
+W	java:S125’"<This block of commented-out lines of code should be removed.(™Ì”Ëøÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(„ÈÕğûÿÿÿÿ
+I
+java:S1135"2Complete the task associated to this TODO comment.(øüû
+R	java:S125Ï"<This block of commented-out lines of code should be removed.(¶Óûö
+i
+java:S3776â"SRefactor this method to reduce its Cognitive Complexity from 108 to the 15 allowed.(âğ”=
+P
+java:S1161â":Add the "@Override" annotation above this method signature(âğ”=
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+5
+java:S2178ï"Correct this "&" to "&&".(©¶ô±úÿÿÿÿ
+Q	java:S125–"<This block of commented-out lines of code should be removed.(°¦£F
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(Ú°à¬
+W	java:S125¢"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(ğ©¾€şÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(”®Ç¦
+Q	java:S125Ò"<This block of commented-out lines of code should be removed.(¢€}
+W	java:S125ç"<This block of commented-out lines of code should be removed.(Ç§û©ùÿÿÿÿ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(Ç§û©ùÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(£‰Ù…øÿÿÿÿ
+V
+java:S1161ê":Add the "@Override" annotation above this method signature(“öîÿÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161ú":Add the "@Override" annotation above this method signature(ï’»Ëÿÿÿÿÿ
+R	java:S125÷"<This block of commented-out lines of code should be removed.(İòó±
+V
+java:S1161†":Add the "@Override" annotation above this method signature(ƒÌÏÇøÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+5
+java:S2178’"Correct this "&" to "&&".(©¶ô±úÿÿÿÿ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(İòó±
+i
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Šÿ"
+İ
+java:S6541â"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 202 to 64, Complexity from 40 to 14, Nesting Level from 6 to 2, Number of Variables from 35 to 6.(âğ”=

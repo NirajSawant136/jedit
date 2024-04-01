@@ -1,0 +1,33 @@
+
+t
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëï¨Äüÿÿÿÿ
+o
+java:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(üìÅª
+u
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈÎùÿÿÿÿ
+l
+java:S1192c"QDefine a constant instead of duplicating this literal "autoReloadDialog" 6 times.(’¢áØıÿÿÿÿ
+f
+java:S1192a"KDefine a constant instead of duplicating this literal "autoReload" 5 times.(İ ¦êıÿÿÿÿ
+D
+java:S1604®"(Make this anonymous inner class a lambda(ËşˆĞÿÿÿÿÿ
+?
+java:S1604Û"(Make this anonymous inner class a lambda(×›Óæ
+I
+java:S1199‚"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199Ì"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199‘"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+t	java:S115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØÚ¥ıÿÿÿÿ
+o	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏÇÏ·
+o	java:S1153"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜˜æ
+t	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å“†ˆüÿÿÿÿ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S1257"<This block of commented-out lines of code should be removed.(İòó±
+Q	java:S125L"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125R"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+8	java:S131ò""Add a default case to this switch.(¹©¢
+W	java:S125—"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

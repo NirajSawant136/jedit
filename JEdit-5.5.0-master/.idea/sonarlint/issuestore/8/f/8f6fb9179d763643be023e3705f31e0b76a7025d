@@ -1,0 +1,72 @@
+
+t
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÁçÈıÿÿÿÿ
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ•ÀÛÿÿÿÿÿ
+m
+java:S1192„"VDefine a constant instead of duplicating this literal "plugin-error-download" 3 times.(À¯ş
+l	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±™ÚÖøÿÿÿÿ
+D
+java:S1604è"(Make this anonymous inner class a lambda(Õ‰²­ıÿÿÿÿ
+D
+java:S1604ö"(Make this anonymous inner class a lambda(Õ‰²­ıÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(İòó±
+V	java:S1256"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125_"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125°"<This block of commented-out lines of code should be removed.(İòó±
+l
+java:S1206‡"PThis class overrides "equals()" and should therefore also override "hashCode()".(¥Ìí¥ıÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Í":Add the "@Override" annotation above this method signature(Ìäòÿûÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+O
+java:S1117Ğ"8Rename "jar" which hides the field declared at line 270.(ñë‚º
+e
+java:S4042ß"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Õ¾˜¶
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+l
+java:S1206¦"PThis class overrides "equals()" and should therefore also override "hashCode()".(¥Ìí¥ıÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(Ãê¦²úÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(§Ìö©
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ìäòÿûÿÿÿÿ
+V
+java:S1161²":Add the "@Override" annotation above this method signature(Ìäòÿûÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+B
+java:S1905ö",Remove this unnecessary cast to "Closeable".(¾ı7
+C
+java:S1905÷",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+F
+java:S2093ã"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+D	java:S108ÿ")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Q	java:S899 ";Do something with the "boolean" value returned by "delete".(§·ˆ•
+e
+java:S4042 "NUse "java.nio.file.Files#delete" here for better messages on error conditions.(§·ˆ•
+F
+java:S2093Ò"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1117Ğ"9Rename "path" which hides the field declared at line 432.(èç­»ıÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ

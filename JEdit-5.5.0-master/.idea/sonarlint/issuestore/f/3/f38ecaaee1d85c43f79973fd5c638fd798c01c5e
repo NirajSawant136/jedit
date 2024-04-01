@@ -1,0 +1,57 @@
+
+o
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰»®r
+]
+java:S1192Ş"FDefine a constant instead of duplicating this literal ".glob" 3 times.(ÖüÙ
+k
+java:S1192Ş"TDefine a constant instead of duplicating this literal "vfs.browser.colors." 6 times.(ÖüÙ
+c
+java:S1192â"GDefine a constant instead of duplicating this literal ".color" 3 times.(ŒØ¾ùşÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(İòó±
+U
+java:S1161:":Add the "@Override" annotation above this method signature(¿„ç¨úÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1161m":Add the "@Override" annotation above this method signature(ñâÀÇúÿÿÿÿ
+V	java:S125j"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125p"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125r"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161Â":Add the "@Override" annotation above this method signature(÷êåûÿÿÿÿ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+@
+java:S1948ã")Make "entries" transient or serializable.(Ëï²ú
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161µ":Add the "@Override" annotation above this method signature(æ¹ûÊıÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161»":Add the "@Override" annotation above this method signature(¤õüêûÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V
+java:S1161È":Add the "@Override" annotation above this method signature(éÜ“–şÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q
+java:S1161Ö":Add the "@Override" annotation above this method signature(İ¯ù¼
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+B
+java:S3398‡"&Move this method into "ActionHandler".(ªùÁîûÿÿÿÿ

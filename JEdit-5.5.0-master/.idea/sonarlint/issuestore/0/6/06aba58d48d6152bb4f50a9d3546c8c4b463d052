@@ -1,0 +1,95 @@
+
+u
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÉÁşÿÿÿÿ
+u
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(É¾ªûÿÿÿÿ
+p
+java:S2293ö	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç™…Ê
+n
+java:S1192â"WDefine a constant instead of duplicating this literal "vfs.not-supported.load" 3 times.( õÿ‚
+o	java:S135Ä	"YReduce the total number of break and continue statements in this loop to use at most one.(ö¸ø´
+K
+java:S1066„	"/Merge this if statement with the enclosing one.(ìÒš´ÿÿÿÿÿ
+l	java:S117¿	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä£ïíûÿÿÿÿ
+?
+java:S1604—	"(Make this anonymous inner class a lambda(öá¾
+z
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "retval".(åõêÔøÿÿÿÿ
+R	java:S107¯"<Method has 9 parameters, which is greater than 7 authorized.(¸Ü·ó
+S	java:S107Ì"=Method has 10 parameters, which is greater than 7 authorized.(¸Ü·ó
+W	java:S107§	"<Method has 9 parameters, which is greater than 7 authorized.(à’ß¯ıÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125´"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Î"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ì"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(ûñ¡İøÿÿÿÿ
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125ô"<This block of commented-out lines of code should be removed.(…Ÿ„æ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+B
+java:S1905‡",Remove this unnecessary cast to "Closeable".(¾ı7
+C
+java:S1905ˆ",Remove this unnecessary cast to "Closeable".(ÊåÂæ
+F
+java:S2093İ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¢õ£
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¥ÀØúÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¥ÀØúÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¥ÀØúÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò„€Ëøÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+=
+java:S1168î"&Return an empty array instead of null.(¥¹ï
+i	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŞâıÿÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éç©ô
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸€ú’øÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+i	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ±‰èùÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áë¬»
+W	java:S125°"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÑ÷Ø
+W	java:S125÷"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º€ÁÕ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢·ø™
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+d	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‹é‰
+W	java:S125­"<This block of commented-out lines of code should be removed.(Ñ˜€ùÿÿÿÿÿ
+d	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ò³È
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+H
+java:S1659ğ"1Declare "sortMixFilesAndDirs" on a separate line.(Á–¯Û
+W	java:S125æ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125‹	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776§	"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(à’ß¯ıÿÿÿÿ
+W	java:S125¤	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ï	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125²
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125´
+"<This block of commented-out lines of code should be removed.(İòó±

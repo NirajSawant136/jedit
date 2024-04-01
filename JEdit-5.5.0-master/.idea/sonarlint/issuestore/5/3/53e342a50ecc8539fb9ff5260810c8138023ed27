@@ -1,0 +1,27 @@
+
+E
+java:S37404"/Provide the parametrized type for this generic.(¨“ØÜ
+E
+java:S37404"/Provide the parametrized type for this generic.(¨“ØÜ
+J
+java:S37405"/Provide the parametrized type for this generic.(ÖàÖ•ûÿÿÿÿ
+J
+java:S37405"/Provide the parametrized type for this generic.(ÖàÖ•ûÿÿÿÿ
+s	java:S135i"YReduce the total number of break and continue statements in this loop to use at most one.(…–¢¹şÿÿÿÿ
+2
+java:S1643]"Use a StringBuilder instead.(­éõ™
+{
+java:S11494"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¨“ØÜ
+€
+java:S11495"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÖàÖ•ûÿÿÿÿ
+h
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(çÔ°
+P
+java:S1161/":Add the "@Override" annotation above this method signature(çÔ°
+V	java:S125L"<This block of commented-out lines of code should be removed.(ˆëÂúşÿÿÿÿ
+I
+java:S1481[".Remove this unused "stackInfo" local variable.(†Ó²Æûÿÿÿÿ
+N
+java:S1135ƒ"2Complete the task associated to this TODO comment.(¤‰éÇøÿÿÿÿ
+J
+java:S1481›".Remove this unused "modifiers" local variable.(ÂİÛ†ûÿÿÿÿ

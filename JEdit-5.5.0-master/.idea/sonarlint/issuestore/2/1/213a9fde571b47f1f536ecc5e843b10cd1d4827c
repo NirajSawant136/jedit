@@ -1,0 +1,228 @@
+
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(àÊÅıÿÿÿÿ
+K
+java:S3740™"/Provide the parametrized type for this generic.(“§İÍûÿÿÿÿ
+p
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÜÀï
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç³‚šıÿÿÿÿ
+u
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ‡œçûÿÿÿÿ
+p
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹Ú°‚
+u
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ÌÎ ûÿÿÿÿ
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ÌÎ ûÿÿÿÿ
+p
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(°Áù
+u
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ®éïıÿÿÿÿ
+u
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘†Ø­üÿÿÿÿ
+u
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘†Ø­üÿÿÿÿ
+p
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôª¸—
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¬ÕĞùÿÿÿÿ
+p
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(µä ë
+p
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÅ
+u
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡Á¤™üÿÿÿÿ
+e
+java:S1192Ì"IDefine a constant instead of duplicating this literal ".depend." 3 times.(ÅŠµşÿÿÿÿ
+e
+java:S1192Á"IDefine a constant instead of duplicating this literal "plugin." 15 times.(Ôµ¿àøÿÿÿÿ
+]
+java:S1192¡"FDefine a constant instead of duplicating this literal ".name" 3 times.(§ÀéÉ
+c
+java:S1192†"GDefine a constant instead of duplicating this literal "plugin" 6 times.(¶›¤ùÿÿÿÿ
+f
+java:S1192Õ"JDefine a constant instead of duplicating this literal ".activate" 3 times.(ûÇ´úÿÿÿÿ
+n
+java:S1192£"RDefine a constant instead of duplicating this literal "action-set.plugin" 3 times.(½¯‡ôúÿÿÿÿ
+e
+java:S1192Ö"IDefine a constant instead of duplicating this literal ".version" 4 times.(ËÛˆñûÿÿÿÿ
+o	java:S135÷"YReduce the total number of break and continue statements in this loop to use at most one.(õúş¿
+t	java:S135»"YReduce the total number of break and continue statements in this loop to use at most one.(›„„ëşÿÿÿÿ
+l	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‰ËÓÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…éÄÔúÿÿÿÿ
+l	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¿‚²ûÿÿÿÿ
+D
+java:S1604ı"(Make this anonymous inner class a lambda(±÷ƒşÿÿÿÿ
+i
+java:S1104ª"RMake plugin a static final constant or non-public and provide accessors if needed.(Ë½¡ù
+j
+java:S1104«"SMake modTime a static final constant or non-public and provide accessors if needed.(¸âìş
+o
+java:S1104­"SMake classes a static final constant or non-public and provide accessors if needed.(üÁ‚³ıÿÿÿÿ
+q
+java:S1104®"UMake resources a static final constant or non-public and provide accessors if needed.(¢Çğ£øÿÿÿÿ
+r
+java:S1104¯"VMake actionsURI a static final constant or non-public and provide accessors if needed.(—Êï˜ùÿÿÿÿ
+y
+java:S1104°"]Make cachedActionNames a static final constant or non-public and provide accessors if needed.(ó¹áüÿÿÿÿ
+
+java:S1104±"cMake cachedActionToggleFlags a static final constant or non-public and provide accessors if needed.(÷Âˆøÿÿÿÿ
+y
+java:S1104²"]Make browserActionsURI a static final constant or non-public and provide accessors if needed.(¢‰½³øÿÿÿÿ
+{
+java:S1104³"dMake cachedBrowserActionNames a static final constant or non-public and provide accessors if needed.(’ˆÖ×
+
+java:S1104´"jMake cachedBrowserActionToggleFlags a static final constant or non-public and provide accessors if needed.(±»•ã
+o
+java:S1104µ"XMake dockablesURI a static final constant or non-public and provide accessors if needed.(ÎÏê
+v
+java:S1104¶"_Make cachedDockableNames a static final constant or non-public and provide accessors if needed.(£–Í‹
+
+java:S1104·"eMake cachedDockableActionFlags a static final constant or non-public and provide accessors if needed.(³÷Å•ùÿÿÿÿ
+‚
+java:S1104¸"fMake cachedDockableMovableFlags a static final constant or non-public and provide accessors if needed.(´ıñúÿÿÿÿ
+s
+java:S1104¹"WMake servicesURI a static final constant or non-public and provide accessors if needed.(Âïùúÿÿÿÿ
+s
+java:S1104¼"\Make cachedProperties a static final constant or non-public and provide accessors if needed.(à´º
+y
+java:S1104½"bMake localizationProperties a static final constant or non-public and provide accessors if needed.(ƒ«á¾
+n
+java:S1104¾"WMake pluginClass a static final constant or non-public and provide accessors if needed.(…ç¤š
+Q	java:S125J"<This block of commented-out lines of code should be removed.(İòó±
+n
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(§ôêôùÿÿÿÿ
+R	java:S125¼"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125£"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125´"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125É"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125Ş"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+[
+java:S1854Î"?Remove this useless assignment to local variable "needVersion".(¨ığ²ıÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+L
+java:S1481Î"0Remove this unused "needVersion" local variable.(¨ığ²ıÿÿÿÿ
+N
+java:S1135Ï"2Complete the task associated to this TODO comment.(ÃÊ¨Şúÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(àº­éÿÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+M
+java:S2692å"10 is a valid index, but is ignored by this check.(÷‚àÿÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+G
+java:S2692ı"10 is a valid index, but is ignored by this check.(àù1
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+G
+java:S2692š"10 is a valid index, but is ignored by this check.(àù1
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125è"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+e
+java:S4201Ë"IRemove this unnecessary null check; "instanceof" returns false for nulls.(É„óàùÿÿÿÿ
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(æêêÒùÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+H
+java:S1905“	",Remove this unnecessary cast to "Closeable".(„·™Üıÿÿÿÿ
+F
+java:S2093ø"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
+W	java:S125•	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+H
+java:S1905¬	",Remove this unnecessary cast to "Closeable".(Æ¥›×øÿÿÿÿ
+Q	java:S899­	";Do something with the "boolean" value returned by "delete".(©ê ®
+e
+java:S4042­	"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(©ê ®
+W	java:S125¯	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ô	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ö	"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125é	"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776”
+"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(êì½Çûÿÿÿÿ
+W	java:S125‘
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+U
+java:S1117š
+"9Rename "path" which hides the field declared at line 153.(Æ·€šıÿÿÿÿ
+O
+java:S1117¡
+"9Rename "path" which hides the field declared at line 153.(Œüá
+W	java:S125Ë
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ñ
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125×
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ù
+"<This block of commented-out lines of code should be removed.(İòó±
+i
+java:S3776å
+"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(âĞ˜Ô
+W	java:S125â
+"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(¸Ùò¶øÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+X
+java:S1117Ş"<Rename "classes" which hides the field declared at line 164.(Ë¬ÕĞùÿÿÿÿ
+U
+java:S1117ß">Rename "resources" which hides the field declared at line 168.(µä ë
+S
+java:S1117á"<Rename "zipFile" which hides the field declared at line 158.(›ìÈ
+B
+java:S1905Œ",Remove this unnecessary cast to "Closeable".(¾ı7
+B
+java:S1905«",Remove this unnecessary cast to "Closeable".(¾ı7
+R	java:S125è"<This block of commented-out lines of code should be removed.(Öª¯Ş
+W	java:S125¹"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ø"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S899š";Do something with the "boolean" value returned by "delete".(„ºˆöúÿÿÿÿ
+j
+java:S4042š"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(„ºˆöúÿÿÿÿ
+W	java:S125›"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±
+R	java:S125¿"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125ş"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+=
+java:S1168Ë"&Return an empty array instead of null.(¥¹ï
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+=
+java:S1168Ú"&Return an empty array instead of null.(¥¹ï
+W	java:S125á"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+ã
+java:S6541Ù"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 198 to 64, Complexity from 26 to 14, Nesting Level from 4 to 2, Number of Variables from 28 to 6.(¸Ùò¶øÿÿÿÿ

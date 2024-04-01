@@ -1,0 +1,24 @@
+
+t
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(Λ¤ώƒώÿÿÿÿ
+C
+java:S1659Ϊ"'Declare "pluginMgr" on a separate line.(Ò«ÿÿÿÿÿ
+€
+java:S1149F"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Λ¤ώƒώÿÿÿÿ
+
+java:S1149‚"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(™³κγώÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(έςσ±
+k
+java:S1206\"PThis class overrides "equals()" and should therefore also override "hashCode()".(¥Μν¥ύÿÿÿÿ
+€
+java:S1149F"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Λ¤ώƒώÿÿÿÿ
+V	java:S125o"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125~"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+D	java:S108ª")Either remove or fill this block of code.(ÒΜβ–ψÿÿÿÿ
+W	java:S125Λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Ρ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Χ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Ϋ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125λ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

@@ -1,0 +1,33 @@
+
+J
+java:S3740."/Provide the parametrized type for this generic.(õû‡²úÿÿÿÿ
+J
+java:S3740@"/Provide the parametrized type for this generic.(Ê½öşÿÿÿÿ
+E
+java:S3740g"/Provide the parametrized type for this generic.(÷ÈÀ¥
+J
+java:S3740~"/Provide the parametrized type for this generic.(ş„µÍüÿÿÿÿ
+‚
+java:S1319@"gThe type of "bindings" should be an interface such as "Map" rather than the implementation "Hashtable".(Ê½öşÿÿÿÿ
+}
+java:S1319g"gThe type of "bindings" should be an interface such as "Map" rather than the implementation "Hashtable".(÷ÈÀ¥
+Š
+java:S1319~"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(ş„µÍüÿÿÿÿ
+q
+java:S1149."VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(õû‡²úÿÿÿÿ
+q
+java:S1149@"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ê½öşÿÿÿÿ
+l
+java:S1149g"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(÷ÈÀ¥
+q
+java:S1149~"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ş„µÍüÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(İòó±
+V	java:S125E"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+Q	java:S125i"<This block of commented-out lines of code should be removed.(´«­¿
+V	java:S125l"<This block of commented-out lines of code should be removed.(¿ƒ–¶ıÿÿÿÿ
+Q	java:S125q"<This block of commented-out lines of code should be removed.(´«­¿
+V	java:S125u"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İòó±

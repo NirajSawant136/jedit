@@ -1,0 +1,16 @@
+
+:
+java:S11656"Make this "target" field final.(ÃÜÏŒøÿÿÿÿ
+:
+java:S11657"%Make this "inNativeCode" field final.(ÇÜ›>
+U
+java:S1161P":Add the "@Override" annotation above this method signature(ßÔü²þÿÿÿÿ
+U
+java:S1161W":Add the "@Override" annotation above this method signature(â«üåþÿÿÿÿ
+E	java:S106X"+Replace this use of System.err by a logger.(šá²‰øÿÿÿÿ
+P
+java:S1161[":Add the "@Override" annotation above this method signature(ßÞ»Ç
+Q
+java:S2479…":Remove the non-escaped \u0009 character from this literal.(ë²ª§
+Q
+java:S2479†":Remove the non-escaped \u0009 character from this literal.(È÷«½

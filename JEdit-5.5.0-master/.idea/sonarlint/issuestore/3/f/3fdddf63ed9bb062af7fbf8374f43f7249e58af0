@@ -1,0 +1,49 @@
+
+E
+java:S1121—".Extract the assignment out of this expression.(ΈΪΝσ
+E
+java:S1121΅".Extract the assignment out of this expression.(ωΖθ€
+K
+java:S1066’"/Merge this if statement with the enclosing one.(µύδύÿÿÿÿ
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Χ³ύÿÿÿÿ
+D
+java:S1604Φ"(Make this anonymous inner class a lambda(±χƒώÿÿÿÿ
+D
+java:S1604Μ"(Make this anonymous inner class a lambda(±χƒώÿÿÿÿ
+D
+java:S1604΅"(Make this anonymous inner class a lambda(Υ£µ·ώÿÿÿÿ
+F
+java:S2387Α"*"title" is the name of a field in "Frame".(΄Ίψÿÿÿÿ
+J
+java:S1948Γ".Make "historyModel" transient or serializable.(ÿΎϋψÿÿÿÿ
+Q	java:S125\"<This block of commented-out lines of code should be removed.(έςσ±
+V	java:S125q"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(™π¨
+n
+java:S3776μ"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(·ϊσψÿÿÿÿ
+W	java:S125ΰ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+Y
+java:S1117π"=Rename "shortURL" which hides the field declared at line 444.(Ω”Υάψÿÿÿÿ
+1
+java:S2112•"Use the URI class instead.(°Ωΐ
+W	java:S125υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ϊ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125―"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Ζ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125Υ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+R	java:S125Χ"<This block of commented-out lines of code should be removed.(έςσ±
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125΄"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125Κ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+8	java:S131Ò""Add a default case to this switch.(‘¶―
+W	java:S125ψ"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(Άντϋÿÿÿÿ

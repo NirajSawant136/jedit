@@ -1,0 +1,28 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ìé¼øÿÿÿÿ
+d
+java:S1192’"NDefine a constant instead of duplicating this literal "vfs.favorite." 9 times.(À±Ù
+c
+java:S1192™"GDefine a constant instead of duplicating this literal ".label" 3 times.(±Æöíÿÿÿÿÿ
+i
+java:S11922"NUse already-defined constant 'PROTOCOL' instead of duplicating its value here.(áü­üÿÿÿÿ
+]
+java:S1192–"FDefine a constant instead of duplicating this literal ".type" 3 times.(Ã×àé
+Q	java:S125 "<This block of commented-out lines of code should be removed.(İòó±
+@
+java:S3010:"%Remove this assignment of "instance".(ñõîÙşÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125B"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125J"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+V	java:S125m"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+T
+java:S1117|">Rename "favorites" which hides the field declared at line 228.(»•”
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
+R	java:S125å"<This block of commented-out lines of code should be removed.(İòó±
+W	java:S125‰"<This block of commented-out lines of code should be removed.(¢íôûÿÿÿÿ
